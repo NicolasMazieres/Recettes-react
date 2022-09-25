@@ -1,12 +1,14 @@
 import React, { useState, useEffect } from "react";
 
-export default function Navbar() {
+export default function Navbar(props) {
     const [isMenuClicked, setMenu] = useState("false");
     const [largeur, setLargeur] = useState(window.innerWidth);
 
     const menuClicked = () => {
         setMenu(!isMenuClicked);
     }
+
+    const {accueilClicked, entreesClicked, platsClicked, dessertsClicked} = props.setstate;
 
     useEffect(() => {
 
@@ -30,10 +32,10 @@ export default function Navbar() {
         <nav>
             {(isMenuClicked || largeur > 520) && (
                 <ul className="nav-list">
-                    <li className="nav-items">Accueil</li>
-                    <li className="nav-items">Entrées</li>
-                    <li className="nav-items">Plats</li>
-                    <li className="nav-items">Desserts</li>
+                    <li className="nav-items" onClick={() => accueilClicked()}>Accueil</li>
+                    <li className="nav-items" onClick={() => entreesClicked()}>Entrées</li>
+                    <li className="nav-items" onClick={() => platsClicked()}>Plats</li>
+                    <li className="nav-items" onClick={() => dessertsClicked()}>Desserts</li>
                 </ul>)
             }
             <button className="nav-button" onClick={menuClicked}>Menu</button>

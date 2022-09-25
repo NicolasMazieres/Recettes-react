@@ -1,0 +1,179 @@
+[
+    {
+        "name": "Cake au blanc d'œuf",
+        "ingredients": [
+            "Garniture au choix : 2 courgettes, tomates séchées, olives, poulet, chèvre, jambon, lardons, thon, 1 oignon, 2 échalotes, poivron, etc.",
+            "1 cuillère à soupe de beurre fondu",
+            "Épices (paprika, curry, cumin,...)",
+            "Sel, Poivre",
+            "65 g de gruyère râpé",
+            "40 q de farine",
+            "30 g de maïzena",
+            "1/2 sachet de levure chimique",
+            "3 blancs d'œufs"
+        ],
+        "recette": "Préchauffer le four à 170°C. Beurrer et fariner des moules à muffins ou un moule à cake. Dans un grand bol, mélanger la farine, la maïzena, la levure et les épices. Si vous utilisez du beurre, le faire fondre au micro-onde, mais sans le faire cuire. Dans un saladier, battre les blancs en neige ferme après y avoir mis 1 pincée de sel. Ensuite incorporer délicatement le mélange sec. On peut le faire soit à la maryse ou au batteur mais à la vitesse la plus faible. Incorporer ensuite l'huile ou le beurre. Finir par l'ajout du gruyère râpé, et des options. Mélanger délicatement à la spatule. Verser la préparation et cuire environ 20 min. Les gâteaux doivent être blonds, légèrement dorés."
+    },
+    {
+        "name": "Cake courgette lardons et chèvre",
+        "ingredients": [
+            "150 g de farine",
+            "1 sachet de levure",
+            "3 oeufs",
+            "12,5 cl de lait",
+            "2 courgettes",
+            "1 bûche de chèvre",
+            "100 g de comté râpé",
+            "100 g de lardons",
+            "4 cuillères à soupe d'huile (ou 2 de beurre fondu)",
+            "Sel, Poivre"
+        ],
+        "recette": "Préchauffer le four à 180°C. Découpez les courgettes en rondelles et passez-les au four à micro-ondes durant 4 mn pour les précuire. Versez-les ensuite dans une grande poêle anti-adhésive et continuez la cuisson jusqu'à ce qu'elles commencent à accrocher à la poêle (2 à 3 mn). Ajoutez alors les lardons, l'origan, salez, poivrez et laissez dorer. Dans un grand saladier, battez les 3 œufs et incorporez-y la farine, la levure, l'huile (ou beurre) et le lait préalablement chauffé. Ajoutez ensuite le gruyère râpé, les courgettes, les lardons et la brique de chèvre découpée en petits morceaux. Versez enfin l'ensemble dans un moule à cake puis déposez sur le dessus quelques lamelles supplémentaires de Comté pour gratiner et placez au four durant 45 mn."
+    },
+    {
+        "name": "Gratin de légumes",
+        "ingredients": [
+            "3 grosses aubergines",
+            "6 tomates",
+            "2 mozzarellas",
+            "Basilic",
+            "Fromage râpé",
+            "Sel, Poivre"
+        ],
+        "recette": "Couper les aubergines en rondelles et les faire frire dans l'huile puis les éponger dans du sopalin. Couper les tomates et la mozzarella en rondelles. Déposer dans un plat à gratin en alternant les ingrédients. Saupoudrer de basilic, sel, poivre et fromage râpé."
+    },
+    {
+        "name": "Roulé courgette saumon",
+        "ingredients": [
+            "3 courgettes",
+            "3 œufs",
+            "2 cuillerées à soupe de crème fraîche",
+            "50g de farine",
+            "Fromage frais à l'ail et aux fines herbes",
+            "12 tranches de saumon fumé",
+            "Sel, poivre",
+            "Huile d'olive"
+        ],
+        "recette": "Préchauffer le four à 200°C. Râper les courgettes. Faire les revenir dans un peu d'huile d'olive de façon à les faire rendre leur eau. Réserver. Séparer les blancs des jaunes. Battre les jaunes avec la crème fraîche et la farine. Incorporez délicatement les blancs battus en neige. Ajouter ensuite les courgettes râpées. Rectifiez l'assaisonnement. Versez le mélange dans un plat à roulé. Mettre au four environ 25 minutes. Démouler, puis étaler le fromage sur le roulé. Disposer ensuite les tranches de saumon. Rouler le gâteau en le serrant bien. Filmer et laissez 1 h au réfrigérateur minimum, vous pouvez le manger le lendemain."
+    },
+    {
+        "name": "Roulé de patate douce",
+        "ingredients": [
+            "1 patate douce",
+            "1 courgette",
+            "Chèvre frais",
+            "Tranches de dinde rôtie",
+            "3 œufs"
+        ],
+        "recette": "Préchauffer le four à 180°. Rincer, éplucher et râper la courgette et la patate douce. Les presser pour sortir le jus. Battre les œufs, saler, poivrer et ajouter les légumes. Étaler sur une plaque de cuisson, et faire cuire 20 à 25min à 180°C,il faudra pouvoir faire un roulé avec cette pâte, puis laisser refroidir. Étaler le chèvre et répartir les tranches de dinde, puis rouler le tout."
+    },
+    {
+        "name": "Oeuf cocotte",
+        "ingredients": [
+            "4 oeufs",
+            "4 tranches de bacon",
+            "20 cl de crème fraîche",
+            "Gruyère rapé",
+            "4 noisettes de beurre",
+            "Sel, Poivre"
+        ],
+        "recette": "Préchauffer le four à 240°C. Beurrer 4 ramequins. Couper les tranches de bacon en lanières (une tranche par ramequin) et les déposer dans le fond des ramequins. Casser un œuf dans chaque ramequin, déposer une ou deux cuillères à café de crème fraîche sur les œufs puis recouvrir de gruyère râpé. Mettre une noisette de beurre sur chaque ramequin et enfourner pendant 8 à 9 minutes."
+    },
+    {
+        "name": "Gratin de pâtes lardons champignons",
+        "ingredients": [
+            "150 g de pâtes",
+            "3 grosses échalotes",
+            "1/2 boite de champignon",
+            "200 g de lardons",
+            "75 g de gruyère",
+            "30 g de beurre",
+            "30 g de farine",
+            "37,5 cl de lait",
+            "Sel, Poivre"
+        ],
+        "recette": "Préchauffer à 210°C. Faire revenir les lardons et les oignons hachés sans matière grasse. Ajouter l'échalote hachée. Pendant ce temps faire cuire les pâtes à l'eau bouillante salée. Dans la poêle des lardons, ajouter les champignons hachés, laisser cuire à feu doux 10 min. Préparer la béchamel en faisant fondre le beurre, ajouter d'un seul coup la farine, laisser sur le feu doux jusqu'à ce que ça bouillonne. Hors du feu, ajouter le lait petit à petit en mélangeant vigoureusement au fouet. Remettre à chauffer pour épaissir. Y ajouter le gruyère râpé, saler, poivrer et parfumer de muscade. Mélanger ensemble la poêlée de lardons, les pâtes et la béchamel. Mettre le tout dans un plat et enfourner 20 minutes."
+    },
+    {
+        "name": "Sauce salade César",
+        "ingredients": [
+            "1 jaune d'oeuf",
+            "Sel, Poivre",
+            "Jus d'1/2 citron",
+            "Douzaine de câpres",
+            "1/2 gousse d'ail (petite)",
+            "1 cuillère à soupe d'huile d'olive",
+            "7 cl de crème fraîche liquide"           
+        ],
+        "recette": "Dans un saladier, mettre du sel, du poivre, un jaune d'oeuf, ajouter le jus d'1/2 citron. Ajouter une douzaine de câpres hachés, une 1/2 gousse d'un petit ail hachée. Ajouter une cuillère à soupe d'huile d'olive. Puis lier la sauce en ajoutant de la crème fraîche liquide. Pour la garniture, ajouter à convenance : poulet, parmesan, bacon, etc."
+    },
+    {
+        "name": "Lasagne saumon épinards",
+        "ingredients": [
+            "200g de saumon",
+            "1 barquette Findus d'épinards hachés à la crème surgelés (environ 200g)",
+            "20 ci de crème fraîche liquide",
+            "50g de farine",
+            "30g de beurre",
+            "1 paquet de lasagne fraîches",
+            "Lait (environ 200ml pour faire une béchamel liquide)",
+            "Fromage râpé",
+            "Sel, poivre"         
+        ],
+        "recette": "Préchauffer le four à 180°C. Faire cuire rapidement le saumon pour l'émietter. Faire la béchamel et y ajouter les épinards et le saumon. Remplir le fond du plat avec la pâte des lasagnes, ajouter la préparation et renouveler l'opération plusieurs fois (environ 3 fois) et finir par la préparation. Saupoudrer de fromage râpé et enfourner pendant 30 min."
+    },
+    {
+        "name": "Gratin de poissons au four",
+        "ingredients": [
+            "Filets de sol (4 par personnes)",
+            "Moules",
+            "Crevettes",
+            "30g de beurre",
+            "30g de farine",
+            "Crème fraîche",
+            "Court bouillon"           
+        ],
+        "recette": "frémissant pendant 5 min. Les mettre dans un plat à gratin en enlevant les pics, ajouter des crevettes décortiquées et quelques moules. Faire une béchamel avec l'eau du court bouillon au lieu du lait. Ajouter un peu de crème fraîche. Verser dans le plat, ajouter de la chapelure et du fromage râpé sur le dessus. Mettre au four à 180°C pendant 30 min."
+    },
+    {
+        "name": "Sauce aile de raie",
+        "ingredients": [
+            "1 grosse échalote",
+            "30g de beurre",
+            "1 cuillère à soupe de farine",
+            "100 à 150 mL du court-bouillon qui a servi à faire cuire la raie",
+            "1 pincée persil",
+            "1 cuillère à soupe de crème fraîche",
+            "Sel, Poivre"            
+        ],
+        "recette": "Émincer l'échalote, la faire blanchir dans le beurre. Ajouter la farine, laisser mousser puis sortir du feu. Ajouter petit à petit l'eau du court-bouillon. Assaisonner ajouter la crème fraîche."
+    },
+    {
+        "name": "Risotto aux champignons",
+        "ingredients": [
+            "250 g de champignon (des cèpes de préférence)",
+            "200 g de riz carnaroli",
+            "1 filet d'huile d'olive",
+            "1 noix de beurre",
+            "1 bouillon de légumes ou de poule (environ 50 cl)",
+            "20 d de vin blanc sec",
+            "1 cuillère à soupe de parmesan",
+            "1 oignon",
+            "1 gousse d'ail",
+            "1 échalote",
+            "2 brins de persil plat",
+            "1 pincée de sel et 1 pincée de poivre"            
+        ],
+        "recette": "Séparer les champignons en deux : une partie servira à élaborer le bouillon et cuire avec le riz. L'autre partie sera poêlée au dernier moment. Émincer un petit peu d'ail, d'échalote et de persil séparément et réserver. Nettoyer les champignons et les couper en morceaux. Faire blondir dans une casserole un demi-oignon émincé dans un mélange de beurre et d'huile d'olive. Ajouter et poêler les champignons. Ajouter du bouillon (assez pour nourrir le risotto). Laisser mijoter le bouillon pour qu'il s'imprègne bien du goût et des saveurs des champignons. Chauffer une nouvelle casserole (qui accueillera le risotto), ajouter un peu d'huile d'olive et de beurre que vous ferez blondir. Ajouter le riz carnaroli et remuer jusqu'à le rendre translucide (attention à la température, le riz ne doit pas coller). Déglacer avec un verre de vin blanc sec. Continuer à remuer pour que le riz n'adhère pas et laisser réduire l'alcool. Verser une louche de bouillon que vous avez laissé mijoter et continuer à remuer constamment jusqu'à l'absorption totale du riz. Réitérer l'étape jusqu'au point de cuisson (préférer al dente). Juste avant la fin, faire fondre du beurre et un peu d'huile d'olive dans une poêle tout en remuant le risotto. Faire blondir l'échalote émincée dans la poêle puis ajouter l'ail. Faire poêler les champignons tout en remuant le risotto, assaisonner et ajouter le persil émincé en fin de cuisson avec un tour de moulin à poivre puis réserver. Assaisonner le risotto juste avant la fin.Ciseler du persil et en parsemer au dessus puis ajouter le parmesan."
+    },
+    {
+        "name": "",
+        "ingredients": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "recette": ""
+    }
+]
