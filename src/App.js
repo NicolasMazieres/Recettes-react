@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from "react";
+import React, { useState } from "react";
 import Recipe from "./components/Recipe";
 import Navbar from "./components/Navbar";
 import entreeData from "./components/entreedata.json";
@@ -31,6 +31,7 @@ function App() {
   const entreeRecipes = entreejsonData.map((data, index) => {
     return <Recipe
       name={data.name}
+      details={data.details}
       ingredients={data.ingredients}
       recipe={data.recette}
       key={index}
@@ -40,6 +41,7 @@ function App() {
   const platRecipes = platjsonData.map((data, index) => {
     return <Recipe
       name={data.name}
+      details={data.details}
       ingredients={data.ingredients}
       recipe={data.recette}
       key={index}
@@ -49,6 +51,7 @@ function App() {
   const dessertRecipes = dessertjsonData.map((data, index) => {
     return <Recipe
       name={data.name}
+      details={data.details}
       ingredients={data.ingredients}
       recipe={data.recette}
       key={index}
@@ -86,10 +89,10 @@ function App() {
   return (
     <div className="appContainer">
       <Navbar setstate={{ accueilClicked, entreesClicked, platsClicked, dessertsClicked }} />
-        {contentShown == "Accueil" && viewAccueil}
-        {contentShown == "Entrées" && viewEntrees}
-        {contentShown == "Plats" && viewPlats}
-        {contentShown == "Desserts" && viewDesserts}
+      {contentShown === "Accueil" && viewAccueil}
+      {contentShown === "Entrées" && viewEntrees}
+      {contentShown === "Plats" && viewPlats}
+      {contentShown === "Desserts" && viewDesserts}
     </div>
   );
 }

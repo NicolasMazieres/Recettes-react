@@ -25,7 +25,7 @@ export default function Navbar(props) {
         return () => {
             window.removeEventListener('resize', changeWidth);
         }
-    })
+    }, [])
 
 
     return (

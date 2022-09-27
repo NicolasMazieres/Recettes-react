@@ -11,7 +11,8 @@
         "recette": "Préchauffez le four à 200°C. Dans une casserole, portez 2 verres d'eau froide avec le beurre et le sel. Faire chauffer et retirer du feu avant le premier bouillon. Hors du feu, ajoutez la farine d'un coup. Mélangez vivement à la cuillère en bois, et faites dessécher à feu doux jusqu'à ce que la masse se détache intégralement de la casserole. Laissez refroidir 2/3min , et incorporez les oeufs un par un en mélangeant bien. Ajoutez le gruyère râpé, le sel et le poivre. Déposez cette pâte en petits tas séparés, sur une plaque avec du papier cuisson. Enfournez 20/25 min en surveillant."
     },
     {
-        "name": "Bouchées à l'emmental (Pour environ 10 à 12 biscuits)",
+        "name": "Bouchées à l'emmental",
+        "details": "(Pour environ 10 à 12 biscuits)",
         "ingredients": [
             "50g de fromage râpé",
             "50g de farine",

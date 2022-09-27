@@ -88,3 +88,7 @@ nav {
 }
 
 /* CSS Body */
+
+.recipeName {
+  cursor: pointer;
+}
