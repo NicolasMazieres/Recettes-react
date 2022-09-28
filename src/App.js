@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Recipe from "./components/Recipe";
+import FilterForm from "./components/FilterForm";
 import Navbar from "./components/Navbar";
 import entreeData from "./components/entreedata.json";
 import platData from "./components/platdata.json";
@@ -7,6 +8,11 @@ import dessertData from "./components/dessertdata.json";
 
 function App() {
   const [contentShown, setContentShown] = useState('Accueil');
+  const [filterName, setName] = useState('');
+
+  function handleChange(e) {
+      setName(e.target.value);
+  }
 
   const accueilClicked = () => {
     setContentShown("Accueil");
@@ -89,6 +95,7 @@ function App() {
   return (
     <div className="appContainer">
       <Navbar setstate={{ accueilClicked, entreesClicked, platsClicked, dessertsClicked }} />
+      {contentShown !== "Accueil" && <FilterForm formname={filterName} setname={handleChange}/>}
       {contentShown === "Accueil" && viewAccueil}
       {contentShown === "Entrées" && viewEntrees}
       {contentShown === "Plats" && viewPlats}
