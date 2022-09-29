@@ -30,7 +30,7 @@ export default function Recipe(props) {
     return (
         <div>
             <h2 className="recipeName" onClick={() => recipeClicked()}>{props.name}</h2>
-            {!isTextVisible && recipeText};
+            {!isTextVisible && recipeText}
         </div>
     );
 }

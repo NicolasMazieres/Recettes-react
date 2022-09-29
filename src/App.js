@@ -74,33 +74,41 @@ function App() {
     })
 
   const viewAccueil = (
-    <div className="accueilContainer">
-      <h1>Accueil</h1>
+    <div className="bodyContainer">
+      <div className="pageTitleContainer">
+        <h1>Accueil</h1>
+      </div>
     </div>
   )
 
   const viewEntrees = (
-    <div className="entreeContainer">
-      <h1>Entrées</h1>
-      <FilterForm formname={filterName} handleChange={handleChange}/>
+    <div className="bodyContainer">
+      <div className="pageTitleContainer">
+        <h1>Entrées</h1>
+        <FilterForm formname={filterName} handleChange={handleChange} />
+      </div>
       {entreeRecipes}
     </div>
   )
 
   const viewPlats = (
-    <div className="platContainer">
-      <h1>Plats</h1>
-      <FilterForm formname={filterName} handleChange={handleChange}/>
+    <div className="bodyContainer">
+      <div className="pageTitleContainer">
+        <h1>Plats</h1>
+        <FilterForm formname={filterName} handleChange={handleChange} />
+      </div>
       {platRecipes}
     </div>
   )
 
   const viewDesserts = (
-    <div className="dessertContainer">
-      <h1>Desserts</h1>
-      <FilterForm formname={filterName} handleChange={handleChange}/>
+    <div className="bodyContainer">
+      <div className="pageTitleContainer">
+        <h1>Desserts</h1>
+        <FilterForm formname={filterName} handleChange={handleChange} />
+      </div>
       {dessertRecipes}
-    </div>
+    </div >
   )
 
 

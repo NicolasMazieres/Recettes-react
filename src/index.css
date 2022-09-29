@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(209, 212, 211);
 }
 
 code {
@@ -81,13 +82,79 @@ nav {
   }
 
   .nav-button:hover {
-    color:rgba(4, 1, 59, 1);
+    color: rgba(4, 1, 59, 1);
     border-radius: 10%;
   }
 
 }
 
-/* CSS Body */
+/* CSS rest of page */
+
+.pageTitleContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.pageTitleContainer h1 {
+  width: 70%;
+  text-align: center;
+  padding-left: 15%;
+}
+
+.filterForm {
+  width: 15%;
+  font-size: 14px;
+  padding-top: 10px;
+}
+
+input{
+  width: 100%;
+  box-sizing:border-box;
+ }
+
+.bodyContainer {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  width: 96%;
+  background-color: rgb(209, 212, 211);
+  margin: 0 auto;
+  padding: 0 2%;
+}
+
+.recipeContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+h3 {
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  padding-inline: 20px;
+}
+
+.ingredients {
+  width: 30%;
+  text-align: justify;
+  margin-right: 20px;
+}
+
+.ingredients ul {
+  list-style-type: square;
+}
+
+.texteRecette {
+  width: 40%;
+  text-align: justify;
+}
 
 .recipeName {
   cursor: pointer;

@@ -3,7 +3,7 @@ import React from "react";
 function FilterForm(props) {
 
     return (
-        <form>
+        <form className="filterForm">
             <label>
                 Rechercher recette : 
                 <input
