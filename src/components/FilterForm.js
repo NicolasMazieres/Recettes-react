@@ -9,7 +9,7 @@ function FilterForm(props) {
                 <input
                     autoComplete="off"
                     value={props.formname}
-                    onChange={props.setname}
+                    onChange={(e) => props.handleChange(e)}
                 />
             </label>
         </form>

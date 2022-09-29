@@ -11,7 +11,7 @@ function App() {
   const [filterName, setName] = useState('');
 
   function handleChange(e) {
-      setName(e.target.value);
+    setName(e.target.value);
   }
 
   const accueilClicked = () => {
@@ -20,49 +20,58 @@ function App() {
 
   const entreesClicked = () => {
     setContentShown("Entrées");
+    setName("");
   }
 
   const platsClicked = () => {
     setContentShown("Plats");
+    setName("");
   }
 
   const dessertsClicked = () => {
     setContentShown("Desserts");
+    setName("");
   }
 
   const entreejsonData = JSON.parse(JSON.stringify(entreeData));
   const platjsonData = JSON.parse(JSON.stringify(platData));
   const dessertjsonData = JSON.parse(JSON.stringify(dessertData));
 
-  const entreeRecipes = entreejsonData.map((data, index) => {
-    return <Recipe
-      name={data.name}
-      details={data.details}
-      ingredients={data.ingredients}
-      recipe={data.recette}
-      key={index}
-    />;
-  })
+  const entreeRecipes = entreejsonData
+    .filter((data) => data.name.toLowerCase().includes(filterName.toLowerCase()))
+    .map((data, index) => {
+      return <Recipe
+        name={data.name}
+        details={data.details}
+        ingredients={data.ingredients}
+        recipe={data.recette}
+        key={index}
+      />;
+    })
 
-  const platRecipes = platjsonData.map((data, index) => {
-    return <Recipe
-      name={data.name}
-      details={data.details}
-      ingredients={data.ingredients}
-      recipe={data.recette}
-      key={index}
-    />;
-  })
+  const platRecipes = platjsonData
+    .filter((data) => data.name.toLowerCase().includes(filterName.toLowerCase()))
+    .map((data, index) => {
+      return <Recipe
+        name={data.name}
+        details={data.details}
+        ingredients={data.ingredients}
+        recipe={data.recette}
+        key={index}
+      />;
+    })
 
-  const dessertRecipes = dessertjsonData.map((data, index) => {
-    return <Recipe
-      name={data.name}
-      details={data.details}
-      ingredients={data.ingredients}
-      recipe={data.recette}
-      key={index}
-    />;
-  })
+  const dessertRecipes = dessertjsonData
+    .filter((data) => data.name.toLowerCase().includes(filterName.toLowerCase()))
+    .map((data, index) => {
+      return <Recipe
+        name={data.name}
+        details={data.details}
+        ingredients={data.ingredients}
+        recipe={data.recette}
+        key={index}
+      />;
+    })
 
   const viewAccueil = (
     <div className="accueilContainer">
@@ -73,6 +82,7 @@ function App() {
   const viewEntrees = (
     <div className="entreeContainer">
       <h1>Entrées</h1>
+      <FilterForm formname={filterName} handleChange={handleChange}/>
       {entreeRecipes}
     </div>
   )
@@ -80,6 +90,7 @@ function App() {
   const viewPlats = (
     <div className="platContainer">
       <h1>Plats</h1>
+      <FilterForm formname={filterName} handleChange={handleChange}/>
       {platRecipes}
     </div>
   )
@@ -87,6 +98,7 @@ function App() {
   const viewDesserts = (
     <div className="dessertContainer">
       <h1>Desserts</h1>
+      <FilterForm formname={filterName} handleChange={handleChange}/>
       {dessertRecipes}
     </div>
   )
@@ -95,7 +107,6 @@ function App() {
   return (
     <div className="appContainer">
       <Navbar setstate={{ accueilClicked, entreesClicked, platsClicked, dessertsClicked }} />
-      {contentShown !== "Accueil" && <FilterForm formname={filterName} setname={handleChange}/>}
       {contentShown === "Accueil" && viewAccueil}
       {contentShown === "Entrées" && viewEntrees}
       {contentShown === "Plats" && viewPlats}
