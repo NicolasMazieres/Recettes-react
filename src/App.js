@@ -46,6 +46,7 @@ function App() {
         ingredients={data.ingredients}
         recipe={data.recette}
         key={index}
+        image={data.image}
       />;
     })
 
@@ -58,6 +59,7 @@ function App() {
         ingredients={data.ingredients}
         recipe={data.recette}
         key={index}
+        image={data.image}
       />;
     })
 
@@ -70,6 +72,7 @@ function App() {
         ingredients={data.ingredients}
         recipe={data.recette}
         key={index}
+        image={data.image}
       />;
     })
 
@@ -87,7 +90,9 @@ function App() {
         <h1>Entrées</h1>
         <FilterForm formname={filterName} handleChange={handleChange} />
       </div>
-      {entreeRecipes}
+      <div className="recipesDesign">
+        {entreeRecipes}
+      </div>
     </div>
   )
 
@@ -97,7 +102,9 @@ function App() {
         <h1>Plats</h1>
         <FilterForm formname={filterName} handleChange={handleChange} />
       </div>
+      <div className="recipesDesign">
       {platRecipes}
+      </div>
     </div>
   )
 
@@ -107,7 +114,9 @@ function App() {
         <h1>Desserts</h1>
         <FilterForm formname={filterName} handleChange={handleChange} />
       </div>
+      <div className="recipesDesign">
       {dessertRecipes}
+      </div>
     </div >
   )
 

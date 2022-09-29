@@ -105,13 +105,26 @@ nav {
 .filterForm {
   width: 15%;
   font-size: 14px;
-  padding-top: 10px;
+  align-self: center;
 }
 
-input{
+input {
   width: 100%;
-  box-sizing:border-box;
- }
+  box-sizing: border-box;
+}
+
+.recipesDesign {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10%;
+}
+
+.recipeName {
+  cursor: pointer;
+  text-align: center;
+}
 
 .bodyContainer {
   display: flex;
@@ -142,9 +155,8 @@ li {
 }
 
 .ingredients {
-  width: 30%;
+  flex-basis: 25%;
   text-align: justify;
-  margin-right: 20px;
 }
 
 .ingredients ul {
@@ -152,10 +164,29 @@ li {
 }
 
 .texteRecette {
-  width: 40%;
+  flex-basis: 40%;
   text-align: justify;
 }
 
-.recipeName {
-  cursor: pointer;
+.imgRecette {
+  flex-basis: 35%;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-self: center;
+}
+
+.imgRecette img{
+  object-fit: contain;
+  max-height: 80%;
+  max-width: 80%;
+  border-radius: 20%;
+}
+
+.imageContainer img{
+  width: 250px;
+  max-height: 250px;
+  border-radius: 20%;
 }
