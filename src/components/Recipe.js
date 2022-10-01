@@ -41,7 +41,7 @@ export default function Recipe(props) {
     return (
         <div className="imageContainer">
             <h2 className="recipeName" onClick={() => recipeOpen()}>{props.name}</h2>
-            {isTextHidden && <img src={props.image} alt="Oups non disponible" />}
+            {isTextHidden && <img src={props.image} alt="Oups non disponible" onClick={() => recipeOpen()} />}
             {!isTextHidden && recipeText}
         </div>
     );

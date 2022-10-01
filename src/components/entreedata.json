@@ -14,6 +14,7 @@
     {
         "name": "Bouchées à l'emmental",
         "details": "(Pour environ 10 à 12 biscuits)",
+        "image":"images/bouchee-emmental.jpg",
         "ingredients": [
             "50g de fromage râpé",
             "50g de farine",
@@ -24,6 +25,7 @@
     },
     {
         "name": "Soupe champignons",
+        "image":"images/soupe-aux-champignons.jpg",
         "ingredients": [
             "1 barquette de champignon de Paris",
             "4 pommes de terre moyennes",
@@ -38,6 +40,7 @@
     },
     {
         "name": "Soupe à la courgette",
+        "image":"images/soupe-de-courgette.jpg",
         "ingredients": [
             "800 g de courgette",
             "2 oignons",
@@ -50,6 +53,7 @@
     },
     {
         "name": "Soupe au potimarron",
+        "image":"images/soupe-potimarron.jpg",
         "ingredients": [
             "1 potimarron",
             "2 pommes de terre",
@@ -64,6 +68,7 @@
     },
     {
         "name": "Soupe aux poireaux",
+        "image":"images/soupe-poireaux.jpg",
         "ingredients": [
             "1 poireau",
             "2 pommes de terre",
@@ -77,6 +82,7 @@
     },
     {
         "name": "Roulés jambon ou saumon",
+        "image":"images/roule-jambon-fromage.jpg",
         "ingredients": [
             "Galettes de fajitas",
             "Tranches de jambon ou saumon",
@@ -89,6 +95,7 @@
     },
     {
         "name": "",
+        "image":"",
         "ingredients": [
             "",
             "",
