@@ -1,7 +1,7 @@
 [
     {
         "name": "Cake au blanc d'œuf",
-        "image":"images/cake-sale.jpg",
+        "image": "images/cake-sale.jpg",
         "ingredients": [
             "Garniture au choix : 2 courgettes, tomates séchées, olives, poulet, chèvre, jambon, lardons, thon, 1 oignon, 2 échalotes, poivron, etc.",
             "1 cuillère à soupe de beurre fondu",
@@ -17,7 +17,7 @@
     },
     {
         "name": "Cake courgette lardons et chèvre",
-        "image":"images/cake-courgettes-chevre.jpg",
+        "image": "images/cake-courgettes-chevre.jpg",
         "ingredients": [
             "150 g de farine",
             "1 sachet de levure",
@@ -34,7 +34,7 @@
     },
     {
         "name": "Gratin de légumes",
-        "image":"images/gratin-legumes.jpg",
+        "image": "images/gratin-legumes.jpg",
         "ingredients": [
             "3 grosses aubergines",
             "6 tomates",
@@ -47,7 +47,7 @@
     },
     {
         "name": "Roulé courgette saumon",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
             "3 courgettes",
             "3 œufs",
@@ -62,7 +62,7 @@
     },
     {
         "name": "Roulé de patate douce",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
             "1 patate douce",
             "1 courgette",
@@ -74,7 +74,7 @@
     },
     {
         "name": "Oeuf cocotte",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
             "4 oeufs",
             "4 tranches de bacon",
@@ -87,7 +87,7 @@
     },
     {
         "name": "Gratin de pâtes lardons champignons",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
             "150 g de pâtes",
             "3 grosses échalotes",
@@ -103,7 +103,7 @@
     },
     {
         "name": "Sauce salade César",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
             "1 jaune d'oeuf",
             "Sel, Poivre",
@@ -111,13 +111,13 @@
             "Douzaine de câpres",
             "1/2 gousse d'ail (petite)",
             "1 cuillère à soupe d'huile d'olive",
-            "7 cl de crème fraîche liquide"           
+            "7 cl de crème fraîche liquide"
         ],
         "recette": "Dans un saladier, mettre du sel, du poivre, un jaune d'oeuf, ajouter le jus d'1/2 citron. Ajouter une douzaine de câpres hachés, une 1/2 gousse d'un petit ail hachée. Ajouter une cuillère à soupe d'huile d'olive. Puis lier la sauce en ajoutant de la crème fraîche liquide. Pour la garniture, ajouter à convenance : poulet, parmesan, bacon, etc."
     },
     {
         "name": "Lasagne saumon épinards",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
             "200g de saumon",
             "1 barquette Findus d'épinards hachés à la crème surgelés (environ 200g)",
@@ -127,13 +127,13 @@
             "1 paquet de lasagne fraîches",
             "Lait (environ 200ml pour faire une béchamel liquide)",
             "Fromage râpé",
-            "Sel, poivre"         
+            "Sel, poivre"
         ],
         "recette": "Préchauffer le four à 180°C. Faire cuire rapidement le saumon pour l'émietter. Faire la béchamel et y ajouter les épinards et le saumon. Remplir le fond du plat avec la pâte des lasagnes, ajouter la préparation et renouveler l'opération plusieurs fois (environ 3 fois) et finir par la préparation. Saupoudrer de fromage râpé et enfourner pendant 30 min."
     },
     {
         "name": "Gratin de poissons au four",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
             "Filets de sol (4 par personnes)",
             "Moules",
@@ -141,13 +141,13 @@
             "30g de beurre",
             "30g de farine",
             "Crème fraîche",
-            "Court bouillon"           
+            "Court bouillon"
         ],
         "recette": "frémissant pendant 5 min. Les mettre dans un plat à gratin en enlevant les pics, ajouter des crevettes décortiquées et quelques moules. Faire une béchamel avec l'eau du court bouillon au lieu du lait. Ajouter un peu de crème fraîche. Verser dans le plat, ajouter de la chapelure et du fromage râpé sur le dessus. Mettre au four à 180°C pendant 30 min."
     },
     {
         "name": "Sauce aile de raie",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
             "1 grosse échalote",
             "30g de beurre",
@@ -155,13 +155,13 @@
             "100 à 150 mL du court-bouillon qui a servi à faire cuire la raie",
             "1 pincée persil",
             "1 cuillère à soupe de crème fraîche",
-            "Sel, Poivre"            
+            "Sel, Poivre"
         ],
         "recette": "Émincer l'échalote, la faire blanchir dans le beurre. Ajouter la farine, laisser mousser puis sortir du feu. Ajouter petit à petit l'eau du court-bouillon. Assaisonner ajouter la crème fraîche."
     },
     {
         "name": "Risotto aux champignons",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
             "250 g de champignon (des cèpes de préférence)",
             "200 g de riz carnaroli",
@@ -174,13 +174,325 @@
             "1 gousse d'ail",
             "1 échalote",
             "2 brins de persil plat",
-            "1 pincée de sel et 1 pincée de poivre"            
+            "1 pincée de sel et 1 pincée de poivre"
         ],
         "recette": "Séparer les champignons en deux : une partie servira à élaborer le bouillon et cuire avec le riz. L'autre partie sera poêlée au dernier moment. Émincer un petit peu d'ail, d'échalote et de persil séparément et réserver. Nettoyer les champignons et les couper en morceaux. Faire blondir dans une casserole un demi-oignon émincé dans un mélange de beurre et d'huile d'olive. Ajouter et poêler les champignons. Ajouter du bouillon (assez pour nourrir le risotto). Laisser mijoter le bouillon pour qu'il s'imprègne bien du goût et des saveurs des champignons. Chauffer une nouvelle casserole (qui accueillera le risotto), ajouter un peu d'huile d'olive et de beurre que vous ferez blondir. Ajouter le riz carnaroli et remuer jusqu'à le rendre translucide (attention à la température, le riz ne doit pas coller). Déglacer avec un verre de vin blanc sec. Continuer à remuer pour que le riz n'adhère pas et laisser réduire l'alcool. Verser une louche de bouillon que vous avez laissé mijoter et continuer à remuer constamment jusqu'à l'absorption totale du riz. Réitérer l'étape jusqu'au point de cuisson (préférer al dente). Juste avant la fin, faire fondre du beurre et un peu d'huile d'olive dans une poêle tout en remuant le risotto. Faire blondir l'échalote émincée dans la poêle puis ajouter l'ail. Faire poêler les champignons tout en remuant le risotto, assaisonner et ajouter le persil émincé en fin de cuisson avec un tour de moulin à poivre puis réserver. Assaisonner le risotto juste avant la fin.Ciseler du persil et en parsemer au dessus puis ajouter le parmesan."
     },
     {
+        "name": "Beignets de courgette",
+        "details": "(Pour 4 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "6 petites courgettes ou 3 grosses",
+            "1 oeuf",
+            "100g de farine",
+            "Environ 150 mL d'eau",
+            "Huile"
+        ],
+        "recette": "Couper les courgettes et les faire revenir à la poêle, les écraser à la fourchette et bien les dessécher. Battre l'oeuf avec la farine et saler poivrer. Délayer avec l'eau pour avoir une texture de pâte à crêpes très épaisse. Ajouter les courgettes et faire cuire des petits tas dans une poêle bien huilée, puis essorer dans du papier absorbant."
+    },
+    {
+        "name": "Poisson en papillote",
+        "image": "images/.jpg",
+        "ingredients": [
+            "1/2 filet de saumon ou dorade ou bar",
+            "1 citron",
+            "Beurre",
+            "Aneth ou persil",
+            "Sel, poivre"
+        ],
+        "recette": "Préchauffer le four à 180°C. Mettre le poisson sur une feuille de papier sulfurisé. Arroser d'un filet de citron, parsemer d'aneth ou de persil. Mettre 2 noix de beurre, assaisonner (ajouter éventuellement des rondelles de tomates sur le poisson). Mettre une deuxième feuille de papier sulfurisé pour fermer. Plier les bords et les tenir avec des trombones. Cuire 20 min à 180°C."
+    },
+    {
+        "name": "Crumble de légumes et lardons",
+        "image": "images/.jpg",
+        "ingredients": [
+            "1 courgette",
+            "2 poireaux",
+            "4 carottes",
+            "180 g de lardons",
+            "80 g de beurre",
+            "1 gros oignon",
+            "Sel, poivre",
+            "120 g de farine de blé",
+            "80 g d'amandes en poudre"
+        ],
+        "recette": "Préchauffez le four à 220°C. Sortez le beurre du frigo pour le faire ramollir. Lavez les légumes, Coupez la courgette en dés. Émincez les poireaux. Pelez et hachez l'oignon. Pelez et coupez les carottes en fins bâtonnets. Dans une grande sauteuse (ou un wok), faites revenir les lardons et l'oignon 2 minutes à feu vif. Ajoutez les légumes et faites revenir le tout pendant 8 minutes en remuant souvent, salez si nécessaire et poivrez. Dans un saladier, mélangez à la main la farine, le beurre mou et la poudre d'amande. Travaillez la pâte du bout des doigts jusqu'à obtenir un mélange sablonneux. Versez les légumes dans un plat à gratin et recouvrez-les de cette préparation. Faites gratiner 20 minutes au four."
+    },
+    {
+        "name": "Moussaka",
+        "details": "(Pour 4 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "2 aubergines",
+            "6 pommes de terre",
+            "500 g de boeuf haché",
+            "5 tomates (~ 1/2 brique de coulis de tomate)",
+            "1 oignon",
+            "Huile d'olive",
+            "30 g de beurre",
+            "1 petite cuillère de cannelle",
+            "1 cuillère à soupe de miel",
+            "Muscade",
+            "Sel, Poivre",
+            "Pour la béchamel: 20 g de beurre, 3 cuillères à soupe de farine, 35 cl de lait et 1 oeuf"
+        ],
+        "recette": "Préparation de la sauce tomate: émincer les oignons et les faire blondir dans une petite casserole. Ajouter les tomates coupées en gros dés et 2 bonnes cuillères à soupe d'huile d'olive, la cannelle, le miel, saler et poivrer. Laisser réduire le tout 25 minutes (ou plus, jusqu'à arriver à la préparation de la viande) à feu moyen. On doit obtenir une sauce, que l'on peut homogénéiser avec du coulis de tomate tout prêt. Préparation des aubergines : couper les aubergines en rondelles (sans les peler), saler généreusement, et les laisser dégorger le temps de l'étape suivante. Conseil pour faire dégorger les aubergines : dans un plat, alterner une couche de tranches d'aubergine salées et une couche de papier absorbant ou les laisser dans une passoire. Préparation des pommes de terre : éplucher et découper les pommes de terre en fines rondelles et les disposer au fond d'un plat à gratin assez haut, huilé. Arroser les pommes de terre d'un peu (3 cuillères à soupe) du jus rendu par les tomates qui mijotent. Passer le plat de pommes de terre sous le grill 5 à 15 min selon votre four, pour qu'elles dorent. Maintenant qu'elles ont dégorgé, passer les rondelles d'aubergine à la poêle huilée à feu fort pour les faire griller un peu de chaque côté, réserver. Préparation de la viande: dans un faitout, faire revenir la viande hachée au beurre à feu assez fort, saler, poivrer et retirer l'eau rendue par la viande. Ajouter la sauce tomate-oignons et baisser le feu (très doux). Sortir le plat de pommes de terre du four et préchauffer le four à 200°C. Préparation de la béchamel : dans une petite casserole sur feu doux, faire blondir le beurre, ajouter la farine et mélanger pour obtenir un appareil homogène. Incorporer petit à petit le lait en n'arrêtant jamais de remuer; ajouter le jaune d' ouf; on doit obtenir une sauce assez épaisse. Ajouter le blanc d'oeuf monté en neige. Saler, poivrer et râper un peu de noix de muscade. Pour le montage, par dessus la couche de pommes de terre, étaler la moitié de la viande hachée avec la tomate, puis la moitié des aubergines, puis l'autre moitié de viande, puis l'autre moitié des aubergines, un filet d'huile d'olive et terminer par la béchamel. Enfourner le tout dans le four à 200°C et laisser cuire 1h (la béchamel doit croustiller et être dorée)."
+    },
+    {
+        "name": "Poulet curry",
+        "image": "images/.jpg",
+        "ingredients": [
+            "1 escalope de poulet par personne",
+            "2 échalotes",
+            "1 cuillère de café rase de curry",
+            "Sel, poivre",
+            "1 cuillère à café de moutarde",
+            "Crème fraîche liquide"
+        ],
+        "recette": "Couper le poulet en petits morceaux et le faire rissoler dans du beurre jusqu'à coloration. Retirer le poulet de la poêle et y mettre à feu doux les échalotes. Ajouter le curry et la moutarde délayée avec un peu de crème fraîche pour une consistance liquide (il est possible de remplacer/rajouter du lait de coco). Ajouter le poulet au mélange et faire mijoter 5 minutes."
+    },
+    {
+        "name": "Pommes cuites",
+        "image": "images/.jpg",
+        "ingredients": [
+            "2 pommes par personne",
+            "Beurre salé",
+            "Crème fraîche",
+            "Sucre roux"
+        ],
+        "recette": "Éplucher et couper les pommes en gros quartiers. Faire griller dans du beurre tous les côtés à feu vif. Ensuite baisser le feu et laisser ramollir les pommes avec un couvercle environ 10 min. Saupoudrer d'une cuillère café de sucre roux et 1 pincée de sel, puis déglacer avec de la crème fraîche liquide."
+    },
+    {
+        "name": "Frites de patate douce",
+        "details": "(Pour 4 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "2 patates douces",
+            "1 cuillère à café de sel",
+            "1 cuillère à café de poivre",
+            "1 cuillère à café de paprika",
+            "4 cuillères à soupe d'huile d'olive",
+            "Thym"
+        ],
+        "recette": "Préchauffer le four à 210°C. Lavez les pommes de terre et coupez-les en bâtonnets. Mettez-les dans un saladier et ajoutez le sel, le poivre, le paprika, et l'huile d'olive. Mélangez bien pour que les frites soient bien enrobées, bien assaisonnées. Étalez sur une plaque avec du papier cuisson. Enfournez pour 30 à 35 minutes de cuisson, chaleur tournante."
+    },
+    {
+        "name": "Riz cantonais",
+        "image": "images/.jpg",
+        "ingredients": [
+            "Riz basmati (60g par personne)",
+            "OEufs (1 par personne)",
+            "50g de lardons par personne",
+            "1 oignon pour 2 personnes",
+            "Quelques petits pois surgelés",
+            "Sauces soja sucrée et salée",
+            "Huile d'olive"
+        ],
+        "recette": "Faire revenir l'oignon et les lardons, réserver dans un bol. Mettre de l'eau salée à bouillir. Dans la poêle encore grasse, faire une omelette avec les œufs. Une fois cuite, la découper en petites lamelles et ajouter au bol d'oignons et lardons. Ajouter le riz à l'eau bouillante. Faire cuire les petits pois dans la poêle. Une fois le riz cuit, mélanger avec l'huile d'olive, les lardons, les oignons, l’omelette tranchée et les petits pois dans une grande poêle ou autre sur feu doux. Ajouter un peu de sauce soja. Servir chaud."
+    },
+    {
+        "name": "Samoussa au poulet et à la féta",
+        "details": "(Pour 4 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "10 feuilles de brick",
+            "300 g de blanc de poulet",
+            "150 g de feta",
+            "1 échalote",
+            "15 cl de crème liquide",
+            "30 cl de bouillon de légumes",
+            "Huile d'olive",
+            "Sel, Poivre"
+        ],
+        "recette": "Dans une casserole, mettre à ébullition le bouillon de légume, y ajouter le poulet coupé en petites aiguillettes. Laisser cuire à petit bouillon 5 min. Égoutter. Dans une poêle, faire revenir l'échalote émincée dans de l'huile d'olive. Quand elle devient transparente, y ajouter le poulet coupé en tout petits morceaux. Cuire 5 min. Ajouter la crème liquide, du sel et du poivre et mélanger le tout. Émietter la feta dans un grand bol, y ajouter le poulet et mélanger. Préparer les samoussas : garnir les feuilles de brick d'un peu de préparation et plier selon votre habitude. Faire chauffer de l'huile d'olive dans une poêle, y faire revenir les samoussas 2 min de chaque côté. Servir bien chaud avec une salade verte."
+    },
+    {
+        "name": "Boulettes de bœuf",
+        "image": "images/.jpg",
+        "ingredients": [
+            "100g viande hachée (ou steak haché) par personne",
+            "Échalote",
+            "Persil (à hacher si frais)",
+            "Cumin en poudre",
+            "Coriandre",
+            "Sel poivre"
+        ],
+        "recette": "Faire revenir la ou les échalotes dans une poêle, laisser refroidir un peu Ensuite mélanger la viande et tous les ingrédients et rouler des boulettes (environ 4 pour 100g de viande) Faire cuire dans une poêle beurrée à feu moyen-vif, ne pas hésiter à laisser cuire 10-15 min pour que l'intérieur de la boulette cuise bien."
+    },
+    {
+        "name": "Poulet croustillant",
+        "image": "images/.jpg",
+        "ingredients": [
+            "Farine",
+            "1 cuillère à café de paprika",
+            "1 pincée de sel et poivre",
+            "Poulet (100g par personne)",
+            "Cornflakes non sucrés (ou chapelure)",
+            "1 œuf pour 4 filets",
+            "1 cuillère à soupe de lait",
+            "Huile friture"
+        ],
+        "recette": "Mélanger la farine, le sel, le poivre et le paprika. Dans un autre récipient, battre l'œuf et le lait. Mettre les cornflakes dans un 3ème récipient. Couper le poulet en lamelles pas trop fines. Tremper le poulet dans la farine. Tremper ensuite le poulet dans le mélange oeuf lait. Puis le tremper dans les corn flakes. Faire chauffer de l'huile (un fond dans une poêle) à feu moyen. Une fois l'huile chaude, faire cuire le poulet en le retournant pour faire bien dorer toutes les faces."
+    },
+    {
+        "name": "Chakchouka",
+        "details": "(Pour 4 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "4 oignons",
+            "4-6 tomates",
+            "4 poivrons",
+            "1 chorizo",
+            "4 œufs",
+            "Cumin et coriandre",
+            "Sel poivre"
+        ],
+        "recette": "Sortir les œufs du frigo. Couper les oignons et les poivrons en fines lamelles. Faire revenir les oignons dans de l'huile d'olive dans un poêlon assez grand puis une fois dorés ajouter les poivrons. Pendant ce temps couper les tomates. Une fois les poivrons bien cuits, ajouter les tomates et cuire à feu plus doux, couvrir le poêlon. Pendant la cuisson à feu doux, faire cuire dans une petite poêle à part le chorizo coupé en petits morceaux puis jeter le gras rendu. Ajouter le chorizo cuit au mélange tomate poivron-oignon. Ajouter cumin, sel et poivre. Laisser cuire un peu (plus ça cuit meilleur c'est). En fin de cuisson, ajouter les œufs comme des œufs au plat sur l'ensemble et recouvrir. Lorsque les œufs sont cuits mais encore coulants, décorer d'un peu de coriandre et servir."
+    },
+    {
+        "name": "Taboulé",
+        "details": "(Pour 4 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "Semoule (voir paquet pour quantité)",
+            "3 tomates ou 2 tomates + 1 concombre",
+            "3-4 petits oignons nouveaux",
+            "Persil frais (demi botte)",
+            "Menthe fraîche",
+            "3 citrons",
+            "Huile d'olive"
+        ],
+        "recette": "Faire cuire la semoule selon les instructions du paquet puis laisser reposer. Ajouter un filet d'huile d'olive dans la semoule. Presser les citrons et ajouter le jus à la semoule. Couper les tomates en petits dés et les ajouter au tout. De même pour les oignons nouveaux. Hacher menthe l'ensemble. et persil puis mélanger Réserver au frais avant dégustation."
+    },
+    {
+        "name": "Veau (ou poulet) aux asperges",
+        "details": "(Pour 4 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "400 g de veau ou poulet",
+            "Beurre",
+            "1 trait d'huile d'olive",
+            "20 cl de crème fraîche",
+            "1 cuillère à soupe de moutarde à l'ancienne",
+            "1 oignon",
+            "8 asperges vertes",
+            "20 champignons de Paris"
+        ],
+        "recette": "Dans une poêle, verser un trait d'huile d'olive, laisser chauffer, ciseler l'oignon, l'ajouter et le faire suer. Tailler les queues des asperges pour retirer le bout qui est trop dur, garder les pointes à 5 cm de long, couper le cour en biseaux de 1 cm de large. Ajouter les têtes dans le plat puis le cœur en biseaux, cuire 4 à 5 minutes. Émincer les champignons finement et les ajouter dans le plat. Cuire 6 minutes, mélanger et débarrasser la cuisson des légumes dans un plat. Verser un trait d'huile d'olive, couper la viande en petits cubes, l'assaisonner et la déposer dans le plat (pas besoin de le nettoyer), colorer toutes les faces, ajouter une cuillerée de beurre, caraméliser et cuire 2 minutes. Ajouter les légumes, mélanger, ajouter la moutarde à l'ancienne et la crème, mélanger à la spatule, assaisonner. Laisser cuire à petits frémissements quelques minutes."
+    },
+    {
+        "name": "Pain de courgettes",
+        "image": "images/.jpg",
+        "ingredients": [
+            "6 petites ou 4 grosses courgettes",
+            "3 œufs",
+            "3 échalotes ou 2 oignons",
+            "Environ 100g de fromage râpé",
+            "Estragon",
+            "Sel poivre"
+        ],
+        "recette": "Couper les courgettes et hacher les échalotes, laisser cuire dans 2 cuillères d'huile, jusqu'à ce que ça soit « tout mou », écraser à la fourchette et attendre que ça se dessèche. Laisser un peu refroidir, ajouter un à un les œufs en battant. Ajouter le fromage,1 cuillère à café d'estragon, salée et poivrer. Mettre dans le moule, faire cuire environ 50 min à 170°C."
+    },
+    {
+        "name": "Pâte à tarte salée",
+        "image": "images/.jpg",
+        "ingredients": [
+            "100g margarine",
+            "200g farine",
+            "1 pincée de sel",
+            "1/4 verre d'eau"
+        ],
+        "recette": "Mettre la farine dans un saladier, ajouter le sel et la margarine, pétrir puis ajouter l'eau."
+    },
+    {
+        "name": "Tarte à la tomate",
+        "image": "images/.jpg",
+        "ingredients": [
+            "Environ 4 à 5 tomates",
+            "2 mozzarella",
+            "1 pâte à tarte",
+            "Sel, poivre",
+            "Basilic",
+            "Fromage râpé"
+        ],
+        "recette": "Faire précuire la pâte 8min à 180°C. Couper les tomates et la mozzarella, puis les déposer dans le plat à tarte. Saler, poivrer et saupoudrer de basilic et de fromage râpé. Enfourner pour 40min à 180°C."
+    },
+    {
+        "name": "Quiche lorraine",
+        "image": "images/.jpg",
+        "ingredients": [
+            "200 g de lardons",
+            "Fromage râpé",
+            "30 g de beurre",
+            "3 œufs",
+            "1 cuillère à soupe de maizena",
+            "20 cl de crème fraîche",
+            "20 cl de lait",
+            "Sel, poivre"
+        ],
+        "recette": "Préchauffer le four à 200°C. Précuire la pâte 8 mn. Faire dorer les lardons. Pendant ce temps, mélanger les œufs battus et la crème fraîche. Une fois les lardons dorés, les mélanger à la préparation aux œufs. Saler, poivrer, et ajouter la muscade. Verser la préparation sur le fond de pâte. Mettre au four pendant 30 min."
+    },
+    {
+        "name": "Pâte à pizza",
+        "image": "images/.jpg",
+        "ingredients": [
+            "200 g de farine T80",
+            "Quelques grammes de sel",
+            "Environ 2 g de levure boulangère",
+            "Quelques cuillères à soupe d'huile d'olive",
+            "125 mL d'eau à température ambiante",
+            "Un peu de farine de maïs si possible"
+        ],
+        "recette": "(Recette à ajouter)"
+    },
+    {
+        "name": "Quiche aux poireaux",
+        "image": "images/.jpg",
+        "ingredients": [
+            "250 g de poireau",
+            "20 cl de crème fraîche",
+            "15 cl de lait",
+            "3 oeufs",
+            "Beurre",
+            "Muscade",
+            "Chapelure",
+            "Fromage râpé",
+            "Sel, Poivre",
+            "1 pâte à tarte"
+        ],
+        "recette": "Précuire la pâte 8 min à 180°C (si la pâte est maison). Laver et couper les blancs de poireaux en tronçons. Les faire cuire dans une sauteuse couverte avec un peu de beurre et d'eau environ 20 minutes. Une fois cuits, les travailler en purée à la fourchette et étaler la purée de poireaux. Battre les œufs avec la crème, le lait, le sel, le poivre et une pincée de muscade. Verser sur les poireaux et saupoudrer de chapelure et de fromage râpé. Faire cuire 40 min au four à 220°C."
+    },
+    {
+        "name": "Tarte saint-nectaire",
+        "image": "images/.jpg",
+        "ingredients": [
+            "1 pâte à tarte brisée",
+            "3-4 tomates",
+            "500g de saint nectaire",
+            "Huile olive",
+            "Herbes de Provence"
+        ],
+        "recette": "Précuire la pâte 8 min 180°C (si la pâte est maison). Sur la pâte, disposer le saint nectaire en tranches. Ajouter les rondelles de tomates, puis un filet d'huile d'olive et enfin, les herbes de Provence. Enfourner environ 20 min à 180 degrés (jusqu'à ce que la tarte soit bien dorée et que le fromage ait fondu)."
+    },
+    {
+        "name": "Quiche poireaux chèvre lardons",
+        "image": "images/.jpg",
+        "ingredients": [
+            "1 pâte à tarte",
+            "3 poireaux",
+            "200 g de lardons",
+            "1 fromage de chèvre",
+            "3 oeufs",
+            "20 cl de crème fraîche",
+            "10 cl de lait",
+            "Sel, Poivre"
+        ],
+        "recette": "Précuire la pâte 8 min 180°C (si la pâte est maison). Préchauffer le four à 180°C. Étaler la pâte dans le moule beurré et fariné. Nettoyer puis émincer les blancs des 3 poireaux. Faire dorer les lardons dont vous utiliserez la graisse pour faire revenir les poireaux ensuite. Répartir lardons et poireaux sur le fond de tarte. Dans un bol, battre les œufs, la crème et le lait. Assaisonner à votre goût puis verser le mélange dans la tarte. Découper le fromage de chèvre en rondelles que vous déposerez sur la quiche. Cuire au four de 25 à 30 min."
+    },
+    {
         "name": "",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
             "",
             "",
