@@ -1,25 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(209, 212, 211);
+  font-family: 'Inter', sans-serif;
+  background-color: #F9F6EE;
   padding-bottom: 100px;
   overflow-y: scroll;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }
 
 /* CSS Navbar */
 
 nav {
   height: 50px;
-  background: linear-gradient(90deg, rgba(4, 1, 59, 1) 0%, rgba(0, 122, 148, 1) 100%);
+  background: #1B1212;
+  box-shadow: 0 0 25px 0 black;
 }
 
 .nav-list {
@@ -29,7 +23,8 @@ nav {
   justify-content: space-around;
   height: 100%;
   position: relative;
-  background: linear-gradient(90deg, rgba(4, 1, 59, 1) 0%, rgba(0, 122, 148, 1) 100%);
+  background: #1B1212;
+  box-shadow: 0 0 25px 0 black;
   margin: 0;
   padding: 0;
 }
@@ -61,6 +56,9 @@ nav {
   width: 70%;
   text-align: center;
   padding-left: 15%;
+  font-size: 45px;
+  color: #daa916	;
+  text-shadow: 1px 1px 1px #6e53008e;
 }
 
 .filterForm {
@@ -108,9 +106,15 @@ input {
   flex-direction: column;
   height: 100%;
   width: 96%;
-  background-color: rgb(209, 212, 211);
+  background-color: #F9F6EE;
   margin: 0 auto;
-  padding: 0 2%;
+  padding: 2% 2%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 22px;
+  color: #1B1212	;
 }
 
 h3 {
@@ -136,7 +140,7 @@ li {
   right: 0;
   bottom: 0;
   margin: auto;
-  background-color: rgba(240, 248, 255, 0.466);
+  background-color: rgba(240, 248, 255, 0.2);
 }
 
 .recipeContainer {
@@ -153,6 +157,8 @@ li {
   margin: auto;
   background: white;
   border-radius: 30px;
+  border: 1px solid black;
+  box-shadow: 10px 10px 5px rgb(116, 116, 116);
   z-index: 1;
   overflow-y: auto !important;
 }
