@@ -94,6 +94,28 @@
         "recette": "Mélanger le fromage avec les herbes et les échalotes. Saler, poivrer. Étaler la préparation sur les galettes, y déposer le jambon ou le saumon, rouler et découper des tranches. "
     },
     {
+        "name": "Poivrons farcis au fromage frais",
+        "image": "images/.jpg",
+        "ingredients": [
+            "1 poivron par personne",
+            "Chèvre frais",
+            "Échalote",
+            "Herbes au choix (Provence, ciboulette...)"         
+        ],
+        "recette": "Préchauffer le four à 180°. Vider les poivrons et les couper en 4, les déposer une plaque avec du papier cuisson, enfourner pour 30min. Mélanger le chèvre avec les échalotes et les herbes, saler poivrer. Le déposer sur les poivrons et enfourner pour faire dorer le fromage ou plus longtemps si les poivrons ne sont pas assez moelleux."
+    },
+    {
+        "name": "Champignons farcis au fromage frais",
+        "image": "images/.jpg",
+        "ingredients": [
+            "Champignons",
+            "Chèvre frais",
+            "Échalote",
+            "Herbes au choix (Provence, ciboulette...)"
+        ],
+        "recette": "Mélanger le chèvre avec les échalotes et les herbes, saler poivrer. Farcir les champignons et servir frais."
+    },
+    {
         "name": "",
         "image":"",
         "ingredients": [

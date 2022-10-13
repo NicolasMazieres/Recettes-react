@@ -491,6 +491,173 @@
         "recette": "Précuire la pâte 8 min 180°C (si la pâte est maison). Préchauffer le four à 180°C. Étaler la pâte dans le moule beurré et fariné. Nettoyer puis émincer les blancs des 3 poireaux. Faire dorer les lardons dont vous utiliserez la graisse pour faire revenir les poireaux ensuite. Répartir lardons et poireaux sur le fond de tarte. Dans un bol, battre les œufs, la crème et le lait. Assaisonner à votre goût puis verser le mélange dans la tarte. Découper le fromage de chèvre en rondelles que vous déposerez sur la quiche. Cuire au four de 25 à 30 min."
     },
     {
+        "name": "Nouilles chinoises",
+        "details": "(Pour 3 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "1 poireaux",
+            "7 champignons de Paris",
+            "1 petite carotte",
+            "1 courgette",
+            "1 blanc de poulet",
+            "1 oignon",
+            "160 g de nouilles sautées",
+            "Environ 40 cL de bouillon de volaille",
+            "Sauce Nuoc-mâm",
+            "Lait de coco",
+            "Huile olive",
+            "Sel, poivre"            
+        ],
+        "recette": "Laver et émincer tous les légumes et le poulet. Dans un Wok ou une grande sauteuse, faire chauffer l'huile et y cuire le poulet. Saler, poivrer et réserver. Faire fondre et dorer l'oignon, puis réserver avec le poulet. Faire cuire les légumes à feu vif pendant 5 min en remuant puis environ 15 min sous couvercle à feu plus doux. Ensuite ajouter le poulet. Préparer environ 40cl de bouillon, puis l'ajouter aux légumes avec les nouilles. Faire cuire comme indiqué sur le paquet de nouille soit environ quand presque toute l'eau est évaporée. Ajouter ensuite la sauce Nuoc-mâm, et le lait de coco comme souhaité."
+    },
+    {
+        "name": "Aubergines tomates mozzarella",
+        "details":"(Pour 4 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "2 grosses aubergines",
+            "2 tomates",
+            "1 mozarella (ou 1 bûche de chèvre)",
+            "Thym",
+            "Huile d'olive",
+            "Sel, poivre"
+        ],
+        "recette": "Couper les aubergines dans la longueur, les asperger doucement d'huile d'olive, saler poivrer et faire cuire 20 à 30min à 180°C. Ajouter les tomates, la mozzarella et le thym, enfourner pour 15 à 25 min."
+    },
+    {
+        "name": "Lasagnes poulet chèvre miel",
+        "details":"(Pour 4 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "Pâtes à lasagnes",
+            "Miel",
+            "1 bûche chèvre",
+            "400g de blanc poulet",
+            "30 cl crème fraîche (environ)",
+            "Gruyère râpé"
+        ],
+        "recette": "Couper le poulet en petits morceaux et le faire revenir à la poêle avec du beurre ou de l' huile. En parallèle couper des rondelles de chèvre. En fin de cuisson du poulet ajouter le chèvre et la crème fraîche et remuer régulièrement pour que le chèvre fonde. Ajouter le miel en quantité selon les goûts. Saler et poivrer. Une fois que tout est cuit, disposer dans le plat : 1 couche de pâte, 1 couche du mélange, 1 couche de pâte, 1 couche du mélange en gardant un peu de sauce pour la dernière couche 1 couche de pâte recouverte de la sauce restante et mettre du fromage râpé. Enfourner à 180 degrés environ 25 min."
+    },
+    {
+        "name": "Gratin dauphinois",
+        "image": "images/.jpg",
+        "ingredients": [
+            "2 pommes de terre moyennes par personne",
+            "Ail",
+            "Beurre",
+            "Crème fraîche liquide",
+            "Un peu de lait",
+            "Fromage râpé"        
+        ],
+        "recette": "Préchauffer le four à 200°C. Frotter le plat à gratin avec l'ail puis bien beurrer le plat. Couper les pommes de terre épluchées en fines lamelles et les disposer dans le plat en salant et poivrant à chaque couche. Ajouter le mélange crème + fromage hauteur des pommes de terre. Rajouter peu de lait par dessus. Parsemer de fromage râpé. Mettre en four environ 50 minutes à 180 degrés."
+    },
+    {
+        "name": "Tartiflette",
+        "image": "images/.jpg",
+        "ingredients": [
+            "1 kg de pomme de terre",
+            "200 g de lardons fumés",
+            "200 g d'oignon émincés",
+            "1 reblochon bien fait",
+            "2 cuillères à soupe d'huile",
+            "1 gousse d'ail",
+            "Sel,Poivre"
+        ],
+        "recette": "Éplucher les pommes de terre, les couper en dés, bien les rincer et les essuyer dans un torchon propre. Faire chauffer l'huile dans une poêle, y faire fondre les oignons. Lorsque les oignons sont fondus, ajouter les pommes de terre et les faire dorer de tous les côtés. Lorsqu'elles sont dorées, ajouter les lardons et finir de cuire. D'autre part, gratter la croûte du reblochon et le couper en deux (ou en quatre). Préchauffer le four à 200°C et préparer un plat à gratin en frottant le fond et les bords avec la gousse d'ail épluchée. Dans le plat à gratin, étaler une couche de pommes de terre aux lardons, disposer dessus la moitié du reblochon, puis de nouveau des pommes de terre. Terminer avec le reste du reblochon (croûte vers les pommes de terre). Enfourner environ 20 minutes de cuisson."
+    },
+    {
+        "name": "Hachis parmentier",
+        "image": "images/.jpg",
+        "ingredients": [
+            "400 g de viande hachée",
+            "300 q de purée",
+            "2 oignons",
+            "2 gousses d'ail",
+            "2 tomates fraîches ou pelées",
+            "1 cuillère à soupe de farine",
+            "1 pincée d'herbes de Provence",
+            "1 jaune d'oeuf",
+            "30 g de parmesan",
+            "30 g de beurre",
+            "50 g de fromage râpé",
+            "Sel, poivre"            
+        ],
+        "recette": "Hacher l'oignon et l'ail. Les faire revenir dans le beurre jusqu'à ce qu'ils soient tendres. Ajouter les tomates coupées en dés, la viande hachée, la farine, du sel, du poivre et les herbes de Provence, Quand tout est cuit, couper le feu et ajouter le jaune d'oeuf et un peu de parmesan. Bien mélanger. Préchauffer le four à 200°C. Etaler au fond du plat à gratin. Préparer la purée. L'étaler au dessus de la viande. Saupoudrer de fromage râpé et faire gratiner."
+    },
+    {
+        "name": "Escalopes de veau panées",
+        "image": "images/.jpg",
+        "ingredients": [
+            "4 escalopes de veau très fines",
+            "2 œufs",
+            "Farine",
+            "Lait",
+            "Chapelure"            
+        ],
+        "recette": "Pressez les escalopes dans du sopalin pour les dessécher. Préparez 3 bols : l'un avec du lait, un second avec les œufs battus avec du sel et du poivre, un troisième avec la chapelure. Farinez grossièrement les escalopes dans un pochon plastique en secouant bien. Passez rapidement l'escalope farinée dans le lait, puis dans l'œuf battu puis dans la chapelure en appuyant bien Faire cuire dans une poêle chaude bien huilée."
+    },
+    {
+        "name": "Tomates farcies",
+        "details":"(Pour 4 grosses tomates ou 8 normales)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "200g de chair à saucisse",
+            "2 tranches de jambon blanc",
+            "5 branches de persil",
+            "1 bel oignon",
+            "1 petite gousse d'ail",
+            "1 petit oeuf",
+            "2 cuillère à soupe de chapelure",
+            "1 cuillère à soupe d'huile",
+            "Sel, poivre"
+        ],
+        "recette": "Préchauffer le four à 210°C. Couper les chapeaux des tomates et les vider grossièrement en gardant la chair qu'il faut couper en petits bouts. Passer au hachoir le jambon, l'ail, l'oignon et le persil. Ajouter les tomates et la chair à saucisse. Ajouter l'oeuf et la chapelure puis une cuillère à soupe d'huile, saler et poivrer. Farcir les tomates et ajouter les chapeaux, puis enfourner à four chaud à 210°C et laisser cuire à 180°C pendant 50 min."
+    },
+    {
+        "name": "",
+        "image": "images/.jpg",
+        "ingredients": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "recette": ""
+    },
+    {
+        "name": "",
+        "image": "images/.jpg",
+        "ingredients": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "recette": ""
+    },
+    {
+        "name": "",
+        "image": "images/.jpg",
+        "ingredients": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "recette": ""
+    },
+    {
+        "name": "",
+        "image": "images/.jpg",
+        "ingredients": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "recette": ""
+    },
+    {
         "name": "",
         "image": "images/.jpg",
         "ingredients": [

@@ -1,122 +1,311 @@
 [
-   {
-        "name": "",
-        "image":"images/.jpg",
+    {
+        "name": "Rochers coco",
+        "details": "(15 rochers environ)",
+        "image": "images/.jpg",
         "ingredients": [
-            "",
-            "",
-            "",
-            ""
+            "3 blancs d'œufs",
+            "1 sachet de sucre vanillé",
+            "200 g de noix de coco en poudre",
+            "180 g de sucre en poudre",
+            "20 gr de beurre",
+            "1 pincée de sel"
+        ],
+        "recette": "Préchauffer le four à 140°C. Mettre dans une casserole les blancs d'œufs, Ie sucre, le sucre vanillé et la pincée de sel. Portez à feu doux en battant rapidement au fouet, jusqu'à ce que le mélange mousseux soit très chaud mais non bouillant. Retirer du feu et continuer à battre jusqu'à refroidissement. Ajouter la noix de coco puis mélanger. Bien beurrer la plaque à pâtisserie ou utiliser du papier sulfurisé. A l'aide d'une cuillère à soupe, faire de petits tas. Former la pâte en croix au doigt mouillé. Faire cuire pendant 35 minutes sans laisser prendre couleur. Laissez un peu refroidir et retirer encore chauds les rochers de la plaque."
+    },
+    {
+        "name": "Pâte à choux",
+        "image": "images/.jpg",
+        "ingredients": [
+            "95 g de farine",
+            "20 cL d'eau",
+            "1 cuillère à soupe de sucre",
+            "75 g de beurre",
+            "3 oeufs",
+            "1 pincée de sel"
+        ],
+        "recette": "Préchauffer le four à 180°C. Dans une casserole, faire bouillir l'eau, avec le beurre, le sucre et la pincée de sel. A la première ébullition sortir la casserole du feu et verser la farine d'un seul coup. Tourner rapidement et dessécher la pâte un long moment en tournant avec une cuillère en bois sur feu doux (minimum 5 min) jusqu'à ce que la pâte se décolle des bords et du fond, cette étape est très importante. Ajouter un à un les oeufs entiers en mélangeant bien entre chacun. Enfourner pour 15 min puis laisser les choux dans le four et entrouvrir légèrement le four pendant 5 min."
+    },
+    {
+        "name": "Gâteau au yaourt",
+        "image": "images/.jpg",
+        "ingredients": [
+            "1 pot de yaourt nature",
+            "1/2 pot d'huile ou de beurre fondu",
+            "2 pots de sucre",
+            "3 pots de farine",
+            "3 oeufs",
+            "1/2 paquet de levure chimique",
+            "Vanille",
+            "Zeste de citron"
+        ],
+        "recette": "Préchauffer le four à 180°C. Mélanger tout les ingrédients un à un en suivant l'ordre suivant: yaourt, sucre, oeufs, vanille, farine, levure, zeste. Verser la pâte dans le moule et enfourner pour environ 30 minutes de cuisson. Vérifier la cuisson avec la pointe d'un couteau (elle doit ressortir sèche)."
+    },
+    {
+        "name": "Pâte à crêpes",
+        "image": "images/.jpg",
+        "ingredients": [
+            "150 g de farine",
+            "150 g de maïzena",
+            "4 oeufs",
+            "60 g de sucre",
+            "1 sachet de sucre vanillé",
+            "1/2 sachet de levure",
+            "1 cuillère à soupe d'huile ( ou beurre fondu)",
+            "1/4 de litre de lait",
+            "1/4 de litre d'eau",
+            "Arôme (vanille, citron, orange)",
+            "1 petite louche de Grand Marnier"
+        ],
+        "recette": "Mélanger la farine, la maïzena, les sucre, la pincée de sel. Creuser un puits et y ajouter les oeufs, commencer à mélanger en rajoutant petit à petit l'eau et le lait. Ajouter l'arôme, le Grand Marnier et l'huile. Laisser reposer la pâte au moins 30 min."
+    },
+    {
+        "name": "Gâteau au yaourt sans oeuf",
+        "image": "images/.jpg",
+        "ingredients": [
+            "2 yaourts nature(conservez le pot)",
+            "3 pots de farine",
+            "1,5 pot de sucre en poudre",
+            "1,5 sachet de levure chimique",
+            "1 cuillère à café vanille liquide",
+            "1 pincée de sel",
+            "60 g de beurre fondu"
+        ],
+        "recette": "Préchauffez votre four à 180°C. Videz les yaourts dans un saladier, et gardez un pot pour vous en servir comme doseur. Versez dans le saladier la farine et le sucre en vous aidant du pot comme mesure. Ajoutez ensuite le beurre fondu, la levure et la vanille. Mélangez pour obtenir une pâte à gâteau lisse. Versez la pâte dans un moule beurré et fariné puis enfournez pendant 35 à 40 minutes environ."
+    },
+    {
+        "name": "Financiers blanc d'oeuf",
+        "image": "images/.jpg",
+        "ingredients": [
+            "40 g de poudre d'amande",
+            "30 g de farine",
+            "50 g de beurre",
+            "50 g de sucre",
+            "2 blancs d'oeuf"
+        ],
+        "recette": "Mélanger les blancs d'oeufs, la farine, le sucre et les amandes en fouettant énergiquement. Ajouter le beurre fondu. Verser dans un moule beurré. Cuire 15 minutes à 200°C."
+    },
+    {
+        "name": "Coulant au chocolat",
+        "details": "(Pour 4 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "95 g de beurre",
+            "90 g de chocolat",
+            "50 g de farine",
+            "75 g de sucre",
+            "3 oeufs"
+        ],
+        "recette": "Faites fondre au bain marie le chocolat puis le beurre en fouettant doucement. Ajoutez le sucre, les œufs et la farine. Versez dans des ramequins ou des petits moules. Faites cuire à four chaud (200°C) pendant 6 min. Servez avec une crème anglaise ou de la glace à la vanille."
+    },
+    {
+        "name": "Gâteau au chocolat de Nancy",
+        "details": "(Pour 6 à 8 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "3 oeufs",
+            "120 g de chocolat noir",
+            "100 g de beurre mou",
+            "100 g de sucre",
+            "50 g de farine",
+            "1/2 verre de lait",
+            "1 pincée de vanille en poudre",
+            "1 pincée de sel"
+        ],
+        "recette": "Préchauffer le four à 180°C. Beurrer et fariner un moule. Fondre le chocolat, le beurre et le lait et la vanille au bain-marie, remuer avec une spatule en bois jusqu'à obtenir une préparation onctueuse. Sortir du bain marie, ajouter la farine et le sucre et continuer de mélanger. Séparer les blancs des jaunes, et ajouter les jaunes en remuant. Monter les blancs en neige avec une pincée de sel puis les incorporer délicatement. Verser la préparation dans le moule et enfourner pendant 25 minutes."
+    },
+    {
+        "name": "Marquise au chocolat",
+        "details": "(Pour 12 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "3 œufs",
+            "375 g de chocolat",
+            "375 g de beurre",
+            "100 g de sucre"
+        ],
+        "recette": "Faire fondre le chocolat et le beurre. Blanchir les jaunes d'œufs avec le sucre dans un récipient puis l'ajouter au mélange chocolat/beurre. Monter les blancs en neige et les incorporer au mélange. Réserver au congélateur."
+    },
+    {
+        "name": "Madeleines",
+        "image": "images/.jpg",
+        "ingredients": [
+            "2 oeufs",
+            "80 g de sucre",
+            "90 g de farine",
+            "100 g de beurre",
+            "1 cuillère à soupe de lait",
+            "1/2 citron",
+            "2 gouttes d'extrait de vanille",
+            "1 pincée de levure chimique"
+        ],
+        "recette": "Préchauffer le four à 220°C. Laver et essuyer le citron et râper finement son zeste. Mélanger les oeufs avec le sucre, jusqu'à ce que le mélange blanchisse. Battre les oeufs, ajouter le zeste, le sucre, la vanille et la moitié du lait, continuer jusqu'à obtenir un mélange bien mousseux. Ajouter la farine et la levure chimique. Ajouter ensuite le beurre fondu, et le restant du lait. Laisser reposer 1h au réfrigérateur. Verser la préparation dans les moules à madeleines jusqu'à la moitié. Faire cuire 10min à 220°C, sortir les madeleines et démouler 5 min après."
+    },
+    {
+        "name": "Pâte à tarte sucrée",
+        "image": "images/.jpg",
+        "ingredients": [
+            "1 oeuf",
+            "60 g de sucre",
+            "200 g de farine",
+            "100 g margarine",
+            "1 pincée de sel"
+        ],
+        "recette": "Verser la farine en puits dans un saladier avec le sucre et la pincée de sel, y ajouter l'œuf et la margarine. Mélanger le tout assez rapidement puis étaler dans un plat à tarte."
+    },
+    {
+        "name": "Pancakes",
+        "image": "images/.jpg",
+        "ingredients": [
+            "125 g de farine",
+            "15 g de sucre semoule",
+            "1 oeufs",
+            "1/2 sachet de levure",
+            "30 g de beurre",
+            "1 pincée de sel",
+            "15 cL de lait"        
+        ],
+        "recette": "Faire fondre le beurre. Mettre la farine, la levure et le sucre dans un saladier. Mélanger et creuser un puits. Ajouter ensuite les œufs entiers et fouetter l'ensemble. Incorporer le beurre fondu, fouetter puis délayer progressivement le mélange avec le lait afin d'éviter les grumeaux. Laisser reposer la pâte au minimum 1 heure au réfrigérateur. Dans une poêle chaude et légèrement huilée, faire des cercles de 10 cm de diamètre environ et faire cuire comme des crêpes."
+    },
+    {
+        "name": "Pain perdu",
+        "image": "images/.jpg",
+        "ingredients": [
+            "Pain rassis ou brioche",
+            "45 g de sucre (ou cassonade)",
+            "2 verres de lait",
+            "2 oeufs",
+            "Beurre",
+            "1 c. à café d'arôme naturel de vanille",
+            "1 c. à café de cannelle (facultatif)"            
+        ],
+        "recette": "Au four : Préchauffez le four à 195°C. Beurrez un moule à manqué. Découpez la baguette en rondelles de 1 cm d'épaisseur. Beurrez une face des tranches de pain. Disposez-les dans le moule pour en tapisser complètement le fond. Dans un saladier, versez le lait et l'arôme naturel de vanille. Ajoutez le sucre, les œufs. Mélangez pour obtenir une pâte homogène. Versez le mélange dans le moule pour tremper le pain. Enfournez pendant 25 min environ. il faut obtenir une belle couleur ambrée. A la poêle : Tremper le pain dans la préparation avant de le mettre dans la poêle beurrée."
+    },
+    {
+        "name": "Gâteau aux poires renversé",
+        "image": "images/.jpg",
+        "ingredients": [
+            "Moule en verre de 24 cm",
+            "4 petites poires Comice ou 3 grosses",
+            "2 oeufs",
+            "150 g de sucre",
+            "150 g de farine",
+            "150 g de margarine",
+            "1 cuillère à café de levure",
+            "1 pincée de sel",
+            "Pour le caramel : 15 morceaux de sucre, 1/2 citron et 1/2 verre d'eau"            
+        ],
+        "recette": "Commencer par faire le caramel en mettant dans une casserole le sucre et le citron. Quand le caramel est blond, le verser dans le tout le fond du moule et le tour puis laisser refroidir. Éplucher les poires et les couper en quatre. Disposer dans le moule, le gros côté vers l'extérieur en faisant une rosace. Préchauffer le four à 170°C. Préparer la pâte: travailler au fouet le sucre avec les œufs entiers. Quand le mélange devient mousseux, ajouter tantôt un peu de farine tantôt la margarine ainsi que la pincée de sel et la levure. Verser la préparation sur les poires et enfourner pour 50 min à 1h. Tremper quelques instants le moule dans l'eau chaude puis démouler aussitôt."
+    },
+    {
+        "name": "Gâteau au chocolat express",
+        "image": "images/.jpg",
+        "ingredients": [
+            "100 g de chocolat",
+            "100 g de beurre",
+            "2 oeufs",
+            "50 g de sucre",
+            "70 g de sucre roux",
+            "75 g de farine"          
+        ],
+        "recette": "Préchauffer le four à 210°C. Faire fondre ensemble le beurre et le chocolat. Mélanger dans un saladier la farine, le sucre et les œufs. Verser le mélange chocolat et beurre, puis mélanger. Verser dans un moule beurré ou anti-adhésif et cuire 20 min."
+    },
+    {
+        "name": "Galette frangipane",
+        "image": "images/.jpg",
+        "ingredients": [
+            "2 pâtes feuilletées",
+            "1 jaune d'oeuf",
+            "50 g d'eau",
+            "50 g de sucre",
+            "Crème pâtissière : 20 g de farine, 200 ml de lait, 40 g de sucre et 1 oeuf",
+            "Crème d'amandes : 75 g de sucre glace, 75 g de beurre mou et 125 g de poudre d'amandes"
+        ],
+        "recette": "Réaliser la crème pâtissière. Réaliser la crème d'amandes en mélangeant les ingrédients à la fourchette. Découper 2 disques de pâte feuilletée de 30 cm à l'aide d'un disque ou d'une grande assiette. Puis sur l'un des disques que l'on déposera sur une plaque recouverte de papier sulfurisé, avec un cercle de 26 cm ou une assiette plus petite que la première, marquer l'abaisse en appuyant légèrement. Badigeonner ensuite de jaune d'oeuf l'extérieur du repère avec un pinceau, en en gardant pour le dessus de la galette. Verser la crème d'amandes dans la crème pâtissière et mélanger à la cuillère en bois puis déposer cette préparation sur de la pâte feuilletée sans dépasser la marque de la dorure, Recouvrir avec la deuxième pâte feuilletée en appuyant légèrement les bords puis retourner le tout et tapoter afin d'éviter la formation de bulles d'air. Badigeonner de jaune d'oeuf. Réserver 30 min au réfrigérateur. Préchauffer le four à 180°C, sortir la galette et la dorer une deuxième fois. Réaliser le dessin souhaité sur le dessus de la galette, sans percer la pâte. Enfourner de 25 à 45 min, puis, à l'aide d'une spatule, soulever la galette : elle doit être dorée uniformément. Pendant que la galette cuit, mettre 50 g d'eau et 50 g de sucre dans une casserole, porter à ébullition puis stopper la cuisson. A la sortie du four, napper aussitôt de sirop la surface de la galette avec un pinceau."
+    },
+    {
+        "name": "Langues de chat",
+        "image": "images/.jpg",
+        "ingredients": [
+            "70 g de beurre",
+            "100 g de sucre en poudre",
+            "80 g de farine",
+            "2 blancs d'oeuf",
+            "1 cuillère à café de vanille en poudre"
+        ],
+        "recette": "Préchauffer le four à 230°C. Faire ramollir le beurre au micro ondes (sans le faire fondre). Incorporer au batteur le sucre, la vanille et la farine. Bien mélanger. Monter les blancs en neige et les incorporer au mélange. Mettre du papier sulfurisé sur la plaque du four puis mettre la pâte dans une poche à douille. Étaler des bâtonnets de pâte suffisamment espacés sur la plaque. Faire cuire 5 min. Décoller aussitôt et faire refroidir."
+    },
+    {
+        "name": "Tarte au citron meringuée",
+        "image": "images/.jpg",
+        "ingredients": [
+            "200 g de farine",
+            "100 g de beurre",
+            "1 cuillère à soupe de sucre vanillé",
+            "1/2 cuillère à café de sel",
+            "1/2 verre d'eau",
+            "Pour la crème: 2 œufs, 200 gr de sucre en poudre, 75gr de beurre, 3 citrons de taille moyenne"            
+        ],
+        "recette": "Mélanger l'ensemble des ingrédients de la pâte et pétrir de sorte à obtenir une pâte lisse. Former une boule puis l'étaler dans un plat à tarte. Faire préchauffer la pâte 10min à 180°C. Pour la crème, battre les œufs entiers avec le sucre. Ajouter le beurre fondu, le jus des citrons et le zeste d'un citron et bien mélanger. Verser la crème sur la pâte et mettre au four et mettre au four environ 30 minutes jusqu'à coloration brune."
+    },
+    {
+        "name": "Charlotte chocolat blanc framboises",
+        "image": "images/.jpg",
+        "ingredients": [
+            "Biscuits à la cuillère (environ 25)",
+            "200 g de chocolat blanc à pâtisser (ou 180g)",
+            "30 cl de crème liquide entière",
+            "4 barquettes de framboises (2,5 pour le coulis, 1 pour la garniture et le reste pour la décoration)",
+            "5 à 10 cl d'eau",
+            "50 g de sucre"            
+        ],
+        "recette": "Mettre au congélateur le saladier qui servira pour la crème ainsi que la crème déjà froide. Préparer le coulis : porter à ébullition le sucre et l'eau. Ajouter 2 barquettes et demie de framboises et faire chauffer à feu vif jusqu'à dissolution des framboises. Passer la préparation au tamis afin de retirer les pépins. Laisser refroidir. Faire fondre le chocolat blanc au bain-marie ou au micro- ondes et ne pas hésiter à ajouter de l'eau pour qu'il ait le même aspect que du chocolat noir fondu. Pendant ce temps, sortir le saladier et la crème du congélateur et monter la crème en chantilly ferme (attention à ne pas battre trop longtemps la crème une fois qu'elle est ferme pour ne pas faire de beurre). Incorporer le chocolat blanc fondu délicatement à l'aide d'une maryse. Dresser la charlotte : tremper les biscuits le coulis et les déposer dans le moule à charlotte en prenant soin de bien serrer les biscuits. Verser 1/3 de la mousse au chocolat blanc, recouvrir de framboises et biscuits imbibés. Répéter pour obtenir 2/3 couches en finissant par des biscuits imbibés. Réserver au frais 5 heures."
+    },
+    {
+        "name": "",
+        "image": "images/.jpg",
+        "ingredients": [
+
         ],
         "recette": ""
     },
     {
         "name": "",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
-            "",
-            "",
-            "",
-            ""
+
         ],
         "recette": ""
     },
     {
         "name": "",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
-            "",
-            "",
-            "",
-            ""
+
         ],
         "recette": ""
     },
     {
         "name": "",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
-            "",
-            "",
-            "",
-            ""
+
         ],
         "recette": ""
     },
     {
         "name": "",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
-            "",
-            "",
-            "",
-            ""
+
         ],
         "recette": ""
     },
     {
         "name": "",
-        "image":"images/.jpg",
+        "image": "images/.jpg",
         "ingredients": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "recette": ""
-    },
-    {
-        "name": "",
-        "image":"images/.jpg",
-        "ingredients": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "recette": ""
-    },
-    {
-        "name": "",
-        "image":"images/.jpg",
-        "ingredients": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "recette": ""
-    },
-    {
-        "name": "",
-        "image":"images/.jpg",
-        "ingredients": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "recette": ""
-    },
-    {
-        "name": "",
-        "image":"images/.jpg",
-        "ingredients": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "recette": ""
-    },
-    {
-        "name": "",
-        "image":"images/.jpg",
-        "ingredients": [
-            "",
-            "",
-            "",
-            ""
+
         ],
         "recette": ""
     }
