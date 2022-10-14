@@ -5,7 +5,7 @@ function FilterForm(props) {
     return (
         <form className="filterForm">
             <label>
-                Rechercher recette : 
+                Rechercher: 
                 <input
                     autoComplete="off"
                     value={props.formname}

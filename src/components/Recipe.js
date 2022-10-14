@@ -29,9 +29,6 @@ export default function Recipe(props) {
                     <h3>Recette {props.details}</h3>
                     <p>{props.recipe}</p>
                 </div>
-                <div className="imgRecette">
-                    <img src={props.image} alt="Oups non disponible" />
-                </div>
                 <div className="closeRecipeButton">
                     <button onClick={() => recipeClosed()}>X</button>
                 </div>

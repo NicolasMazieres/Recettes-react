@@ -434,19 +434,6 @@
         "recette": "Préchauffer le four à 200°C. Précuire la pâte 8 mn. Faire dorer les lardons. Pendant ce temps, mélanger les œufs battus et la crème fraîche. Une fois les lardons dorés, les mélanger à la préparation aux œufs. Saler, poivrer, et ajouter la muscade. Verser la préparation sur le fond de pâte. Mettre au four pendant 30 min."
     },
     {
-        "name": "Pâte à pizza",
-        "image": "images/.jpg",
-        "ingredients": [
-            "200 g de farine T80",
-            "Quelques grammes de sel",
-            "Environ 2 g de levure boulangère",
-            "Quelques cuillères à soupe d'huile d'olive",
-            "125 mL d'eau à température ambiante",
-            "Un peu de farine de maïs si possible"
-        ],
-        "recette": "(Recette à ajouter)"
-    },
-    {
         "name": "Quiche aux poireaux",
         "image": "images/.jpg",
         "ingredients": [

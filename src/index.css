@@ -14,6 +14,8 @@ nav {
   height: 50px;
   background: #1B1212;
   box-shadow: 0 0 25px 0 black;
+  position: fixed;
+  width: 100%;
 }
 
 .nav-list {
@@ -24,7 +26,6 @@ nav {
   height: 100%;
   position: relative;
   background: #1B1212;
-  box-shadow: 0 0 25px 0 black;
   margin: 0;
   padding: 0;
 }
@@ -44,12 +45,18 @@ nav {
   cursor: pointer;
 }
 
+.nav-items:hover {
+  color: #daa916;
+  border-radius: 10%;
+}
+
 /* CSS corps de texte */
 
 .pageTitleContainer {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  margin-top: 50px;
 }
 
 .pageTitleContainer h1 {
@@ -65,11 +72,13 @@ nav {
   width: 15%;
   font-size: 14px;
   align-self: center;
+  text-align: center;
 }
 
 input {
   width: 100%;
   box-sizing: border-box;
+  margin-top: 5%;
 }
 
 .recipesDesign {
@@ -79,6 +88,7 @@ input {
   justify-content: space-around;
   align-self: center;
   row-gap: 30px;
+  width: 100%;
 }
 
 .imageContainer {
@@ -140,7 +150,7 @@ li {
   right: 0;
   bottom: 0;
   margin: auto;
-  background-color: rgba(240, 248, 255, 0.2);
+  background-color: rgba(240, 248, 255, 0.4);
 }
 
 .recipeContainer {
@@ -163,6 +173,17 @@ li {
   overflow-y: auto !important;
 }
 
+.recipeContainer h2 {
+  font-size: 25px;
+  text-shadow: 1px 1px 1px rgb(228, 228, 228);
+}
+
+.recipeContainer h3 {
+  color: #daa916	;
+  text-shadow: 1px 1px 1px #6e53008e;
+  font-size: 22px;
+}
+
 .closeRecipeButton {
   position: absolute;
   right: 40px;
@@ -182,35 +203,21 @@ li {
 }
 
 .ingredients {
-  flex-basis: 25%;
+  flex-basis: 30%;
   text-align: justify;
 }
 
 .ingredients ul {
-  list-style-type: square;
+  list-style-type: disc;
+}
+
+.ingredients ul li::marker {
+  color:#daa916;
 }
 
 .texteRecette {
-  flex-basis: 40%;
+  flex-basis: 65%;
   text-align: justify;
-}
-
-.imgRecette {
-  flex-basis: 35%;
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-  height: 100%;
-  justify-content: center;
-  align-self: center;
-}
-
-.imgRecette img {
-  object-fit: contain;
-  max-height: 80%;
-  max-width: 80%;
-  border-radius: 20%;
-  align-self: center;
 }
 
 /* Responsivity pour fenêtre peu large */
@@ -234,6 +241,10 @@ li {
     line-height: 50px;
   }
 
+  .nav-items:nth-child(4) {
+    border-bottom: none;
+  }
+
   .nav-button {
     display: block;
     position: absolute;
@@ -250,8 +261,17 @@ li {
   }
 
   .nav-button:hover {
-    color: rgba(4, 1, 59, 1);
+    color: #daa916;
     border-radius: 10%;
+  }
+
+  .pageTitleContainer {
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+
+  .filterForm {
+    width: 30%;
   }
 
   .recipesDesign {
@@ -260,4 +280,15 @@ li {
     justify-content: center;
     align-self: center;
   }
+
+  .recipeContainer {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+  }
+
+  .recipeNameOnPopup {
+    position: static;
+  }
+
 }
