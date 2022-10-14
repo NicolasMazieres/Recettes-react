@@ -39,6 +39,7 @@ function App() {
 
   const entreeRecipes = entreejsonData
     .filter((data) => data.name.toLowerCase().includes(filterName.toLowerCase()))
+    .sort((a,b) => {return a.name.localeCompare(b.name)})
     .map((data, index) => {
       return <Recipe
         name={data.name}
@@ -52,6 +53,7 @@ function App() {
 
   const platRecipes = platjsonData
     .filter((data) => data.name.toLowerCase().includes(filterName.toLowerCase()))
+    .sort((a,b) => {return a.name.localeCompare(b.name)})
     .map((data, index) => {
       return <Recipe
         name={data.name}
@@ -65,6 +67,7 @@ function App() {
 
   const dessertRecipes = dessertjsonData
     .filter((data) => data.name.toLowerCase().includes(filterName.toLowerCase()))
+    .sort((a,b) => {return a.name.localeCompare(b.name)})
     .map((data, index) => {
       return <Recipe
         name={data.name}
