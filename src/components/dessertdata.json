@@ -1,7 +1,7 @@
 [
     {
         "name": "Rochers coco",
-        "details": "(15 rochers environ)",
+        "details": "(Environ 15 rochers)",
         "image": "images/.jpg",
         "ingredients": [
             "3 blancs d'œufs",
@@ -262,51 +262,431 @@
         "recette": "Mettre au congélateur le saladier qui servira pour la crème ainsi que la crème déjà froide. Préparer le coulis : porter à ébullition le sucre et l'eau. Ajouter 2 barquettes et demie de framboises et faire chauffer à feu vif jusqu'à dissolution des framboises. Passer la préparation au tamis afin de retirer les pépins. Laisser refroidir. Faire fondre le chocolat blanc au bain-marie ou au micro- ondes et ne pas hésiter à ajouter de l'eau pour qu'il ait le même aspect que du chocolat noir fondu. Pendant ce temps, sortir le saladier et la crème du congélateur et monter la crème en chantilly ferme (attention à ne pas battre trop longtemps la crème une fois qu'elle est ferme pour ne pas faire de beurre). Incorporer le chocolat blanc fondu délicatement à l'aide d'une maryse. Dresser la charlotte : tremper les biscuits le coulis et les déposer dans le moule à charlotte en prenant soin de bien serrer les biscuits. Verser 1/3 de la mousse au chocolat blanc, recouvrir de framboises et biscuits imbibés. Répéter pour obtenir 2/3 couches en finissant par des biscuits imbibés. Réserver au frais 5 heures."
     },
     {
-        "name": "",
+        "name": "Meringues",
+        "details":"(Environ 10 meringues)",
         "image": "images/.jpg",
         "ingredients": [
-
+            "2 blancs d'oeuf",
+            "125 g de sucre glace",
+            "1 pincée de sel"            
         ],
-        "recette": ""
+        "recette": "Préchauffer le four à 120°C. Sortir les oeufs du réfrigérateur un quart d'heure avant de les utiliser. Battre les blancs d'oeuf en neige avec la pincée de sel. Ajouter le sucre par petites quantités tout en continuant de battre. Déposer immédiatement de petits tas de meringue Sur une plaque de four préalablement recouverte de papier sulfurisé. Cuire entre 30 minutes pour des meringues blanches et moelleuses et 1 heure pour des meringues rosées, craquantes et fondantes avec un cœur moelleux."
     },
     {
-        "name": "",
+        "name": "Tiramisu",
         "image": "images/.jpg",
         "ingredients": [
-
+            "3 oeufs",
+            "50 g de sucre",
+            "250 g de mascarpone",
+            "Biscuits à la cuillère (environ 20)",
+            "Café"            
         ],
-        "recette": ""
+        "recette": "Séparer les blancs des jaunes d'oeufs. Mélanger les jaunes avec le sucre. Ajouter le mascarpone. Monter les blancs en neige et les incorporer délicatement à la spatule au mélange précédent. Réserver. Tremper les biscuits dans le café avant d'en tapisser le fond du plat. Recouvrir d'une couche de crème au mascarpone puis répéter l'opération en alternant couche de biscuits et couche de crème en terminant par cette dernière. Mettre au réfrigérateur 4 heures minimum puis déguster frais. Saupoudrer de cacao."
     },
     {
-        "name": "",
+        "name": "Clafoutis aux cerises",
         "image": "images/.jpg",
         "ingredients": [
-
+            "750 g de cerises",
+            "6 œufs",
+            "100 g de farine",
+            "1/4 de litre de lait",
+            "1 cuillère à soupe de kirsch",
+            "1 pincée de sel",
+            "Beurre pour le moule",
+            "90 g de sucre pour la pâte",
+            "30 g de sucre à la sortie du four"
         ],
-        "recette": ""
+        "recette": "Beurrer un moule en verre de 25 cm. Équeuter les cerises et les disposer dans le plat. Mélanger les œufs entiers avec le sucre. Rajouter la farine, le kirsch puis le lait et la pincée de sel. Laisser reposer la pâte au moins 10 minutes et la verser ensuite sur les cerises puis mettre au four à 220°C pendant 35 minutes. Saupoudrer de sucre à la sortie."
     },
     {
-        "name": "",
+        "name": "Cheesecake au spéculoos",
         "image": "images/.jpg",
         "ingredients": [
-
+            "150 g de spéculoos",
+            "30 g de beurre fondu",
+            "500 g de Philadelphia",
+            "2 œufs",
+            "100 g de sucre",
+            "3-4 gouttes d'extrait de vanille",
+            "1 cuillère de cannelle en poudre"
         ],
-        "recette": ""
+        "recette": "Préchauffer le four à 180°C. Dans un blender, réduire les biscuits en miettes. Faire fondre le beurre au micro-onde et mélanger au biscuit et tapisser le fond du moule. Faire cuire à blanc pendant 5 min. Sortir du four et laisser refroidir. Pendant ce temps, mélanger le philadelphia et le sucre. Ajouter les jaunes et monter les blancs en neige, puis les incorporer. Transférer le mélange dans le moule et enfourner à 180°C sur la plaque centrale pour environ 30-40 min. Le centre du cheesecake doit être encore un peu tremblotant. Laisser quelques heures au frais."
     },
     {
-        "name": "",
+        "name": "Cheesecake au citron",
         "image": "images/.jpg",
         "ingredients": [
-
+            "125 g de palets bretons",
+            "250 g de mascarpone",
+            "125 g de fromage blanc ou 1 yaourt",
+            "2 oeufs",
+            "75 g de sucre en poudre",
+            "zeste de 2 citrons et le jus d'un seul",
+            "10 g de farine",
+            "30 g de beurre"          
         ],
-        "recette": ""
+        "recette": "Préchauffez votre four à 180°C. Mixez les palets bretons afin d'obtenir une poudre fine et homogène.Ajoutez-y le beurre préalablement fondu et mélangez bien. Tapissez le fond d'un moule à gâteau de ce mélange, répartissez bien et tassez. Enfournez 10 min. Dans un premier saladier, mélangez les ingrédients un à un: les jaunes d'œufs, le sucre, le mascarpone, le fromage blanc, la farine, le jus de citron et le zeste. Dans un second saladier, montez les blancs en neige, Incorporez délicatement les blancs en neige dans le premier saladier. Versez ce mélange sur le fond de gâteau biscuité en remplissant le moule aux 2/3. Enfournez 25 min. Laissez refroidir puis placez le cheese cake 4h au réfrigérateur avant de servir."
     },
     {
-        "name": "",
+        "name": "Gâteau au chocolat léger",
         "image": "images/.jpg",
         "ingredients": [
-
+            "20 g de cacao en poudre non sucré",
+            "30 g de maïzena (ou farine)",
+            "40 g de stévia ou 80 g de sucre",
+            "200 g de chocolat noir",
+            "200 g de courgette râpée",
+            "4 oeufs",
+            "Extrait de vanille"            
         ],
-        "recette": ""
+        "recette": "Préchauffer le four à 180°C. Commencez par casser le chocolat en morceaux et faites- le fondre 2 fois 1 minute au micro-ondes, lissez la préparation. Épluchez les courgettes et râpez-les finement, vous devez récupérer 200 g sans les égoutter. Séparez les blancs des jaunes d'oeuf, et fouettez les jaunes avec le stévia et la vanille. Ajoutez le cacao en poudre, mélangez, puis ajoutez un peu de courgettes. Ajoutez alors la maïzena et le chocolat fondu refroidit (gardez 3 cuillères à soupe de chocolat !) en mélangeant bien. Ajoutez le restant de courgette, mélangez. Fouettez les blancs en neige bien ferme, et incorporez-les délicatement au mélange. Répartissez dans un moule anti-adhésif et enfournez 30 minutes. Mettez le restant de chocolat fondu sur le gâteau une fois celui-ci refroidit, et lissez. Vous pouvez saupoudrer de noix de coco par exemple !"
+    },
+    {
+        "name": "Brownie",
+        "image": "images/.jpg",
+        "ingredients": [
+            "160 g de chocolat noir",
+            "110 g de beurre",
+            "3 oeufs",
+            "120 g de sucre en poudre",
+            "50 g de farine",
+            "15 noix"   
+        ],
+        "recette": "Préchauffer le four à 160°C. Faire fondre au bain-marie le chocolat cassé en morceaux avec le beurre. Pendant ce temps, casser les noix. Dans un saladier, mélanger farine, sucre, oeufs et noix. Ajoutez le chocolat fondu et mélanger 5 min à la cuillère en bois. Versez le tout dans un moule beurré (20cm de diamètre), et enfournez pour 25 min. Laisser refroidir avant de démouler."
+    },
+    {
+        "name": "Muffins fruits rouges",
+        "details":"(Environ 20 muffins)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "200 g de fruits surgelées",
+            "140 g de sucre",
+            "30 g de beurre",
+            "1 oeuf",
+            "150 ml de lait",
+            "230 g de farine",
+            "1 pincée de sel",
+            "1 cuillère à café rase de levure chimique"            
+        ],
+        "recette": "Préchauffer le four à 180°C. Mélanger le beurre avec l'œuf et le lait. Dans un autre récipient, mélanger sucre, farine, sel et levure. Mettre en commun le contenu des deux bols mais ne surtout pas trop remuer même si la pâte n'est pas très lisse. Il faut laisser des grumeaux ! Ajouter les myrtilles encore gelées, et bien mélanger. Remplir les moules à muffins aux 3/4, et enfourner pendant 25 à 30 min jusqu'à ce que les muffins soient dorés."
+    },
+    {
+        "name": "Muffins aux pépites de chocolat",
+        "image": "images/.jpg",
+        "ingredients": [
+            "150 g de pépites de chocolat",
+            "320 g de farine",
+            "50 g de sucre",
+            "3 cuillères à café de levure chimique",
+            "1 cuillère à café de sel",
+            "325 ml de crème fraîche",
+            "175 ml de lait",
+            "50 ml d'huile (ou beurre fondu)",
+            "1 cuillère à café d'extrait de vanille",
+            "1 oeuf"
+        ],
+        "recette": "Préchauffer le four à 200°C. Séparer le blanc du jaune d'œuf. Mélanger la farine, le sucre, la levure et le sel, puis incorporer le jaune d'oeuf. Monter le blanc en neige. Mélanger les ingrédients liquides avec le mélange oeuf ingrédients secs, puis ajouter le blanc en neige et les pépites de chocolat. Il n'est pas nécessaire de trop travailler la pâte. Répartir la pâte dans les moules à muffins puis enfourner pour 20 à 25min jusqu'à ce qu'ils soient fermes, moelleux et bien dorés."
+    },
+    {
+        "name": "Crumble aux pommes",
+        "image": "images/.jpg",
+        "ingredients": [
+            "6 pommes",
+            "150 g de cassonade",
+            "150 g de farine de blé",
+            "125 g de beurre doux",
+            "Cannelle en poudre",
+            "1 sachet de sucre vanillé",
+            "Citron"            
+        ],
+        "recette": "Préchauffer le four à 210°C. Peler, évider et découper les pommes en cubes grossiers, les répartir dans un plat allant au four. Les arroser d'un tout petit peu de jus du citron et les saupoudrer de cannelle et de sucre vanillé. Dans un saladier, mélanger la farine et la cassonade. Puis ajouter le beurre ramolli en petits cubes et mélanger à la main de façon à former une pâte grumeleuse. Émietter cette pâte au dessus des pommes de façon à les recouvrir. Enfourner pour 30 minutes de cuisson."
+    },
+    {
+        "name": "Cookies",
+        "details":"(Environ 12 cookies)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "1 oeuf",
+            "250 g de farine",
+            "120 g de beurre",
+            "50 g de sucre blanc",
+            "120 g de sucre de canne/roux",
+            "1 cuillère de vanille en poudre",
+            "1 pincée de sel",
+            "1/2 cuillère à café de levure",
+            "90 g de chocolat"            
+        ],
+        "recette": "Préchauffez le four à 180°C. Dans un grand saladier, mélanger les sucres et le beurre ramolli au batteur jusqu'à obtenir une pâte lisse. Ajoutez l'oeuf, le sel et la vanille, mélangez pendant 1 min environ. Ajouter la farine et la levure préalablement mélangées. Couper les carrés de chocolat, les ajouter et mélanger. Faire des boules avec la pâte à cookies et les déposer sur la plaque de cuisson recouverte de papier sulfurisé, ils doivent être assez espacés. Enfournez pour 14 minutes."
+    },
+    {
+        "name": "Sablés",
+        "details":"(Environ 40 sablés)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "100 g de beurre",
+            "100 g de sucre",
+            "2 jaunes d'oeuf",
+            "200 g de farine",
+            "1 sachet de sucre vanillé",
+            "1 pincée de sel"
+        ],
+        "recette": "Faire ramollir le beurre au micro-ondes. Mélangez dans un saladier la farine, le sel et le sucre, ajouter le beurre. Pétrir rapidement puis ajouter les jaunes d'oeuf les uns après les autres en incorporant bien à la pâte qui doit être moelleuse et sableuse à la fois. Arrêter de travailler la pâte dès que le résultat est obtenu. Former une boule et laisser reposer la pâte pendant 1 heure au réfrigérateur sous du papier cuisson. Préchauffer le four à 180°C. Sortir la pâte 5 min avant de l'étaler avec une épaisseur d'environ 5 mm à 1 cm sur un plan de travail fariné. Découper les sablés avec des emporte-pièces, puis les déposer sur une plaque du four recouverte de papier sulfurisé. Enfourner pour 20 min."
+    },
+    {
+        "name": "Tuiles aux amandes",
+        "image": "images/.jpg",
+        "ingredients": [
+            "2 blancs d'oeuf",
+            "70 g de sucre en poudre",
+            "50 g d'amandes effilées",
+            "35 g de beurre",
+            "30 g de farine"          
+        ],
+        "recette": "Préchauffer le four à 165°C. Faire fondre le beurre et le laisser refroidir. Battre les blancs d'oeufs avec le sucre sans faire monter, puis ajouter la farine et le beurre fondu. Sur une plaque de four recouverte de papier sulfurisé déposer des petits tas (l'équivalent d'une petite cuillère à café) assez espacés et les étaler avec le dos de la cuillère. Parsemer d'amandes effilées. Enfourner pour 10 min, les tuiles doivent être dorées sur les côtés. Retirer les tuiles et les placer sur un rouleau à pâtisserie pour leur donner une forme bombée. Il faut faire attention en retirant les tuiles, car elles se brisent facilement."
+    },
+    {
+        "name": "Pain d'épices",
+        "image": "images/.jpg",
+        "ingredients": [
+            "250 g de miel",
+            "250 g de farine",
+            "100 g de sucre en poudre",
+            "2 oeufs",
+            "10 cl de lait",
+            "1 sachet de levure chimique",
+            "1 sachet de sucre vanillé",
+            "1 mélange d'épices pour pain d'épices (1 cuillère à café d'anis vert, 1 cuillère à café de muscade râpée, 1 cuillère à café de cannelle en poudre, 1 cuillère à café de gingembre en poudre et 1 cuillère à café de quatre épices)"            
+        ],
+        "recette": "Faire chauffer le miel à la casserole ou au micro-ondes. Mélanger la farine avec la levure chimique, les deux sucres et les épices. Ajouter le miel chaud en remuant avec une cuillère en bois. Incorporer petit à petit les oeufs, puis un peu de lait juste tiède pour amalgamer le tout. Préchauffer le four à 160°C. Verser la préparation dans un moule à cake beurré et fariné. Enfourner et laisser cuire pendant 1h à 1h15. Démouler le pain d'épices lorsqu'il a totalement refroidi. Attendre 24 heures au minimum avant de le déguster, il sera meilleur."
+    },
+    {
+        "name": "Crème pâtissière",
+        "details":"(Pour 400g de crème)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "250 g de lait",
+            "50 g de jaunes d'oeufs (soit 3 jaunes environ)",
+            "25 g de beurre",
+            "60 g de sucre",
+            "25 g de maïzena",
+            "1 gousse de vanille"            
+        ],
+        "recette": "Mélanger les jaunes d'oeufs avec le sucre au batteur jusqu'à ce que le mélange blanchisse. Ajouter la maïzena. Mettre le lait dans une casserole avec la gousse de vanille grattée, faire bouillir le lait puis retirer la gousse. Verser la moitié du lait sur le mélange et fouetter. Remettre dans la casserole et faire chauffer vivement tout en mélangeant énergiquement. Quand le mélange épaissit, continuer de mélanger. A partir de l'ébullition mélanger encore pendant 1min et 45s (soit 3 min par litre de lait). Stopper la cuisson et incorporer le beurre hors du feu, Débarrasser dans une plaque pour refroidir rapidement et filmer au contact. Utiliser la crème une fois refroidie. Toujours fouetter vivement la crème pour l'émulsionner avant de l'utiliser."
+    },
+    {
+        "name": "Financiers aux fruits rouges",
+        "image": "images/.jpg",
+        "ingredients": [
+            "90 g de poudre d'amandes",
+            "150 g de sucre glace",
+            "1/2 gousse de vanille",
+            "60 g de farine",
+            "4 blancs d'oeuf",
+            "100 g de beurre",
+            "Fruits rouges congelés (ou pas)"        
+        ],
+        "recette": "Préchauffer le four à 200°C. Dans une poêle réaliser un beurre noisette, le laisser cuire à feu doux jusqu'à coloration. Mélanger la farine, la poudre d'amandes, le sucre glace, le sel et la vanille. Creuser un puits et ajouter les blancs d'œuf. Mélanger bien en partant de l'intérieur vers l'extérieur. Ajouter le beurre noisette en le passant à la passoire pour retirer le dépôt. Transvaser la pâte dans les moules. Ajouter les fruits à votre convenance. Baisser le four à 180°C puis enfourner pour 22 min environ."
+    },
+    {
+        "name": "Bugnes / Merveilles",
+        "image": "images/.jpg",
+        "ingredients": [
+            "500 g de farine",
+            "1/2 sachet de levure",
+            "5 g de sel",
+            "100 g de sucre en poudre",
+            "1 sachet de sucre vanillé",
+            "100 g de beurre",
+            "4 œufs",
+            "Sucre poudre ou sucre glace"
+        ],
+        "recette": "Déposer la farine en puits : au centre mettre le sel, le sucre, le sucre vanillé, la levure, le beurre légèrement ramolli et les œufs entiers. Mélanger du bout des doigts, puis pétrissez avec les mains jusqu'à ce que tout soit bien mélangé. Mettre en boule et couvrir d'un torchon. Laisser reposer 30 min. Étaler la boule en gardant plusieurs millimètres d'épaisseur. Ne pas trop travailler la pâte. Découper selon la forme souhaitée (en faisant des petites bandes de 4 cm de largeur par exemple). Mettre à frire dans un bain d'huile chaude (ne pas trop chauffer l'huile afin d'éviter de noircir les merveilles). Cuire environ 2 min. Faire refroidir sur du papier absorbant et saupoudrer de sucre selon l'envie."
+    },
+    {
+        "name": "Brioche au beurre",
+        "image": "images/.jpg",
+        "ingredients": [
+            "125 g de beurre (+ beurrer le moule)",
+            "1 cuillère à café de sel",
+            "50 ml de lait",
+            "50 ml de crème entière liquide",
+            "1 sachet de levure boulanger rapide ou 9 g de levure fraîche (à diluer dans le lait tiède ou la crème tiède pendant 10 min)",
+            "2 œufs + 1 jaune pour dorer",
+            "65 g de sucre",
+            "250 g de farine",
+            "15 cl d'eau"            
+        ],
+        "recette": "Mettre dans le robot la farine, le sel et le sucre, mélanger le tout. Ajouter ensuite la levure, le lait et la crème. Mélanger (avec le crochet) à vitesse 1 pendant 5 min puis à vitesse 2 pendant 10 min. Ajouter le beurre mou et laisser pétrir environ 15 à 20 min à vitesse 2 jusqu'à ce que la pâte se décolle mais ne colle pas au doigt. Mettre du cellophane directement en contact avec la pâte dans un endroit tiède pendant environ 2h, par exemple au four à 30°C. La pâte doit doubler de volume. Récupérer la pâte sur le plan de travail fariné. Abaisser à la main (appuyer avec le plat de la main pour faire sortir l'air). Étaler la pâte et plier en en 3 morceaux en rabattant le côté gauche et le côté droit au milieu. Répéter 3 fois l'opération. Faire une boule et la déposer dans un moule beurré ; recouvrir avec du cellophane et mettre au frigo pendant 2h. Sortir du frigo et répéter l'opération de pliage. Séparer la pâte en trois boules et les remettre dans le moule beurré en les collant (c'est pour que ça fasse plus joli). Laisser gonfler à température ambiante et enfourner quand la pâte est arrivée en haut du moule. (Variante plus longue: après le premier pliage faire directement les 3 boules, les déposer dans le moule beurré avec du cellophane et laisser au moins 8h au frigo pour la 2ème levée, Sortir du frigo, et laisser se réchauffer à température ambiante.) Préchauffer le four à 180°C. Mélanger le jaune d'œuf avec 15 cl d'eau et une pincée de sel et badigeonner la brioche. Enfourner pour 30 à 40 min à 180°C (si elle est déjà dorée avant la fin de la cuisson la recouvrir d'un papier aluminium pour ne pas qu'elle brûle sur le dessus)."
+    },
+    {
+        "name": "Panna cotta",
+        "details":"(Pour 3 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "50 cl de crème fraîche liquide",
+            "50 g de sucre",
+            "2 feuilles de gélatine",
+            "1 gousse de vanille ou vanille en poudre"            
+        ],
+        "recette": "Faire ramollir les feuilles de gélatine dans de l'eau froide. Mettre la crème, le sucre et la vanille dans une casserole et faire frémir. Dès le début de l'ébullition, retirer la casserole du feu et ajouter la gélatine égouttée. Bien remuer et verser dans des coupelles. Laisser refroidir puis placer quelques heures au réfrigérateur pour faire prendre. Ajouter du coulis de mangue, framboise ou autre fruit juste avant de servir."
+    },
+    {
+        "name": "Gâteau au miel",
+        "image": "images/.jpg",
+        "ingredients": [
+            "180 g de beurre",
+            "70 g de sucre",
+            "180 g de miel",
+            "200 g de farine (ou moitié maïzena)",
+            "3 oeufs",
+            "1 pincée de sel"            
+        ],
+        "recette": "Préchauffer le four à 160°C. Battre le beurre en mousse et y ajouter le sucre, le mélange doit être crémeux. Ajouter les ingrédients les uns à la suite des autres en mélangeant bien. Enfourner pour environ 45 min."
+    },
+    {
+        "name": "Crème anglaise",
+        "details":"(Pour 4 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "1/2 litre de lait",
+            "4 jaunes d'oeufs",
+            "1 gousse de vanille",
+            "90 g de sucre"            
+        ],
+        "recette": "Faire bouillir le lait avec la gousse de vanille. Pendant ce temps, battre le sucre et les jaunes d'oeufs jusqu'à ce que le mélange fasse un ruban puis délayer avec un peu de lait bouillant. Verser la crème dans une casserole à fond épais, et à feu doux, faire épaissir sans cesser de remuer et sans faire bouillir, la crème est prête lorsqu'elle nappe la cuillère. Retirer du feu et fouetter encore 2 min. On peut la passer au chinois avant de mettre la crème au frais (ne retirer la gousse de vanille qu'au moment de servir)."
+    },
+    {
+        "name": "Glace à la vanille",
+        "image": "images/.jpg",
+        "ingredients": [
+            "4 jaunes d'oeuf",
+            "100 g de sucre",
+            "300 ml de lait",
+            "300 ml de crème fraîche épaisse",
+            "2 cuillères à café d'essence de vanille",
+            "Vanille en poudre pour le visuel"            
+        ],
+        "recette": "Verser le lait dans une casserole et porter doucement à ébullition. Battre dans un bol les jaunes d'oeuf et le sucre, puis en continuant à battre, verser le lait chaud. Remettre dans la casserole et faire chauffer sur le feu en remuant constamment jusqu'à ce que le mélange forme une pellicule sur le dos d'une cuillère en bois. Faire attention à ne pas faire bouillir. Sortir du feu et laisser refroidir. Ajouter la crème et la vanille. Verser la préparation dans une sorbetière."
+    },
+    {
+        "name": "Mousse de fraises",
+        "image": "images/.jpg",
+        "ingredients": [
+            "500 g de fraises",
+            "250 g de crème fraîche liquide",
+            "250 g de sucre"            
+        ],
+        "recette": "Couper les fraises puis les mixer. Rajouter la crème fraîche puis le sucre. Verser le tout dans un bol et mettre au congélateur."
+    },
+    {
+        "name": "Banoffee",
+        "image": "images/.jpg",
+        "ingredients": [
+            "3 bananes bien mûres",
+            "150 g de biscuits sablés (spéculoos ou palets bretons)",
+            "30 g de beurre fondu",
+            "1 boîte de 300 g de lait concentré sucré",
+            "50 cl de crème liquide entière",
+            "100 g de sucre glace",
+            "Copeaux de chocolat noir"             
+        ],
+        "recette": "Mettre la boîte de lait concentré sucré fermée dans une cocotte avec de l’eau et faire cuire sous pression 40 minutes (ou 2 heures dans une casserole remplie d'eau). Écraser les biscuits en miettes et y ajouter le beurre fondu. Tapissez le fond du moule et enfourner pour une dizaine de minutes à 180 degrés. Découper les bananes en lamelles et les disposer sur la base de biscuit. Répartir le caramel obtenu avec le lait concentré sucré sur les bananes. Battre la crème liquide en chantilly avec le sucre, et la répartir sur le caramel. Râper des copeaux de chocolat par-dessus, et réserver au frigo pendant au moins 2 heures."
+    },
+    {
+        "name": "Banana bread",
+        "image": "images/.jpg",
+        "ingredients": [
+            "200 g de farine",
+            "1 pincée de sel",
+            "1 sachet de levure chimique", 
+            "150 g de sucre (100 g de miel)", 
+            "50 g de beurre",
+            "1 oeuf",
+            "10 cl de lait",
+            "3 bananes bien mûres"      
+        ],
+        "recette": "Préchauffer le four à 180°C. Dans un grand saladier mélanger la farine, la levure et le sel. Dans un autre saladier, fouetter le sucre, l'œuf, le beurre fondu, puis le lait. Écraser les bananes et les incorporer au mélange précédent. Verser cette préparation dans le mélange de farine et mélanger. Cuire environ 45 min."
+    },
+    {
+        "name": "Caramel beurre salé",
+        "image": "images/.jpg",
+        "ingredients": [
+            "40 g de sucre",
+            "20 g de beurre demi sel",
+            "2,5 cl de crème liquide"            
+        ],
+        "recette": "Dans une casserole, faire chauffer le sucre sur feu moyen  (~3/4 minutes).  Le sucre commence à se dissoudre, devient liquide puis se transforme en un liquide ambré, ne pas le faire trop coloré pour éviter l’amertume. Faire chauffer la crème liquide et réserver. Dès que le sucre est prêt, retirer la casserole du feu et ajouter délicatement une petite partie de la crème. Attention aux projections. Remuer vivement et incorporer le reste petit à petit. Quand il n'y a plus de bouillon, ajouter le beurre et remuer à nouveau jusqu'à consistance d'une crème moyennement liquide. Si la crème ne semble pas assez épaisse, remettre la casserole à feu doux et remuer jusqu'à obtenir la consistance souhaitée. Verser dans un bocal en verre, couvrir et réserver au frais."
+    },
+    {
+        "name": "Pancakes à la banane",
+        "image": "images/.jpg",
+        "ingredients": [
+            "90 g de farine",
+            "1/2 cuil. à soupe de miel",
+            "1 cuil. à café 1/2 de levure",
+            "1 pincée de cannelle",
+            "1 pincée de sel",
+            "1 banane bien mûre",
+            "1 oeuf",
+            "120 ml de lait",
+            "1 cuillère à soupe de beurre"            
+        ],
+        "recette": "Ne pas trop mélanger la pâte Mélanger la farine, la levure, la cannelle et le sel. Dans un autre saladier, écraser les bananes en purée à la fourchette, ajouter l'œuf, le lait, le beurre fondu et le miel et mélanger. Ajouter les ingrédients secs aux ingrédients humides et mélanger sans trop remuer. Laisser reposer quelques minutes (idéalement 5-10 minutes). Faire chauffer une grande poêle légèrement huilée sur feu moyen. Pour chaque pancake, verser 3-4 cuil. à soupe de pâte et cuire jusqu'à ce que de petites bulles se forment à la surface. Retourner le pancake avec une spatule et cuire sur l’autre face pendant 1 à 2 minutes supplémentaires."
+    },
+    {
+        "name": "Flan",
+        "details":"(Pour 2 personnes)",
+        "image": "images/.jpg",
+        "ingredients": [
+            "250 ml de lait",
+            "15 à 20 g de sucre", 
+            "20 g de maïzena",
+            "1 jaune d'œuf",
+            "Vanille"            
+        ],
+        "recette": "Préchauffer le four à 170°C. Faire bouillir le lait, avec la moitié du sucre et la vanille. Mélanger dans un récipient la maïzena avec le sucre restant et l’œuf ainsi qu'un filet de lait. Hors du feu, ajouter le lait chaud puis remettre sur le feu. Mélanger sans cesse jusqu'à épaississement (quand ça devient une crème). Verser la pâte dans un moule amovible si possible. Cuire au four 50 à 60 minutes. Enfin mettre au frais pendant au moins 4h avant de démouler."
+    },
+    {
+        "name": "Porridge d’avoine",
+        "image": "images/.jpg",
+        "ingredients": [
+            "30 de flocons d'avoine écrasés",
+            "20 cl de lait  (ou eau mais moins crémeux)",
+            "Arôme / sucre / miel / épices / herbes / fruits secs / raisins etc",
+            "On peut aussi ajouter une banane pendant la cuisson"
+        ],
+        "recette":"Dans une casserole, bien mélanger tous les ingrédients. Mettre à chauffer doucement, et remuer dès que des bulles commencent à se former. Si le fond accroche un peu, ajouter une cuillère à soupe d'eau, et remuer encore. Compter 7 minutes pour un porridge avec de la mâche, 10 minutes pour un porridge fondant, et 15 pour quelque chose de très crémeux."
+    },
+    {
+        "name": "Carrot cake",
+        "image": "images/.jpg",
+        "ingredients": [
+            "480 g de carottes",
+            "4 œufs",
+            "100 g de amandes en poudre",
+            "2 sachet levure",
+            "200 g de fromage blanc",
+            "160 g de farine",
+            "8 grosses c. à soupe de miel (200g de sucre)",
+            "4 c. à café de Cannelle",
+            "Pincée de sel",
+            "1 c. à café d’extrait de vanille",
+            "Amandes, noix, raisin sec..."
+        ],
+        "recette": "Préchauffer le four à 200 degrés. Râper les carottes et retirer l’eau en les pressant entre les mains. Mélanger la farine, la poudre d’amande, la levure, le sel et la cannelle préalablement mélangés. Ajouter l’œuf en mélangeant avec un fouet. Ajouter ensuite le miel, le fromage blanc puis les carottes en mélangeant à chaque fois. Ajouter les noix concassées et l’extrait de vanille.  Cuire pendant 25 min à 200 degrés."
+    },
+    {
+        "name": "Glaçage carrot cake",
+        "image": "images/.jpg",
+        "ingredients": [
+            "60 g de cream cheese : Philadelphia ou St Morêt à température ambiante",
+            "30 g de beurre doux, ramolli",
+            "180 g de sucre glace",
+            "1 pincée de sel",
+            "4 petites cuillères à soupe (30/40 ml) de crème épaisse"            
+        ],
+        "recette": "Dans un saladier, battre le beurre et le cream cheese. Ajouter le sucre glace et le sel. Incorporer la crème épaisse si nécessaire. Le glaçage doit être épais et facile à étaler.  Attendre que le gâteau refroidisse avant de l’étaler, on peut ajouter du zeste de citron vert sur le dessus, des noix... "
     }
 ]
