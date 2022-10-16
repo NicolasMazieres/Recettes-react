@@ -95,7 +95,7 @@
     },
     {
         "name": "Poivrons farcis au fromage frais",
-        "image": "images/.jpg",
+        "image": "images/poivrons-farcis.jpg",
         "ingredients": [
             "1 poivron par personne",
             "Chèvre frais",
@@ -106,7 +106,7 @@
     },
     {
         "name": "Champignons farcis au fromage frais",
-        "image": "images/.jpg",
+        "image": "images/champignons-farcis.jpg",
         "ingredients": [
             "Champignons",
             "Chèvre frais",
