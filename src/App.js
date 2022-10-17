@@ -38,8 +38,8 @@ function App() {
   const dessertjsonData = JSON.parse(JSON.stringify(dessertData));
 
   const entreeRecipes = entreejsonData
-    .filter((data) => data.name.toLowerCase().includes(filterName.toLowerCase()))
-    .sort((a,b) => {return a.name.localeCompare(b.name)})
+    .filter((data) => data.name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').includes(filterName.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')))
+    .sort((a, b) => { return a.name.localeCompare(b.name) })
     .map((data, index) => {
       return <Recipe
         name={data.name}
@@ -52,8 +52,8 @@ function App() {
     })
 
   const platRecipes = platjsonData
-    .filter((data) => data.name.toLowerCase().includes(filterName.toLowerCase()))
-    .sort((a,b) => {return a.name.localeCompare(b.name)})
+    .filter((data) => data.name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').includes(filterName.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')))
+    .sort((a, b) => { return a.name.localeCompare(b.name) })
     .map((data, index) => {
       return <Recipe
         name={data.name}
@@ -66,8 +66,8 @@ function App() {
     })
 
   const dessertRecipes = dessertjsonData
-    .filter((data) => data.name.toLowerCase().includes(filterName.toLowerCase()))
-    .sort((a,b) => {return a.name.localeCompare(b.name)})
+    .filter((data) => data.name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').includes(filterName.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')))
+    .sort((a, b) => { return a.name.localeCompare(b.name) })
     .map((data, index) => {
       return <Recipe
         name={data.name}
@@ -82,7 +82,34 @@ function App() {
   const viewAccueil = (
     <div className="bodyContainer">
       <div className="pageTitleContainer">
-        <h1>Accueil</h1>
+        <h1 className="titleAccueil">Accueil</h1>
+        <figure className="quote">
+          <blockquote>
+            <p>La gourmandise commence quand on n'a plus faim.</p>
+          </blockquote>
+          <figcaption>— Alphonse Daudet, <cite>Lettres de mon moulin, 1870</cite></figcaption>
+        </figure>
+        <figure className="quote">
+          <blockquote>
+            <p>Il n’y a pas de bonne cuisine si au départ
+              elle n’est pas faite par amitié pour celui ou celle à qui elle est destinée.</p>
+          </blockquote>
+          <figcaption>— Paul Bocuse, <cite>Entretien avec Bernard Pivot, Janvier 1976</cite></figcaption>
+        </figure>
+        <figure className="quote">
+          <blockquote>
+            <p>La vie de l'homme est une chasse au bonheur. Parmi ces bonheurs, l'exercice de la gourmandise est l'un des plus importants. Un pays vaut surtout par les joies qu'il procure à ses habitants et à ceux qui le visitent. La gastronomie, c'est-à-dire l'art qui satisfait la gourmandise, représente un pays au même titre que les autres arts. 
+              La cuisine fait connaître le paysage. Le paysage sert à comprendre la cuisine</p>
+          </blockquote>
+          <figcaption>— Jean Giono, <cite>La Provence gourmande de Jean Giono, 1994</cite></figcaption>
+        </figure>
+        <figure className="quote">
+          <blockquote>
+            <p>La cuisine anglaise, c’est simple: quand c’est froid c’est de la bière,
+              quand c’est chaud c’est de la soupe.</p>
+          </blockquote>
+          <figcaption>— Coluche</figcaption>
+        </figure>
       </div>
     </div>
   )
@@ -106,7 +133,7 @@ function App() {
         <FilterForm formname={filterName} handleChange={handleChange} />
       </div>
       <div className="recipesDesign">
-      {platRecipes}
+        {platRecipes}
       </div>
     </div>
   )
@@ -118,7 +145,7 @@ function App() {
         <FilterForm formname={filterName} handleChange={handleChange} />
       </div>
       <div className="recipesDesign">
-      {dessertRecipes}
+        {dessertRecipes}
       </div>
     </div >
   )

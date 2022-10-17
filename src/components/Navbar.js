@@ -32,10 +32,10 @@ export default function Navbar(props) {
         <nav>
             {(isMenuClicked || largeur > 520) && (
                 <ul className="nav-list">
-                    <li className="nav-items" onClick={() => accueilClicked()}>Accueil</li>
-                    <li className="nav-items" onClick={() => entreesClicked()}>Entrées</li>
-                    <li className="nav-items" onClick={() => platsClicked()}>Plats</li>
-                    <li className="nav-items" onClick={() => dessertsClicked()}>Desserts</li>
+                    <li className="nav-items" onClick={() => {accueilClicked() ; menuClicked()}}>Accueil</li>
+                    <li className="nav-items" onClick={() => {entreesClicked() ; menuClicked()}}>Entrées</li>
+                    <li className="nav-items" onClick={() => {platsClicked() ; menuClicked()}}>Plats</li>
+                    <li className="nav-items" onClick={() => {dessertsClicked() ; menuClicked()}}>Desserts</li>
                 </ul>)
             }
             <button className="nav-button" onClick={menuClicked}>Menu</button>

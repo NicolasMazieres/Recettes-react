@@ -52,6 +52,11 @@ nav {
 
 /* CSS corps de texte */
 
+.quote, .titleAccueil{
+  text-align: center;
+  width: 100%;
+}
+
 .pageTitleContainer {
   display: flex;
   flex-direction: row;
