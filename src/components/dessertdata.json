@@ -2,7 +2,7 @@
     {
         "name": "Rochers coco",
         "details": "(Environ 15 rochers)",
-        "image": "images/.jpg",
+        "image": "images/rochers_coco.jpg",
         "ingredients": [
             "3 blancs d'œufs",
             "1 sachet de sucre vanillé",
@@ -15,7 +15,7 @@
     },
     {
         "name": "Pâte à choux",
-        "image": "images/.jpg",
+        "image": "images/pate-choux.jpg",
         "ingredients": [
             "95 g de farine",
             "20 cL d'eau",
@@ -28,7 +28,7 @@
     },
     {
         "name": "Gâteau au yaourt",
-        "image": "images/.jpg",
+        "image": "images/gateau-yaourt.jpg",
         "ingredients": [
             "1 pot de yaourt nature",
             "1/2 pot d'huile ou de beurre fondu",
@@ -43,7 +43,7 @@
     },
     {
         "name": "Pâte à crêpes",
-        "image": "images/.jpg",
+        "image": "images/crepes.jpg",
         "ingredients": [
             "150 g de farine",
             "150 g de maïzena",
@@ -61,7 +61,7 @@
     },
     {
         "name": "Gâteau au yaourt sans oeuf",
-        "image": "images/.jpg",
+        "image": "images/gateau-yaourt-sans-oeuf.jpg",
         "ingredients": [
             "2 yaourts nature(conservez le pot)",
             "3 pots de farine",
@@ -75,7 +75,7 @@
     },
     {
         "name": "Financiers blanc d'oeuf",
-        "image": "images/.jpg",
+        "image": "images/financiers.jpg",
         "ingredients": [
             "40 g de poudre d'amande",
             "30 g de farine",
@@ -88,7 +88,7 @@
     {
         "name": "Coulant au chocolat",
         "details": "(Pour 4 personnes)",
-        "image": "images/.jpg",
+        "image": "images/coulant-chocolat.jpg",
         "ingredients": [
             "95 g de beurre",
             "90 g de chocolat",
@@ -101,7 +101,7 @@
     {
         "name": "Gâteau au chocolat de Nancy",
         "details": "(Pour 6 à 8 personnes)",
-        "image": "images/.jpg",
+        "image": "images/gateau-nancy.jpg",
         "ingredients": [
             "3 oeufs",
             "120 g de chocolat noir",
@@ -117,7 +117,7 @@
     {
         "name": "Marquise au chocolat",
         "details": "(Pour 12 personnes)",
-        "image": "images/.jpg",
+        "image": "images/marquise.jpg",
         "ingredients": [
             "3 œufs",
             "375 g de chocolat",
@@ -128,7 +128,7 @@
     },
     {
         "name": "Madeleines",
-        "image": "images/.jpg",
+        "image": "images/madeleines.jpg",
         "ingredients": [
             "2 oeufs",
             "80 g de sucre",
@@ -143,7 +143,7 @@
     },
     {
         "name": "Pâte à tarte sucrée",
-        "image": "images/.jpg",
+        "image": "images/pate-tarte-sucree.jpg",
         "ingredients": [
             "1 oeuf",
             "60 g de sucre",
@@ -155,7 +155,7 @@
     },
     {
         "name": "Pancakes",
-        "image": "images/.jpg",
+        "image": "images/pancakes.jpg",
         "ingredients": [
             "125 g de farine",
             "15 g de sucre semoule",
@@ -169,7 +169,7 @@
     },
     {
         "name": "Pain perdu",
-        "image": "images/.jpg",
+        "image": "images/pain-perdu.jpg",
         "ingredients": [
             "Pain rassis ou brioche",
             "45 g de sucre (ou cassonade)",
@@ -183,7 +183,7 @@
     },
     {
         "name": "Gâteau aux poires renversé",
-        "image": "images/.jpg",
+        "image": "images/gateau-poires-renverse.jpg",
         "ingredients": [
             "Moule en verre de 24 cm",
             "4 petites poires Comice ou 3 grosses",
@@ -199,7 +199,7 @@
     },
     {
         "name": "Gâteau au chocolat express",
-        "image": "images/.jpg",
+        "image": "images/gateau-chocolat-express.jpg",
         "ingredients": [
             "100 g de chocolat",
             "100 g de beurre",
@@ -212,7 +212,7 @@
     },
     {
         "name": "Galette frangipane",
-        "image": "images/.jpg",
+        "image": "images/galette-frangipane.jpg",
         "ingredients": [
             "2 pâtes feuilletées",
             "1 jaune d'oeuf",
@@ -225,7 +225,7 @@
     },
     {
         "name": "Langues de chat",
-        "image": "images/.jpg",
+        "image": "images/langues-chat.jpg",
         "ingredients": [
             "70 g de beurre",
             "100 g de sucre en poudre",
@@ -237,7 +237,7 @@
     },
     {
         "name": "Tarte au citron meringuée",
-        "image": "images/.jpg",
+        "image": "images/tarte-citron-meringuee.jpg",
         "ingredients": [
             "200 g de farine",
             "100 g de beurre",
@@ -250,7 +250,7 @@
     },
     {
         "name": "Charlotte chocolat blanc framboises",
-        "image": "images/.jpg",
+        "image": "images/charlotte-framboise-chocolat-blanc.jpg",
         "ingredients": [
             "Biscuits à la cuillère (environ 25)",
             "200 g de chocolat blanc à pâtisser (ou 180g)",
@@ -264,7 +264,7 @@
     {
         "name": "Meringues",
         "details":"(Environ 10 meringues)",
-        "image": "images/.jpg",
+        "image": "images/meringues.jpg",
         "ingredients": [
             "2 blancs d'oeuf",
             "125 g de sucre glace",
@@ -274,7 +274,7 @@
     },
     {
         "name": "Tiramisu",
-        "image": "images/.jpg",
+        "image": "images/tiramisu.jpg",
         "ingredients": [
             "3 oeufs",
             "50 g de sucre",
@@ -286,7 +286,7 @@
     },
     {
         "name": "Clafoutis aux cerises",
-        "image": "images/.jpg",
+        "image": "images/clafoutis-cerises.jpg",
         "ingredients": [
             "750 g de cerises",
             "6 œufs",
@@ -302,7 +302,7 @@
     },
     {
         "name": "Cheesecake au spéculoos",
-        "image": "images/.jpg",
+        "image": "images/cheesecake-speculoos.jpg",
         "ingredients": [
             "150 g de spéculoos",
             "30 g de beurre fondu",
@@ -316,7 +316,7 @@
     },
     {
         "name": "Cheesecake au citron",
-        "image": "images/.jpg",
+        "image": "images/cheesecake-citron.jpg",
         "ingredients": [
             "125 g de palets bretons",
             "250 g de mascarpone",
@@ -331,7 +331,7 @@
     },
     {
         "name": "Gâteau au chocolat léger",
-        "image": "images/.jpg",
+        "image": "images/gateau-leger-chocolat.jpg",
         "ingredients": [
             "20 g de cacao en poudre non sucré",
             "30 g de maïzena (ou farine)",
@@ -345,7 +345,7 @@
     },
     {
         "name": "Brownie",
-        "image": "images/.jpg",
+        "image": "images/brownie.jpg",
         "ingredients": [
             "160 g de chocolat noir",
             "110 g de beurre",
@@ -359,7 +359,7 @@
     {
         "name": "Muffins fruits rouges",
         "details":"(Environ 20 muffins)",
-        "image": "images/.jpg",
+        "image": "images/muffins-fruits-rouges.jpg",
         "ingredients": [
             "200 g de fruits surgelées",
             "140 g de sucre",
@@ -374,7 +374,7 @@
     },
     {
         "name": "Muffins aux pépites de chocolat",
-        "image": "images/.jpg",
+        "image": "images/muffins-pepites-chocolat.jpg",
         "ingredients": [
             "150 g de pépites de chocolat",
             "320 g de farine",
@@ -391,7 +391,7 @@
     },
     {
         "name": "Crumble aux pommes",
-        "image": "images/.jpg",
+        "image": "images/crumble-pommes.jpg",
         "ingredients": [
             "6 pommes",
             "150 g de cassonade",
@@ -406,7 +406,7 @@
     {
         "name": "Cookies",
         "details":"(Environ 12 cookies)",
-        "image": "images/.jpg",
+        "image": "images/cookies.jpg",
         "ingredients": [
             "1 oeuf",
             "250 g de farine",
@@ -423,7 +423,7 @@
     {
         "name": "Sablés",
         "details":"(Environ 40 sablés)",
-        "image": "images/.jpg",
+        "image": "images/sables.jpg",
         "ingredients": [
             "100 g de beurre",
             "100 g de sucre",
@@ -436,7 +436,7 @@
     },
     {
         "name": "Tuiles aux amandes",
-        "image": "images/.jpg",
+        "image": "images/tuiles-amandes.jpg",
         "ingredients": [
             "2 blancs d'oeuf",
             "70 g de sucre en poudre",
@@ -448,7 +448,7 @@
     },
     {
         "name": "Pain d'épices",
-        "image": "images/.jpg",
+        "image": "images/pain-epices.jpg",
         "ingredients": [
             "250 g de miel",
             "250 g de farine",
@@ -464,7 +464,7 @@
     {
         "name": "Crème pâtissière",
         "details":"(Pour 400g de crème)",
-        "image": "images/.jpg",
+        "image": "images/creme-patissiere.jpg",
         "ingredients": [
             "250 g de lait",
             "50 g de jaunes d'oeufs (soit 3 jaunes environ)",
@@ -477,7 +477,7 @@
     },
     {
         "name": "Financiers aux fruits rouges",
-        "image": "images/.jpg",
+        "image": "images/financiers-fruits-rouges.jpg",
         "ingredients": [
             "90 g de poudre d'amandes",
             "150 g de sucre glace",
@@ -491,7 +491,7 @@
     },
     {
         "name": "Bugnes / Merveilles",
-        "image": "images/.jpg",
+        "image": "images/bugnes.jpg",
         "ingredients": [
             "500 g de farine",
             "1/2 sachet de levure",
@@ -506,7 +506,7 @@
     },
     {
         "name": "Brioche au beurre",
-        "image": "images/.jpg",
+        "image": "images/brioche.jpg",
         "ingredients": [
             "125 g de beurre (+ beurrer le moule)",
             "1 cuillère à café de sel",
@@ -523,7 +523,7 @@
     {
         "name": "Panna cotta",
         "details":"(Pour 3 personnes)",
-        "image": "images/.jpg",
+        "image": "images/panna-cotta.jpg",
         "ingredients": [
             "50 cl de crème fraîche liquide",
             "50 g de sucre",
@@ -534,7 +534,7 @@
     },
     {
         "name": "Gâteau au miel",
-        "image": "images/.jpg",
+        "image": "images/gateau-miel.jpg",
         "ingredients": [
             "180 g de beurre",
             "70 g de sucre",
@@ -548,7 +548,7 @@
     {
         "name": "Crème anglaise",
         "details":"(Pour 4 personnes)",
-        "image": "images/.jpg",
+        "image": "images/creme-anglaise.jpg",
         "ingredients": [
             "1/2 litre de lait",
             "4 jaunes d'oeufs",
@@ -559,7 +559,7 @@
     },
     {
         "name": "Glace à la vanille",
-        "image": "images/.jpg",
+        "image": "images/glace-vanille.jpg",
         "ingredients": [
             "4 jaunes d'oeuf",
             "100 g de sucre",
@@ -572,7 +572,7 @@
     },
     {
         "name": "Mousse de fraises",
-        "image": "images/.jpg",
+        "image": "images/mousse-fraises.jpg",
         "ingredients": [
             "500 g de fraises",
             "250 g de crème fraîche liquide",
@@ -582,7 +582,7 @@
     },
     {
         "name": "Banoffee",
-        "image": "images/.jpg",
+        "image": "images/banoffee.jpg",
         "ingredients": [
             "3 bananes bien mûres",
             "150 g de biscuits sablés (spéculoos ou palets bretons)",
@@ -596,7 +596,7 @@
     },
     {
         "name": "Banana bread",
-        "image": "images/.jpg",
+        "image": "images/banana-bread.jpg",
         "ingredients": [
             "200 g de farine",
             "1 pincée de sel",
@@ -611,7 +611,7 @@
     },
     {
         "name": "Caramel beurre salé",
-        "image": "images/.jpg",
+        "image": "images/caramel-beurre-sale.jpg",
         "ingredients": [
             "40 g de sucre",
             "20 g de beurre demi sel",
@@ -621,7 +621,7 @@
     },
     {
         "name": "Pancakes à la banane",
-        "image": "images/.jpg",
+        "image": "images/pancakes-banane.jpg",
         "ingredients": [
             "90 g de farine",
             "1/2 cuil. à soupe de miel",
@@ -638,7 +638,7 @@
     {
         "name": "Flan",
         "details":"(Pour 2 personnes)",
-        "image": "images/.jpg",
+        "image": "images/flan.jpg",
         "ingredients": [
             "250 ml de lait",
             "15 à 20 g de sucre", 
@@ -650,7 +650,7 @@
     },
     {
         "name": "Porridge d’avoine",
-        "image": "images/.jpg",
+        "image": "images/porridge-avoine.jpg",
         "ingredients": [
             "30 de flocons d'avoine écrasés",
             "20 cl de lait  (ou eau mais moins crémeux)",
@@ -661,7 +661,7 @@
     },
     {
         "name": "Carrot cake",
-        "image": "images/.jpg",
+        "image": "images/carrot-cake.jpg",
         "ingredients": [
             "480 g de carottes",
             "4 œufs",
@@ -679,7 +679,7 @@
     },
     {
         "name": "Glaçage carrot cake",
-        "image": "images/.jpg",
+        "image": "images/glacage-carrot-cake.jpg",
         "ingredients": [
             "60 g de cream cheese : Philadelphia ou St Morêt à température ambiante",
             "30 g de beurre doux, ramolli",
