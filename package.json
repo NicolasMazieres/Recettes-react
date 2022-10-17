@@ -14,6 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "homepage":"https://k0rh.github.io/Recettes-react/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
