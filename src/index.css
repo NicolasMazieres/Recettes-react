@@ -296,4 +296,12 @@ li {
     position: static;
   }
 
+  .quote {
+    width: auto;
+  }
+
+  blockquote {
+    margin: 0;
+  }
+
 }

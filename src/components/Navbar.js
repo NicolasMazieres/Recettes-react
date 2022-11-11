@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 export default function Navbar(props) {
-    const [isMenuClicked, setMenu] = useState("false");
+    const [isMenuClicked, setMenu] = useState(false);
     const [largeur, setLargeur] = useState(window.innerWidth);
 
     const menuClicked = () => {
