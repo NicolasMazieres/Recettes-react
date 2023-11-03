@@ -223,6 +223,7 @@ li {
 .texteRecette {
   flex-basis: 65%;
   text-align: justify;
+  white-space: pre-line;
 }
 
 /* Responsivity pour fenêtre peu large */

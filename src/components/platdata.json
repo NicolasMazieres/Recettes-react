@@ -13,7 +13,7 @@
             "1/2 sachet de levure chimique",
             "3 blancs d'œufs"
         ],
-        "recette": "Préchauffer le four à 170°C. Beurrer et fariner des moules à muffins ou un moule à cake. Dans un grand bol, mélanger la farine, la maïzena, la levure et les épices. Si vous utilisez du beurre, le faire fondre au micro-onde, mais sans le faire cuire. Dans un saladier, battre les blancs en neige ferme après y avoir mis 1 pincée de sel. Ensuite incorporer délicatement le mélange sec. On peut le faire soit à la maryse ou au batteur mais à la vitesse la plus faible. Incorporer ensuite l'huile ou le beurre. Finir par l'ajout du gruyère râpé, et des options. Mélanger délicatement à la spatule. Verser la préparation et cuire environ 20 min. Les gâteaux doivent être blonds, légèrement dorés."
+        "recette": "Préchauffer le four à 170°C.\n\nBeurrer et fariner des moules à muffins ou un moule à cake.\n\nDans un grand bol, mélanger la farine, la maïzena, la levure et les épices.\nSi vous utilisez du beurre, le faire fondre au micro-onde, mais sans le faire cuire.\n\nDans un saladier, battre les blancs en neige ferme après y avoir mis 1 pincée de sel.\nEnsuite incorporer délicatement le mélange sec.\nOn peut le faire soit à la maryse ou au batteur mais à la vitesse la plus faible.\nIncorporer ensuite l'huile ou le beurre.\nFinir par l'ajout du gruyère râpé, et des options.\n\nMélanger délicatement à la spatule.\nVerser la préparation et cuire environ 20 min.\nLes gâteaux doivent être blonds, légèrement dorés."
     },
     {
         "name": "Cake courgette lardons et chèvre",
@@ -30,7 +30,7 @@
             "4 cuillères à soupe d'huile (ou 2 de beurre fondu)",
             "Sel, Poivre"
         ],
-        "recette": "Préchauffer le four à 180°C. Découpez les courgettes en rondelles et passez-les au four à micro-ondes durant 4 mn pour les précuire. Versez-les ensuite dans une grande poêle anti-adhésive et continuez la cuisson jusqu'à ce qu'elles commencent à accrocher à la poêle (2 à 3 mn). Ajoutez alors les lardons, l'origan, salez, poivrez et laissez dorer. Dans un grand saladier, battez les 3 œufs et incorporez-y la farine, la levure, l'huile (ou beurre) et le lait préalablement chauffé. Ajoutez ensuite le gruyère râpé, les courgettes, les lardons et la brique de chèvre découpée en petits morceaux. Versez enfin l'ensemble dans un moule à cake puis déposez sur le dessus quelques lamelles supplémentaires de Comté pour gratiner et placez au four durant 45 mn."
+        "recette": "Préchauffer le four à 180°C.\n\nDécoupez les courgettes en rondelles et passez-les au four à micro-ondes durant 4 mn pour les précuire.\n\nVersez-les ensuite dans une grande poêle anti-adhésive et continuez la cuisson jusqu'à ce qu'elles commencent à accrocher à la poêle (2 à 3 mn).\nAjoutez alors les lardons, l'origan, salez, poivrez et laissez dorer.\n\nDans un grand saladier, battez les 3 œufs et incorporez-y la farine, la levure, l'huile (ou beurre) et le lait préalablement chauffé.\nAjoutez ensuite le gruyère râpé, les courgettes, les lardons et la brique de chèvre découpée en petits morceaux.\n\nVersez enfin l'ensemble dans un moule à cake puis déposez sur le dessus quelques lamelles supplémentaires de Comté pour gratiner et placez au four durant 45 mn."
     },
     {
         "name": "Gratin de légumes",
@@ -43,7 +43,7 @@
             "Fromage râpé",
             "Sel, Poivre"
         ],
-        "recette": "Couper les aubergines en rondelles et les faire frire dans l'huile puis les éponger dans du sopalin. Couper les tomates et la mozzarella en rondelles. Déposer dans un plat à gratin en alternant les ingrédients. Saupoudrer de basilic, sel, poivre et fromage râpé."
+        "recette": "Couper les aubergines en rondelles et les faire frire dans l'huile puis les éponger dans du sopalin.\nCouper les tomates et la mozzarella en rondelles.\n\nDéposer dans un plat à gratin en alternant les ingrédients.\n\nSaupoudrer de basilic, sel, poivre et fromage râpé."
     },
     {
         "name": "Roulé courgette saumon",
@@ -58,7 +58,7 @@
             "Sel, poivre",
             "Huile d'olive"
         ],
-        "recette": "Préchauffer le four à 200°C. Râper les courgettes. Faire les revenir dans un peu d'huile d'olive de façon à les faire rendre leur eau. Réserver. Séparer les blancs des jaunes. Battre les jaunes avec la crème fraîche et la farine. Incorporez délicatement les blancs battus en neige. Ajouter ensuite les courgettes râpées. Rectifiez l'assaisonnement. Versez le mélange dans un plat à roulé. Mettre au four environ 25 minutes. Démouler, puis étaler le fromage sur le roulé. Disposer ensuite les tranches de saumon. Rouler le gâteau en le serrant bien. Filmer et laissez 1 h au réfrigérateur minimum, vous pouvez le manger le lendemain."
+        "recette": "Préchauffer le four à 200°C.\n\nRâper les courgettes.\nLes faire revenir dans un peu d'huile d'olive de façon à les faire rendre leur eau.\nRéserver.\n\nSéparer les blancs des jaunes.\nBattre les jaunes avec la crème fraîche et la farine.\nIncorporez délicatement les blancs battus en neige.\n\nAjouter ensuite les courgettes râpées.\nRectifiez l'assaisonnement.\n\nVersez le mélange dans un plat à roulé.\n\nMettre au four environ 25 minutes.\n\nDémouler, puis étaler le fromage sur le roulé.\nDisposer ensuite les tranches de saumon.\n\nRouler le gâteau en le serrant bien.\nFilmer et laissez 1 h au réfrigérateur minimum, vous pouvez le manger le lendemain."
     },
     {
         "name": "Roulé de patate douce",
@@ -70,7 +70,7 @@
             "Tranches de dinde rôtie",
             "3 œufs"
         ],
-        "recette": "Préchauffer le four à 180°. Rincer, éplucher et râper la courgette et la patate douce. Les presser pour sortir le jus. Battre les œufs, saler, poivrer et ajouter les légumes. Étaler sur une plaque de cuisson, et faire cuire 20 à 25min à 180°C,il faudra pouvoir faire un roulé avec cette pâte, puis laisser refroidir. Étaler le chèvre et répartir les tranches de dinde, puis rouler le tout."
+        "recette": "Préchauffer le four à 180°.\n\nRincer, éplucher et râper la courgette et la patate douce.\nLes presser pour sortir le jus.\n\nBattre les œufs, saler, poivrer et ajouter les légumes.\n\nÉtaler sur une plaque de cuisson, et faire cuire 20 à 25min à 180°C,il faudra pouvoir faire un roulé avec cette pâte, puis laisser refroidir.\n\nÉtaler le chèvre et répartir les tranches de dinde, puis rouler le tout."
     },
     {
         "name": "Oeuf cocotte",
@@ -83,7 +83,7 @@
             "4 noisettes de beurre",
             "Sel, Poivre"
         ],
-        "recette": "Préchauffer le four à 240°C. Beurrer 4 ramequins. Couper les tranches de bacon en lanières (une tranche par ramequin) et les déposer dans le fond des ramequins. Casser un œuf dans chaque ramequin, déposer une ou deux cuillères à café de crème fraîche sur les œufs puis recouvrir de gruyère râpé. Mettre une noisette de beurre sur chaque ramequin et enfourner pendant 8 à 9 minutes."
+        "recette": "Préchauffer le four à 240°C.\nBeurrer 4 ramequins.\n\nCouper les tranches de bacon en lanières (une tranche par ramequin) et les déposer dans le fond des ramequins.\nCasser un œuf dans chaque ramequin, déposer une ou deux cuillères à café de crème fraîche sur les œufs puis recouvrir de gruyère râpé.\n\nMettre une noisette de beurre sur chaque ramequin et enfourner pendant 8 à 9 minutes."
     },
     {
         "name": "Gratin de pâtes lardons champignons",
@@ -99,7 +99,7 @@
             "37,5 cl de lait",
             "Sel, Poivre"
         ],
-        "recette": "Préchauffer à 210°C. Faire revenir les lardons et les oignons hachés sans matière grasse. Ajouter l'échalote hachée. Pendant ce temps faire cuire les pâtes à l'eau bouillante salée. Dans la poêle des lardons, ajouter les champignons hachés, laisser cuire à feu doux 10 min. Préparer la béchamel en faisant fondre le beurre, ajouter d'un seul coup la farine, laisser sur le feu doux jusqu'à ce que ça bouillonne. Hors du feu, ajouter le lait petit à petit en mélangeant vigoureusement au fouet. Remettre à chauffer pour épaissir. Y ajouter le gruyère râpé, saler, poivrer et parfumer de muscade. Mélanger ensemble la poêlée de lardons, les pâtes et la béchamel. Mettre le tout dans un plat et enfourner 20 minutes."
+        "recette": "Préchauffer à 210°C.\n\nFaire revenir les lardons et les oignons hachés sans matière grasse.\nAjouter l'échalote hachée.\n\nPendant ce temps faire cuire les pâtes à l'eau bouillante salée.\n\nDans la poêle des lardons, ajouter les champignons hachés, laisser cuire à feu doux 10 min.\n\nPréparer la béchamel en faisant fondre le beurre, ajouter d'un seul coup la farine, laisser sur le feu doux jusqu'à ce que ça bouillonne.\nHors du feu, ajouter le lait petit à petit en mélangeant vigoureusement au fouet.\nRemettre à chauffer pour épaissir.\nY ajouter le gruyère râpé, saler, poivrer et parfumer de muscade.\n\nMélanger ensemble la poêlée de lardons, les pâtes et la béchamel.\n\nMettre le tout dans un plat et enfourner 20 minutes."
     },
     {
         "name": "Sauce salade César",
@@ -113,7 +113,7 @@
             "1 cuillère à soupe d'huile d'olive",
             "7 cl de crème fraîche liquide"
         ],
-        "recette": "Dans un saladier, mettre du sel, du poivre, un jaune d'oeuf, ajouter le jus d'1/2 citron. Ajouter une douzaine de câpres hachés, une 1/2 gousse d'un petit ail hachée. Ajouter une cuillère à soupe d'huile d'olive. Puis lier la sauce en ajoutant de la crème fraîche liquide. Pour la garniture, ajouter à convenance : poulet, parmesan, bacon, etc."
+        "recette": "Dans un saladier, mettre du sel, du poivre, un jaune d'oeuf, ajouter le jus d'1/2 citron.\nAjouter une douzaine de câpres hachés, une 1/2 gousse d'un petit ail hachée.\nAjouter une cuillère à soupe d'huile d'olive.\nPuis lier la sauce en ajoutant de la crème fraîche liquide.\n\nPour la garniture, ajouter à convenance : poulet, parmesan, bacon, etc."
     },
     {
         "name": "Lasagne saumon épinards",
@@ -129,13 +129,13 @@
             "Fromage râpé",
             "Sel, poivre"
         ],
-        "recette": "Préchauffer le four à 180°C. Faire cuire rapidement le saumon pour l'émietter. Faire la béchamel et y ajouter les épinards et le saumon. Remplir le fond du plat avec la pâte des lasagnes, ajouter la préparation et renouveler l'opération plusieurs fois (environ 3 fois) et finir par la préparation. Saupoudrer de fromage râpé et enfourner pendant 30 min."
+        "recette": "Préchauffer le four à 180°C.\n\nFaire cuire rapidement le saumon pour l'émietter.\nFaire la béchamel et y ajouter les épinards et le saumon.\n\nRemplir le fond du plat avec la pâte des lasagnes, ajouter la préparation et renouveler l'opération plusieurs fois (environ 3 fois) et finir par la préparation.\nSaupoudrer de fromage râpé et enfourner pendant 30 min."
     },
     {
         "name": "Gratin de poissons au four",
         "image": "images/gratin-poissons.jpg",
         "ingredients": [
-            "Filets de sol (4 par personnes)",
+            "Filets de sole (4 par personnes)",
             "Moules",
             "Crevettes",
             "30g de beurre",
@@ -143,7 +143,7 @@
             "Crème fraîche",
             "Court bouillon"
         ],
-        "recette": "frémissant pendant 5 min. Les mettre dans un plat à gratin en enlevant les pics, ajouter des crevettes décortiquées et quelques moules. Faire une béchamel avec l'eau du court bouillon au lieu du lait. Ajouter un peu de crème fraîche. Verser dans le plat, ajouter de la chapelure et du fromage râpé sur le dessus. Mettre au four à 180°C pendant 30 min."
+        "recette": "Cuire les filets de sole enroulés sur des pics en bois au court-bouillon frémissant pendant 5 min.\nLes mettre dans un plat à gratin en enlevant les pics, ajouter des crevettes décortiquées et quelques moules.\n\nFaire une béchamel avec l'eau du court bouillon au lieu du lait.\nAjouter un peu de crème fraîche.\n\nVerser dans le plat, ajouter de la chapelure et du fromage râpé sur le dessus.\n\nMettre au four à 180°C pendant 30 min."
     },
     {
         "name": "Sauce aile de raie",
@@ -157,7 +157,7 @@
             "1 cuillère à soupe de crème fraîche",
             "Sel, Poivre"
         ],
-        "recette": "Émincer l'échalote, la faire blanchir dans le beurre. Ajouter la farine, laisser mousser puis sortir du feu. Ajouter petit à petit l'eau du court-bouillon. Assaisonner ajouter la crème fraîche."
+        "recette": "Émincer l'échalote, la faire blanchir dans le beurre.\n\nAjouter la farine, laisser mousser puis sortir du feu.\nAjouter petit à petit l'eau du court-bouillon.\n\nAssaisonner ajouter la crème fraîche."
     },
     {
         "name": "Risotto aux champignons",
@@ -176,7 +176,7 @@
             "2 brins de persil plat",
             "1 pincée de sel et 1 pincée de poivre"
         ],
-        "recette": "Séparer les champignons en deux : une partie servira à élaborer le bouillon et cuire avec le riz. L'autre partie sera poêlée au dernier moment. Émincer un petit peu d'ail, d'échalote et de persil séparément et réserver. Nettoyer les champignons et les couper en morceaux. Faire blondir dans une casserole un demi-oignon émincé dans un mélange de beurre et d'huile d'olive. Ajouter et poêler les champignons. Ajouter du bouillon (assez pour nourrir le risotto). Laisser mijoter le bouillon pour qu'il s'imprègne bien du goût et des saveurs des champignons. Chauffer une nouvelle casserole (qui accueillera le risotto), ajouter un peu d'huile d'olive et de beurre que vous ferez blondir. Ajouter le riz carnaroli et remuer jusqu'à le rendre translucide (attention à la température, le riz ne doit pas coller). Déglacer avec un verre de vin blanc sec. Continuer à remuer pour que le riz n'adhère pas et laisser réduire l'alcool. Verser une louche de bouillon que vous avez laissé mijoter et continuer à remuer constamment jusqu'à l'absorption totale du riz. Réitérer l'étape jusqu'au point de cuisson (préférer al dente). Juste avant la fin, faire fondre du beurre et un peu d'huile d'olive dans une poêle tout en remuant le risotto. Faire blondir l'échalote émincée dans la poêle puis ajouter l'ail. Faire poêler les champignons tout en remuant le risotto, assaisonner et ajouter le persil émincé en fin de cuisson avec un tour de moulin à poivre puis réserver. Assaisonner le risotto juste avant la fin.Ciseler du persil et en parsemer au dessus puis ajouter le parmesan."
+        "recette": "Séparer les champignons en deux : une partie servira à élaborer le bouillon et cuire avec le riz.\nL'autre partie sera poêlée au dernier moment.\n\nÉmincer un petit peu d'ail, d'échalote et de persil séparément et réserver.\nNettoyer les champignons et les couper en morceaux.\n\nFaire blondir dans une casserole un demi-oignon émincé dans un mélange de beurre et d'huile d'olive.\nAjouter et poêler les champignons.\nAjouter du bouillon (assez pour nourrir le risotto).\nLaisser mijoter le bouillon pour qu'il s'imprègne bien du goût et des saveurs des champignons.\n\nChauffer une nouvelle casserole (qui accueillera le risotto), ajouter un peu d'huile d'olive et de beurre que vous ferez blondir.\nAjouter le riz carnaroli et remuer jusqu'à le rendre translucide (attention à la température, le riz ne doit pas coller).\nDéglacer avec un verre de vin blanc sec.\nContinuer à remuer pour que le riz n'adhère pas et laisser réduire l'alcool.\nVerser une louche de bouillon que vous avez laissé mijoter et continuer à remuer constamment jusqu'à l'absorption totale du riz.\nRéitérer l'étape jusqu'au point de cuisson (préférer al dente).\n\nJuste avant la fin, faire fondre du beurre et un peu d'huile d'olive dans une poêle tout en remuant le risotto.\nFaire blondir l'échalote émincée dans la poêle puis ajouter l'ail.\nFaire poêler les champignons tout en remuant le risotto, assaisonner et ajouter le persil émincé en fin de cuisson avec un tour de moulin à poivre puis réserver.\n\nAssaisonner le risotto juste avant la fin.Ciseler du persil et en parsemer au dessus puis ajouter le parmesan."
     },
     {
         "name": "Beignets de courgette",
@@ -189,7 +189,7 @@
             "Environ 150 mL d'eau",
             "Huile"
         ],
-        "recette": "Couper les courgettes et les faire revenir à la poêle, les écraser à la fourchette et bien les dessécher. Battre l'oeuf avec la farine et saler poivrer. Délayer avec l'eau pour avoir une texture de pâte à crêpes très épaisse. Ajouter les courgettes et faire cuire des petits tas dans une poêle bien huilée, puis essorer dans du papier absorbant."
+        "recette": "Couper les courgettes et les faire revenir à la poêle, les écraser à la fourchette et bien les dessécher.\n\nBattre l'oeuf avec la farine et saler poivrer.\nDélayer avec l'eau pour avoir une texture de pâte à crêpes très épaisse.\n\nAjouter les courgettes et faire cuire des petits tas dans une poêle bien huilée, puis essorer dans du papier absorbant."
     },
     {
         "name": "Poisson en papillote",
@@ -201,7 +201,7 @@
             "Aneth ou persil",
             "Sel, poivre"
         ],
-        "recette": "Préchauffer le four à 180°C. Mettre le poisson sur une feuille de papier sulfurisé. Arroser d'un filet de citron, parsemer d'aneth ou de persil. Mettre 2 noix de beurre, assaisonner (ajouter éventuellement des rondelles de tomates sur le poisson). Mettre une deuxième feuille de papier sulfurisé pour fermer. Plier les bords et les tenir avec des trombones. Cuire 20 min à 180°C."
+        "recette": "Préchauffer le four à 180°C.\n\nMettre le poisson sur une feuille de papier sulfurisé.\nArroser d'un filet de citron, parsemer d'aneth ou de persil.\nMettre 2 noix de beurre, assaisonner (ajouter éventuellement des rondelles de tomates sur le poisson).\nMettre une deuxième feuille de papier sulfurisé pour fermer.\nPlier les bords et les tenir avec des trombones.\n\nCuire 20 min à 180°C."
     },
     {
         "name": "Crumble de légumes et lardons",
@@ -217,7 +217,7 @@
             "120 g de farine de blé",
             "80 g d'amandes en poudre"
         ],
-        "recette": "Préchauffez le four à 220°C. Sortez le beurre du frigo pour le faire ramollir. Lavez les légumes, Coupez la courgette en dés. Émincez les poireaux. Pelez et hachez l'oignon. Pelez et coupez les carottes en fins bâtonnets. Dans une grande sauteuse (ou un wok), faites revenir les lardons et l'oignon 2 minutes à feu vif. Ajoutez les légumes et faites revenir le tout pendant 8 minutes en remuant souvent, salez si nécessaire et poivrez. Dans un saladier, mélangez à la main la farine, le beurre mou et la poudre d'amande. Travaillez la pâte du bout des doigts jusqu'à obtenir un mélange sablonneux. Versez les légumes dans un plat à gratin et recouvrez-les de cette préparation. Faites gratiner 20 minutes au four."
+        "recette": "Préchauffez le four à 220°C.\n\nSortez le beurre du frigo pour le faire ramollir.\nLavez les légumes, Coupez la courgette en dés.\nÉmincez les poireaux.\nPelez et hachez l'oignon.\nPelez et coupez les carottes en fins bâtonnets.\n\nDans une grande sauteuse (ou un wok), faites revenir les lardons et l'oignon 2 minutes à feu vif.\nAjoutez les légumes et faites revenir le tout pendant 8 minutes en remuant souvent, salez si nécessaire et poivrez.\n\nDans un saladier, mélangez à la main la farine, le beurre mou et la poudre d'amande.\nTravaillez la pâte du bout des doigts jusqu'à obtenir un mélange sablonneux.\n\nVersez les légumes et lardons dans un plat à gratin et recouvrez-les de cette préparation.\n\nFaites gratiner 20 minutes au four."
     },
     {
         "name": "Moussaka",
@@ -237,7 +237,7 @@
             "Sel, Poivre",
             "Pour la béchamel: 20 g de beurre, 3 cuillères à soupe de farine, 35 cl de lait et 1 oeuf"
         ],
-        "recette": "Préparation de la sauce tomate: émincer les oignons et les faire blondir dans une petite casserole. Ajouter les tomates coupées en gros dés et 2 bonnes cuillères à soupe d'huile d'olive, la cannelle, le miel, saler et poivrer. Laisser réduire le tout 25 minutes (ou plus, jusqu'à arriver à la préparation de la viande) à feu moyen. On doit obtenir une sauce, que l'on peut homogénéiser avec du coulis de tomate tout prêt. Préparation des aubergines : couper les aubergines en rondelles (sans les peler), saler généreusement, et les laisser dégorger le temps de l'étape suivante. Conseil pour faire dégorger les aubergines : dans un plat, alterner une couche de tranches d'aubergine salées et une couche de papier absorbant ou les laisser dans une passoire. Préparation des pommes de terre : éplucher et découper les pommes de terre en fines rondelles et les disposer au fond d'un plat à gratin assez haut, huilé. Arroser les pommes de terre d'un peu (3 cuillères à soupe) du jus rendu par les tomates qui mijotent. Passer le plat de pommes de terre sous le grill 5 à 15 min selon votre four, pour qu'elles dorent. Maintenant qu'elles ont dégorgé, passer les rondelles d'aubergine à la poêle huilée à feu fort pour les faire griller un peu de chaque côté, réserver. Préparation de la viande: dans un faitout, faire revenir la viande hachée au beurre à feu assez fort, saler, poivrer et retirer l'eau rendue par la viande. Ajouter la sauce tomate-oignons et baisser le feu (très doux). Sortir le plat de pommes de terre du four et préchauffer le four à 200°C. Préparation de la béchamel : dans une petite casserole sur feu doux, faire blondir le beurre, ajouter la farine et mélanger pour obtenir un appareil homogène. Incorporer petit à petit le lait en n'arrêtant jamais de remuer; ajouter le jaune d' ouf; on doit obtenir une sauce assez épaisse. Ajouter le blanc d'oeuf monté en neige. Saler, poivrer et râper un peu de noix de muscade. Pour le montage, par dessus la couche de pommes de terre, étaler la moitié de la viande hachée avec la tomate, puis la moitié des aubergines, puis l'autre moitié de viande, puis l'autre moitié des aubergines, un filet d'huile d'olive et terminer par la béchamel. Enfourner le tout dans le four à 200°C et laisser cuire 1h (la béchamel doit croustiller et être dorée)."
+        "recette": "Préparation de la sauce tomate: \nÉmincer les oignons et les faire blondir dans une petite casserole.\nAjouter les tomates coupées en gros dés et 2 bonnes cuillères à soupe d'huile d'olive, la cannelle, le miel, saler et poivrer.\nLaisser réduire le tout 25 minutes (ou plus, jusqu'à arriver à la préparation de la viande) à feu moyen.\nOn doit obtenir une sauce, que l'on peut homogénéiser avec du coulis de tomate tout prêt.\n\nPréparation des aubergines : \nCouper les aubergines en rondelles (sans les peler), saler généreusement, et les laisser dégorger le temps de l'étape suivante.\nConseil pour faire dégorger les aubergines : dans un plat, alterner une couche de tranches d'aubergine salées et une couche de papier absorbant ou les laisser dans une passoire.\n\nPréparation des pommes de terre : \nÉplucher et découper les pommes de terre en fines rondelles et les disposer au fond d'un plat à gratin assez haut, huilé.\nArroser les pommes de terre d'un peu (3 cuillères à soupe) du jus rendu par les tomates qui mijotent.\nPasser le plat de pommes de terre sous le grill 5 à 15 min selon votre four, pour qu'elles dorent.\n\nMaintenant qu'elles ont dégorgé, passer les rondelles d'aubergine à la poêle huilée à feu fort pour les faire griller un peu de chaque côté, réserver.\n\nPréparation de la viande: \nDans un faitout, faire revenir la viande hachée au beurre à feu assez fort, saler, poivrer et retirer l'eau rendue par la viande.\nAjouter la sauce tomate-oignons et baisser le feu (très doux).\n\nSortir le plat de pommes de terre du four et préchauffer le four à 200°C.\n\nPréparation de la béchamel :\nDans une petite casserole sur feu doux, faire blondir le beurre, ajouter la farine et mélanger pour obtenir un appareil homogène.\nIncorporer petit à petit le lait en n'arrêtant jamais de remuer; ajouter le jaune d' ouf; on doit obtenir une sauce assez épaisse.\nAjouter le blanc d'oeuf monté en neige.\nSaler, poivrer et râper un peu de noix de muscade.\n\nPour le montage, par dessus la couche de pommes de terre, étaler la moitié de la viande hachée avec la tomate, puis la moitié des aubergines, puis l'autre moitié de viande, puis l'autre moitié des aubergines, un filet d'huile d'olive et terminer par la béchamel.\n\nEnfourner le tout dans le four à 200°C et laisser cuire 1h (la béchamel doit croustiller et être dorée)."
     },
     {
         "name": "Poulet curry",
@@ -250,7 +250,7 @@
             "1 cuillère à café de moutarde",
             "Crème fraîche liquide"
         ],
-        "recette": "Couper le poulet en petits morceaux et le faire rissoler dans du beurre jusqu'à coloration. Retirer le poulet de la poêle et y mettre à feu doux les échalotes. Ajouter le curry et la moutarde délayée avec un peu de crème fraîche pour une consistance liquide (il est possible de remplacer/rajouter du lait de coco). Ajouter le poulet au mélange et faire mijoter 5 minutes."
+        "recette": "Couper le poulet en petits morceaux et le faire rissoler dans du beurre jusqu'à coloration.\nRetirer le poulet de la poêle et y mettre à feu doux les échalotes.\nAjouter le curry et la moutarde délayée avec un peu de crème fraîche pour une consistance liquide (il est possible de remplacer/rajouter du lait de coco).\nAjouter le poulet au mélange et faire mijoter 5 minutes."
     },
     {
         "name": "Pommes cuites",
@@ -261,7 +261,7 @@
             "Crème fraîche",
             "Sucre roux"
         ],
-        "recette": "Éplucher et couper les pommes en gros quartiers. Faire griller dans du beurre tous les côtés à feu vif. Ensuite baisser le feu et laisser ramollir les pommes avec un couvercle environ 10 min. Saupoudrer d'une cuillère café de sucre roux et 1 pincée de sel, puis déglacer avec de la crème fraîche liquide."
+        "recette": "Éplucher et couper les pommes en gros quartiers.\nFaire griller dans du beurre tous les côtés à feu vif.\nEnsuite baisser le feu et laisser ramollir les pommes avec un couvercle environ 10 min.\nSaupoudrer d'une cuillère café de sucre roux et 1 pincée de sel, puis déglacer avec de la crème fraîche liquide."
     },
     {
         "name": "Frites de patate douce",
@@ -275,7 +275,7 @@
             "4 cuillères à soupe d'huile d'olive",
             "Thym"
         ],
-        "recette": "Préchauffer le four à 210°C. Lavez les pommes de terre et coupez-les en bâtonnets. Mettez-les dans un saladier et ajoutez le sel, le poivre, le paprika, et l'huile d'olive. Mélangez bien pour que les frites soient bien enrobées, bien assaisonnées. Étalez sur une plaque avec du papier cuisson. Enfournez pour 30 à 35 minutes de cuisson, chaleur tournante."
+        "recette": "Préchauffer le four à 210°C.\nLavez les pommes de terre et coupez-les en bâtonnets.\nMettez-les dans un saladier et ajoutez le sel, le poivre, le paprika, et l'huile d'olive.\nMélangez bien pour que les frites soient bien enrobées, bien assaisonnées.\nÉtalez sur une plaque avec du papier cuisson.\nEnfournez pour 30 à 35 minutes de cuisson, chaleur tournante."
     },
     {
         "name": "Riz cantonais",
@@ -289,7 +289,7 @@
             "Sauces soja sucrée et salée",
             "Huile d'olive"
         ],
-        "recette": "Faire revenir l'oignon et les lardons, réserver dans un bol. Mettre de l'eau salée à bouillir. Dans la poêle encore grasse, faire une omelette avec les œufs. Une fois cuite, la découper en petites lamelles et ajouter au bol d'oignons et lardons. Ajouter le riz à l'eau bouillante. Faire cuire les petits pois dans la poêle. Une fois le riz cuit, mélanger avec l'huile d'olive, les lardons, les oignons, l’omelette tranchée et les petits pois dans une grande poêle ou autre sur feu doux. Ajouter un peu de sauce soja. Servir chaud."
+        "recette": "Faire revenir l'oignon et les lardons, réserver dans un bol.\nMettre de l'eau salée à bouillir.\nDans la poêle encore grasse, faire une omelette avec les œufs.\nUne fois cuite, la découper en petites lamelles et ajouter au bol d'oignons et lardons.\nAjouter le riz à l'eau bouillante.\nFaire cuire les petits pois dans la poêle.\nUne fois le riz cuit, mélanger avec l'huile d'olive, les lardons, les oignons, l’omelette tranchée et les petits pois dans une grande poêle ou autre sur feu doux.\nAjouter un peu de sauce soja.\nServir chaud."
     },
     {
         "name": "Samoussa au poulet et à la féta",
@@ -305,7 +305,7 @@
             "Huile d'olive",
             "Sel, Poivre"
         ],
-        "recette": "Dans une casserole, mettre à ébullition le bouillon de légume, y ajouter le poulet coupé en petites aiguillettes. Laisser cuire à petit bouillon 5 min. Égoutter. Dans une poêle, faire revenir l'échalote émincée dans de l'huile d'olive. Quand elle devient transparente, y ajouter le poulet coupé en tout petits morceaux. Cuire 5 min. Ajouter la crème liquide, du sel et du poivre et mélanger le tout. Émietter la feta dans un grand bol, y ajouter le poulet et mélanger. Préparer les samoussas : garnir les feuilles de brick d'un peu de préparation et plier selon votre habitude. Faire chauffer de l'huile d'olive dans une poêle, y faire revenir les samoussas 2 min de chaque côté. Servir bien chaud avec une salade verte."
+        "recette": "Dans une casserole, mettre à ébullition le bouillon de légume, y ajouter le poulet coupé en petites aiguillettes.\nLaisser cuire à petit bouillon 5 min.\nÉgoutter.\nDans une poêle, faire revenir l'échalote émincée dans de l'huile d'olive.\nQuand elle devient transparente, y ajouter le poulet coupé en tout petits morceaux.\nCuire 5 min.\nAjouter la crème liquide, du sel et du poivre et mélanger le tout.\nÉmietter la feta dans un grand bol, y ajouter le poulet et mélanger.\n\nPréparer les samoussas : \nGarnir les feuilles de brick d'un peu de préparation et plier selon votre habitude.\nFaire chauffer de l'huile d'olive dans une poêle, y faire revenir les samoussas 2 min de chaque côté.\n\nServir bien chaud avec une salade verte."
     },
     {
         "name": "Boulettes de bœuf",
@@ -333,7 +333,7 @@
             "1 cuillère à soupe de lait",
             "Huile friture"
         ],
-        "recette": "Mélanger la farine, le sel, le poivre et le paprika. Dans un autre récipient, battre l'œuf et le lait. Mettre les cornflakes dans un 3ème récipient. Couper le poulet en lamelles pas trop fines. Tremper le poulet dans la farine. Tremper ensuite le poulet dans le mélange oeuf lait. Puis le tremper dans les corn flakes. Faire chauffer de l'huile (un fond dans une poêle) à feu moyen. Une fois l'huile chaude, faire cuire le poulet en le retournant pour faire bien dorer toutes les faces."
+        "recette": "Mélanger la farine, le sel, le poivre et le paprika.\nDans un autre récipient, battre l'œuf et le lait.\nMettre les cornflakes dans un 3ème récipient.\nCouper le poulet en lamelles pas trop fines.\nTremper le poulet dans la farine.\nTremper ensuite le poulet dans le mélange oeuf lait.\nPuis le tremper dans les corn flakes.\nFaire chauffer de l'huile (un fond dans une poêle) à feu moyen.\nUne fois l'huile chaude, faire cuire le poulet en le retournant pour faire bien dorer toutes les faces."
     },
     {
         "name": "Chakchouka",
@@ -348,7 +348,7 @@
             "Cumin et coriandre",
             "Sel poivre"
         ],
-        "recette": "Sortir les œufs du frigo. Couper les oignons et les poivrons en fines lamelles. Faire revenir les oignons dans de l'huile d'olive dans un poêlon assez grand puis une fois dorés ajouter les poivrons. Pendant ce temps couper les tomates. Une fois les poivrons bien cuits, ajouter les tomates et cuire à feu plus doux, couvrir le poêlon. Pendant la cuisson à feu doux, faire cuire dans une petite poêle à part le chorizo coupé en petits morceaux puis jeter le gras rendu. Ajouter le chorizo cuit au mélange tomate poivron-oignon. Ajouter cumin, sel et poivre. Laisser cuire un peu (plus ça cuit meilleur c'est). En fin de cuisson, ajouter les œufs comme des œufs au plat sur l'ensemble et recouvrir. Lorsque les œufs sont cuits mais encore coulants, décorer d'un peu de coriandre et servir."
+        "recette": "Sortir les œufs du frigo.\nCouper les oignons et les poivrons en fines lamelles.\nFaire revenir les oignons dans de l'huile d'olive dans un poêlon assez grand puis une fois dorés ajouter les poivrons.\nPendant ce temps couper les tomates.\nUne fois les poivrons bien cuits, ajouter les tomates et cuire à feu plus doux, couvrir le poêlon.\nPendant la cuisson à feu doux, faire cuire dans une petite poêle à part le chorizo coupé en petits morceaux puis jeter le gras rendu.\nAjouter le chorizo cuit au mélange tomate poivron-oignon.\nAjouter cumin, sel et poivre.\nLaisser cuire un peu (plus ça cuit meilleur c'est).\nEn fin de cuisson, ajouter les œufs comme des œufs au plat sur l'ensemble et recouvrir.\nLorsque les œufs sont cuits mais encore coulants, décorer d'un peu de coriandre et servir."
     },
     {
         "name": "Taboulé",
@@ -363,7 +363,7 @@
             "3 citrons",
             "Huile d'olive"
         ],
-        "recette": "Faire cuire la semoule selon les instructions du paquet puis laisser reposer. Ajouter un filet d'huile d'olive dans la semoule. Presser les citrons et ajouter le jus à la semoule. Couper les tomates en petits dés et les ajouter au tout. De même pour les oignons nouveaux. Hacher menthe l'ensemble. et persil puis mélanger Réserver au frais avant dégustation."
+        "recette": "Faire cuire la semoule selon les instructions du paquet puis laisser reposer.\nAjouter un filet d'huile d'olive dans la semoule.\nPresser les citrons et ajouter le jus à la semoule.\nCouper les tomates en petits dés et les ajouter au tout.\nDe même pour les oignons nouveaux.\nHacher menthe l'ensemble.\net persil puis mélanger Réserver au frais avant dégustation."
     },
     {
         "name": "Veau (ou poulet) aux asperges",
@@ -379,7 +379,7 @@
             "8 asperges vertes",
             "20 champignons de Paris"
         ],
-        "recette": "Dans une poêle, verser un trait d'huile d'olive, laisser chauffer, ciseler l'oignon, l'ajouter et le faire suer. Tailler les queues des asperges pour retirer le bout qui est trop dur, garder les pointes à 5 cm de long, couper le cour en biseaux de 1 cm de large. Ajouter les têtes dans le plat puis le cœur en biseaux, cuire 4 à 5 minutes. Émincer les champignons finement et les ajouter dans le plat. Cuire 6 minutes, mélanger et débarrasser la cuisson des légumes dans un plat. Verser un trait d'huile d'olive, couper la viande en petits cubes, l'assaisonner et la déposer dans le plat (pas besoin de le nettoyer), colorer toutes les faces, ajouter une cuillerée de beurre, caraméliser et cuire 2 minutes. Ajouter les légumes, mélanger, ajouter la moutarde à l'ancienne et la crème, mélanger à la spatule, assaisonner. Laisser cuire à petits frémissements quelques minutes."
+        "recette": "Dans une poêle, verser un trait d'huile d'olive, laisser chauffer, ciseler l'oignon, l'ajouter et le faire suer.\nTailler les queues des asperges pour retirer le bout qui est trop dur, garder les pointes à 5 cm de long, couper le cour en biseaux de 1 cm de large.\nAjouter les têtes dans le plat puis le cœur en biseaux, cuire 4 à 5 minutes.\nÉmincer les champignons finement et les ajouter dans le plat.\nCuire 6 minutes, mélanger et débarrasser la cuisson des légumes dans un plat.\nVerser un trait d'huile d'olive, couper la viande en petits cubes, l'assaisonner et la déposer dans le plat (pas besoin de le nettoyer), colorer toutes les faces, ajouter une cuillerée de beurre, caraméliser et cuire 2 minutes.\nAjouter les légumes, mélanger, ajouter la moutarde à l'ancienne et la crème, mélanger à la spatule, assaisonner.\nLaisser cuire à petits frémissements quelques minutes."
     },
     {
         "name": "Pain de courgettes",
@@ -392,7 +392,7 @@
             "Estragon",
             "Sel poivre"
         ],
-        "recette": "Couper les courgettes et hacher les échalotes, laisser cuire dans 2 cuillères d'huile, jusqu'à ce que ça soit « tout mou », écraser à la fourchette et attendre que ça se dessèche. Laisser un peu refroidir, ajouter un à un les œufs en battant. Ajouter le fromage,1 cuillère à café d'estragon, salée et poivrer. Mettre dans le moule, faire cuire environ 50 min à 170°C."
+        "recette": "Couper les courgettes et hacher les échalotes, laisser cuire dans 2 cuillères d'huile, jusqu'à ce que ça soit « tout mou », écraser à la fourchette et attendre que ça se dessèche.\nLaisser un peu refroidir, ajouter un à un les œufs en battant.\nAjouter le fromage,1 cuillère à café d'estragon, salée et poivrer.\nMettre dans le moule, faire cuire environ 50 min à 170°C."
     },
     {
         "name": "Pâte à tarte salée",
@@ -416,7 +416,7 @@
             "Basilic",
             "Fromage râpé"
         ],
-        "recette": "Faire précuire la pâte 8min à 180°C. Couper les tomates et la mozzarella, puis les déposer dans le plat à tarte. Saler, poivrer et saupoudrer de basilic et de fromage râpé. Enfourner pour 40min à 180°C."
+        "recette": "Faire précuire la pâte 8min à 180°C.\nCouper les tomates et la mozzarella, puis les déposer dans le plat à tarte.\nSaler, poivrer et saupoudrer de basilic et de fromage râpé.\nEnfourner pour 40min à 180°C."
     },
     {
         "name": "Quiche lorraine",
@@ -431,7 +431,7 @@
             "20 cl de lait",
             "Sel, poivre"
         ],
-        "recette": "Préchauffer le four à 200°C. Précuire la pâte 8 mn. Faire dorer les lardons. Pendant ce temps, mélanger les œufs battus et la crème fraîche. Une fois les lardons dorés, les mélanger à la préparation aux œufs. Saler, poivrer, et ajouter la muscade. Verser la préparation sur le fond de pâte. Mettre au four pendant 30 min."
+        "recette": "Préchauffer le four à 200°C.\nPrécuire la pâte 8 mn.\nFaire dorer les lardons.\nPendant ce temps, mélanger les œufs battus et la crème fraîche.\nUne fois les lardons dorés, les mélanger à la préparation aux œufs.\nSaler, poivrer, et ajouter la muscade.\nVerser la préparation sur le fond de pâte.\nMettre au four pendant 30 min."
     },
     {
         "name": "Quiche aux poireaux",
@@ -448,7 +448,7 @@
             "Sel, Poivre",
             "1 pâte à tarte"
         ],
-        "recette": "Précuire la pâte 8 min à 180°C (si la pâte est maison). Laver et couper les blancs de poireaux en tronçons. Les faire cuire dans une sauteuse couverte avec un peu de beurre et d'eau environ 20 minutes. Une fois cuits, les travailler en purée à la fourchette et étaler la purée de poireaux. Battre les œufs avec la crème, le lait, le sel, le poivre et une pincée de muscade. Verser sur les poireaux et saupoudrer de chapelure et de fromage râpé. Faire cuire 40 min au four à 220°C."
+        "recette": "Précuire la pâte 8 min à 180°C (si la pâte est maison).\nLaver et couper les blancs de poireaux en tronçons.\nLes faire cuire dans une sauteuse couverte avec un peu de beurre et d'eau environ 20 minutes.\nUne fois cuits, les travailler en purée à la fourchette et étaler la purée de poireaux.\nBattre les œufs avec la crème, le lait, le sel, le poivre et une pincée de muscade.\nVerser sur les poireaux et saupoudrer de chapelure et de fromage râpé.\nFaire cuire 40 min au four à 220°C."
     },
     {
         "name": "Tarte saint-nectaire",
@@ -460,7 +460,7 @@
             "Huile olive",
             "Herbes de Provence"
         ],
-        "recette": "Précuire la pâte 8 min 180°C (si la pâte est maison). Sur la pâte, disposer le saint nectaire en tranches. Ajouter les rondelles de tomates, puis un filet d'huile d'olive et enfin, les herbes de Provence. Enfourner environ 20 min à 180 degrés (jusqu'à ce que la tarte soit bien dorée et que le fromage ait fondu)."
+        "recette": "Précuire la pâte 8 min 180°C (si la pâte est maison).\nSur la pâte, disposer le saint nectaire en tranches.\nAjouter les rondelles de tomates, puis un filet d'huile d'olive et enfin, les herbes de Provence.\nEnfourner environ 20 min à 180 degrés (jusqu'à ce que la tarte soit bien dorée et que le fromage ait fondu)."
     },
     {
         "name": "Quiche poireaux chèvre lardons",
@@ -475,7 +475,7 @@
             "10 cl de lait",
             "Sel, Poivre"
         ],
-        "recette": "Précuire la pâte 8 min 180°C (si la pâte est maison). Préchauffer le four à 180°C. Étaler la pâte dans le moule beurré et fariné. Nettoyer puis émincer les blancs des 3 poireaux. Faire dorer les lardons dont vous utiliserez la graisse pour faire revenir les poireaux ensuite. Répartir lardons et poireaux sur le fond de tarte. Dans un bol, battre les œufs, la crème et le lait. Assaisonner à votre goût puis verser le mélange dans la tarte. Découper le fromage de chèvre en rondelles que vous déposerez sur la quiche. Cuire au four de 25 à 30 min."
+        "recette": "Précuire la pâte 8 min 180°C (si la pâte est maison).\nPréchauffer le four à 180°C.\nÉtaler la pâte dans le moule beurré et fariné.\nNettoyer puis émincer les blancs des 3 poireaux.\nFaire dorer les lardons dont vous utiliserez la graisse pour faire revenir les poireaux ensuite.\nRépartir lardons et poireaux sur le fond de tarte.\nDans un bol, battre les œufs, la crème et le lait.\nAssaisonner à votre goût puis verser le mélange dans la tarte.\nDécouper le fromage de chèvre en rondelles que vous déposerez sur la quiche.\nCuire au four de 25 à 30 min."
     },
     {
         "name": "Nouilles chinoises",
@@ -495,7 +495,7 @@
             "Huile olive",
             "Sel, poivre"            
         ],
-        "recette": "Laver et émincer tous les légumes et le poulet. Dans un Wok ou une grande sauteuse, faire chauffer l'huile et y cuire le poulet. Saler, poivrer et réserver. Faire fondre et dorer l'oignon, puis réserver avec le poulet. Faire cuire les légumes à feu vif pendant 5 min en remuant puis environ 15 min sous couvercle à feu plus doux. Ensuite ajouter le poulet. Préparer environ 40cl de bouillon, puis l'ajouter aux légumes avec les nouilles. Faire cuire comme indiqué sur le paquet de nouille soit environ quand presque toute l'eau est évaporée. Ajouter ensuite la sauce Nuoc-mâm, et le lait de coco comme souhaité."
+        "recette": "Laver et émincer tous les légumes et le poulet.\nDans un Wok ou une grande sauteuse, faire chauffer l'huile et y cuire le poulet.\nSaler, poivrer et réserver.\nFaire fondre et dorer l'oignon, puis réserver avec le poulet.\nFaire cuire les légumes à feu vif pendant 5 min en remuant puis environ 15 min sous couvercle à feu plus doux.\nEnsuite ajouter le poulet.\nPréparer environ 40cl de bouillon, puis l'ajouter aux légumes avec les nouilles.\nFaire cuire comme indiqué sur le paquet de nouille soit environ quand presque toute l'eau est évaporée.\nAjouter ensuite la sauce Nuoc-mâm, et le lait de coco comme souhaité."
     },
     {
         "name": "Aubergines tomates mozzarella",
@@ -509,7 +509,7 @@
             "Huile d'olive",
             "Sel, poivre"
         ],
-        "recette": "Couper les aubergines dans la longueur, les asperger doucement d'huile d'olive, saler poivrer et faire cuire 20 à 30min à 180°C. Ajouter les tomates, la mozzarella et le thym, enfourner pour 15 à 25 min."
+        "recette": "Couper les aubergines dans la longueur, les asperger doucement d'huile d'olive, saler poivrer et faire cuire 20 à 30min à 180°C.\nAjouter les tomates, la mozzarella et le thym, enfourner pour 15 à 25 min."
     },
     {
         "name": "Lasagnes poulet chèvre miel",
@@ -523,7 +523,7 @@
             "30 cl crème fraîche (environ)",
             "Gruyère râpé"
         ],
-        "recette": "Couper le poulet en petits morceaux et le faire revenir à la poêle avec du beurre ou de l' huile. En parallèle couper des rondelles de chèvre. En fin de cuisson du poulet ajouter le chèvre et la crème fraîche et remuer régulièrement pour que le chèvre fonde. Ajouter le miel en quantité selon les goûts. Saler et poivrer. Une fois que tout est cuit, disposer dans le plat : 1 couche de pâte, 1 couche du mélange, 1 couche de pâte, 1 couche du mélange en gardant un peu de sauce pour la dernière couche 1 couche de pâte recouverte de la sauce restante et mettre du fromage râpé. Enfourner à 180 degrés environ 25 min."
+        "recette": "Couper le poulet en petits morceaux et le faire revenir à la poêle avec du beurre ou de l' huile.\nEn parallèle couper des rondelles de chèvre.\nEn fin de cuisson du poulet ajouter le chèvre et la crème fraîche et remuer régulièrement pour que le chèvre fonde.\nAjouter le miel en quantité selon les goûts.\nSaler et poivrer.\nUne fois que tout est cuit, disposer dans le plat : 1 couche de pâte, 1 couche du mélange, 1 couche de pâte, 1 couche du mélange en gardant un peu de sauce pour la dernière couche 1 couche de pâte recouverte de la sauce restante et mettre du fromage râpé.\nEnfourner à 180 degrés environ 25 min."
     },
     {
         "name": "Gratin dauphinois",
@@ -536,7 +536,7 @@
             "Un peu de lait",
             "Fromage râpé"        
         ],
-        "recette": "Préchauffer le four à 200°C. Frotter le plat à gratin avec l'ail puis bien beurrer le plat. Couper les pommes de terre épluchées en fines lamelles et les disposer dans le plat en salant et poivrant à chaque couche. Ajouter le mélange crème + fromage hauteur des pommes de terre. Rajouter peu de lait par dessus. Parsemer de fromage râpé. Mettre en four environ 50 minutes à 180 degrés."
+        "recette": "Préchauffer le four à 200°C.\nFrotter le plat à gratin avec l'ail puis bien beurrer le plat.\nCouper les pommes de terre épluchées en fines lamelles et les disposer dans le plat en salant et poivrant à chaque couche.\nAjouter le mélange crème + fromage hauteur des pommes de terre.\nRajouter peu de lait par dessus.\nParsemer de fromage râpé.\nMettre en four environ 50 minutes à 180 degrés."
     },
     {
         "name": "Tartiflette",
@@ -550,7 +550,7 @@
             "1 gousse d'ail",
             "Sel,Poivre"
         ],
-        "recette": "Éplucher les pommes de terre, les couper en dés, bien les rincer et les essuyer dans un torchon propre. Faire chauffer l'huile dans une poêle, y faire fondre les oignons. Lorsque les oignons sont fondus, ajouter les pommes de terre et les faire dorer de tous les côtés. Lorsqu'elles sont dorées, ajouter les lardons et finir de cuire. D'autre part, gratter la croûte du reblochon et le couper en deux (ou en quatre). Préchauffer le four à 200°C et préparer un plat à gratin en frottant le fond et les bords avec la gousse d'ail épluchée. Dans le plat à gratin, étaler une couche de pommes de terre aux lardons, disposer dessus la moitié du reblochon, puis de nouveau des pommes de terre. Terminer avec le reste du reblochon (croûte vers les pommes de terre). Enfourner environ 20 minutes de cuisson."
+        "recette": "Éplucher les pommes de terre, les couper en dés, bien les rincer et les essuyer dans un torchon propre.\nFaire chauffer l'huile dans une poêle, y faire fondre les oignons.\nLorsque les oignons sont fondus, ajouter les pommes de terre et les faire dorer de tous les côtés.\nLorsqu'elles sont dorées, ajouter les lardons et finir de cuire.\nD'autre part, gratter la croûte du reblochon et le couper en deux (ou en quatre).\nPréchauffer le four à 200°C et préparer un plat à gratin en frottant le fond et les bords avec la gousse d'ail épluchée.\nDans le plat à gratin, étaler une couche de pommes de terre aux lardons, disposer dessus la moitié du reblochon, puis de nouveau des pommes de terre.\nTerminer avec le reste du reblochon (croûte vers les pommes de terre).\nEnfourner environ 20 minutes de cuisson."
     },
     {
         "name": "Hachis parmentier",
@@ -569,7 +569,7 @@
             "50 g de fromage râpé",
             "Sel, poivre"            
         ],
-        "recette": "Hacher l'oignon et l'ail. Les faire revenir dans le beurre jusqu'à ce qu'ils soient tendres. Ajouter les tomates coupées en dés, la viande hachée, la farine, du sel, du poivre et les herbes de Provence, Quand tout est cuit, couper le feu et ajouter le jaune d'oeuf et un peu de parmesan. Bien mélanger. Préchauffer le four à 200°C. Etaler au fond du plat à gratin. Préparer la purée. L'étaler au dessus de la viande. Saupoudrer de fromage râpé et faire gratiner."
+        "recette": "Hacher l'oignon et l'ail.\nLes faire revenir dans le beurre jusqu'à ce qu'ils soient tendres.\nAjouter les tomates coupées en dés, la viande hachée, la farine, du sel, du poivre et les herbes de Provence, Quand tout est cuit, couper le feu et ajouter le jaune d'oeuf et un peu de parmesan.\nBien mélanger.\nPréchauffer le four à 200°C.\nEtaler au fond du plat à gratin.\nPréparer la purée.\nL'étaler au dessus de la viande.\nSaupoudrer de fromage râpé et faire gratiner."
     },
     {
         "name": "Escalopes de veau panées",
@@ -581,7 +581,7 @@
             "Lait",
             "Chapelure"            
         ],
-        "recette": "Pressez les escalopes dans du sopalin pour les dessécher. Préparez 3 bols : l'un avec du lait, un second avec les œufs battus avec du sel et du poivre, un troisième avec la chapelure. Farinez grossièrement les escalopes dans un pochon plastique en secouant bien. Passez rapidement l'escalope farinée dans le lait, puis dans l'œuf battu puis dans la chapelure en appuyant bien Faire cuire dans une poêle chaude bien huilée."
+        "recette": "Pressez les escalopes dans du sopalin pour les dessécher.\nPréparez 3 bols : l'un avec du lait, un second avec les œufs battus avec du sel et du poivre, un troisième avec la chapelure.\nFarinez grossièrement les escalopes dans un pochon plastique en secouant bien.\nPassez rapidement l'escalope farinée dans le lait, puis dans l'œuf battu puis dans la chapelure en appuyant bien Faire cuire dans une poêle chaude bien huilée."
     },
     {
         "name": "Tomates farcies",
@@ -598,7 +598,7 @@
             "1 cuillère à soupe d'huile",
             "Sel, poivre"
         ],
-        "recette": "Préchauffer le four à 210°C. Couper les chapeaux des tomates et les vider grossièrement en gardant la chair qu'il faut couper en petits bouts. Passer au hachoir le jambon, l'ail, l'oignon et le persil. Ajouter les tomates et la chair à saucisse. Ajouter l'oeuf et la chapelure puis une cuillère à soupe d'huile, saler et poivrer. Farcir les tomates et ajouter les chapeaux, puis enfourner à four chaud à 210°C et laisser cuire à 180°C pendant 50 min."
+        "recette": "Préchauffer le four à 210°C.\nCouper les chapeaux des tomates et les vider grossièrement en gardant la chair qu'il faut couper en petits bouts.\nPasser au hachoir le jambon, l'ail, l'oignon et le persil.\nAjouter les tomates et la chair à saucisse.\nAjouter l'oeuf et la chapelure puis une cuillère à soupe d'huile, saler et poivrer.\nFarcir les tomates et ajouter les chapeaux, puis enfourner à four chaud à 210°C et laisser cuire à 180°C pendant 50 min."
     },
     {
         "name": "Lasagnes aubergines",
@@ -614,7 +614,7 @@
             "50 g de parmesan",
             "Herbes de Provence"            
         ],
-        "recette": "Faire fondre le beurre, ajouter la farine puis ajouter petit à petit la pulpe de tomate puis le bouillon à frémir. Ajouter les carottes coupées en tout petits dès. Laisser mijoter 30 min. Pendant ce temps, éplucher les aubergines et les couper dans le sens de la longueur en lamelles pas trop grosses (entre 0,5 et 1 cm), cuire dans l’eau bouillante salée pendant 20 min. Les égoutter, presser un peu pour faire sortir l’eau. Dans 1 plat allant au four, déposer la sauce puis la pâte puis les aubergines et parsemer de parmesan et renouveler plusieurs fois en finissant par la sauce. Enfourner 1h à 210 °C."
+        "recette": "Faire fondre le beurre, ajouter la farine puis ajouter petit à petit la pulpe de tomate puis le bouillon à frémir.\nAjouter les carottes coupées en tout petits dès.\nLaisser mijoter 30 min.\nPendant ce temps, éplucher les aubergines et les couper dans le sens de la longueur en lamelles pas trop grosses (entre 0,5 et 1 cm), cuire dans l’eau bouillante salée pendant 20 min.\nLes égoutter, presser un peu pour faire sortir l’eau.\nDans 1 plat allant au four, déposer la sauce puis la pâte puis les aubergines et parsemer de parmesan et renouveler plusieurs fois en finissant par la sauce.\nEnfourner 1h à 210 °C."
     },
     {
         "name": "Pâtes fraîches",
@@ -626,7 +626,7 @@
             "⅓ de cuillère à café de sel",
             "4 oeufs"           
         ],
-        "recette": "Déposer la farine et le sel sur un plan de travail. Faire un puits au centre, y casser les œufs. Battre légèrement les œufs à la fourchette en incorporant peu à peu la farine. Lorsque la pâte devient trop épaisse, poursuivre avec le bout des doigts, puis les mains. (Ne pas faire absorber plus de farine que nécessaire. Il peut en rester quelques cuillères à soupe ou, au contraire, en manquer un peu.) Pétrir la pâte environ 10 minutes. Celle-ci deviendra lisse, élastique et non collante. Si c'était le cas, fariner légèrement la pâte et continuer de pétrir. Envelopper la pâte de cellophane, la laisser reposer 30 minutes avant de l'abaisser. Pour abaisser la pâte à la main : utiliser un rouleau à pâtisserie et abaisser la pâte très finement (1 mm environ d’épaisseur et 25 cm en longueur). La plier sur elle-même pour former un rouleau plat (environ 5 cm de largeur) en farinant bien chaque pli pour que la pâte ne colle pas. Couper le rouleau à 1 cm d'intervalle puis dérouler les pâtes et les déposer sur le plan de travail fariné. Enlever l'excédent de farine avant la cuisson. Cuire environ 2 minutes dans beaucoup d'eau bouillante salée. (1L pour 100g de pâtes)."
+        "recette": "Déposer la farine et le sel sur un plan de travail.\nFaire un puits au centre, y casser les œufs.\nBattre légèrement les œufs à la fourchette en incorporant peu à peu la farine.\nLorsque la pâte devient trop épaisse, poursuivre avec le bout des doigts, puis les mains.\n(Ne pas faire absorber plus de farine que nécessaire.\nIl peut en rester quelques cuillères à soupe ou, au contraire, en manquer un peu.) Pétrir la pâte environ 10 minutes.\nCelle-ci deviendra lisse, élastique et non collante.\nSi c'était le cas, fariner légèrement la pâte et continuer de pétrir.\nEnvelopper la pâte de cellophane, la laisser reposer 30 minutes avant de l'abaisser.\nPour abaisser la pâte à la main : utiliser un rouleau à pâtisserie et abaisser la pâte très finement (1 mm environ d’épaisseur et 25 cm en longueur).\nLa plier sur elle-même pour former un rouleau plat (environ 5 cm de largeur) en farinant bien chaque pli pour que la pâte ne colle pas.\nCouper le rouleau à 1 cm d'intervalle puis dérouler les pâtes et les déposer sur le plan de travail fariné.\nEnlever l'excédent de farine avant la cuisson.\nCuire environ 2 minutes dans beaucoup d'eau bouillante salée.\n(1L pour 100g de pâtes)."
     },
     {
         "name": "Galette de tortillas",
@@ -640,7 +640,7 @@
             "⅓ d’une grosse pincée de sucre",
             "⅓ sachet de levure chimique"
         ],
-        "recette": "Mélanger la farine, le sel, le sucre et la levure chimique. Creuser un puits et ajouter petit à petit le lait tiède et l'huile. Pétrir 5 minutes. Couvrir le récipient et laissez reposer la pâte 1 heure. Séparer la pâte en portions égales et étaler très finement avec un rouleau à pâtisserie. Faire chauffer une poêle (sans matière grasse) et y déposer la pâte étalée. Retourner la tortilla dès l'apparition de bulles. Attention de ne pas trop cuire les tortillas sinon elles deviennent cassantes sur les bords."
+        "recette": "Mélanger la farine, le sel, le sucre et la levure chimique.\nCreuser un puits et ajouter petit à petit le lait tiède et l'huile.\nPétrir 5 minutes.\nCouvrir le récipient et laissez reposer la pâte 1 heure.\nSéparer la pâte en portions égales et étaler très finement avec un rouleau à pâtisserie.\nFaire chauffer une poêle (sans matière grasse) et y déposer la pâte étalée.\nRetourner la tortilla dès l'apparition de bulles.\nAttention de ne pas trop cuire les tortillas sinon elles deviennent cassantes sur les bords."
     },
     {
         "name": "Riz vinaigré",
@@ -649,11 +649,11 @@
         "ingredients": [
             "300 g de riz rond japonais",
             "30 cl d'eau",
-            "4 c. à soupe de vinaigre de riz",
-            "2 c. à soupe de sucre",
-            "1/2 c. à café de sel"            
+            "4 c.\nà soupe de vinaigre de riz",
+            "2 c.\nà soupe de sucre",
+            "1/2 c.\nà café de sel"            
         ],
-        "recette": "Verser le riz dans une passoire,le plonger dans un grand saladier rempli d’eau. Éliminer l’eau laiteuse et continuer de laver le riz jusqu’à ce que l’eau qui s’écoule soit bien claire. Laisser essorer 30 min. Pendant ce temps, faire chauffer sans porter à ébullition, le vinaigre de riz avec le sucre et le sel jusqu’à dissolution complète puis laissez refroidir. Placer le riz et l’eau froide dans une casserole à fond épais. Couvrir d’un couvercle. Faire chauffer sur feu moyen (presque doux) pour porter l’eau à ébullition. Ne pas retirer le couvercle, écouter le bruit provenant de la casserole et compter 5 min de cuisson à partir de l’ébullition. Poursuivre la cuisson 10 min sur feu très doux, sans soulever le couvercle. Retirer du feu en conservant le couvercle et laisser reposer 10 min. Déposer le riz dans un grand saladier et verser la sauce vinaigrée. Mélanger délicatement à l’aide d’une cuillère en bois, en faisant attention de ne pas écraser les grains. Conseil : garder le riz à température ambiante jusqu’à utilisation. Au réfrigérateur, il deviendrait dur et compact."
+        "recette": "Verser le riz dans une passoire,le plonger dans un grand saladier rempli d’eau.\nÉliminer l’eau laiteuse et continuer de laver le riz jusqu’à ce que l’eau qui s’écoule soit bien claire.\nLaisser essorer 30 min.\nPendant ce temps, faire chauffer sans porter à ébullition, le vinaigre de riz avec le sucre et le sel jusqu’à dissolution complète puis laissez refroidir.\nPlacer le riz et l’eau froide dans une casserole à fond épais.\nCouvrir d’un couvercle.\nFaire chauffer sur feu moyen (presque doux) pour porter l’eau à ébullition.\nNe pas retirer le couvercle, écouter le bruit provenant de la casserole et compter 5 min de cuisson à partir de l’ébullition.\nPoursuivre la cuisson 10 min sur feu très doux, sans soulever le couvercle.\nRetirer du feu en conservant le couvercle et laisser reposer 10 min.\nDéposer le riz dans un grand saladier et verser la sauce vinaigrée.\nMélanger délicatement à l’aide d’une cuillère en bois, en faisant attention de ne pas écraser les grains.\nConseil : garder le riz à température ambiante jusqu’à utilisation.\nAu réfrigérateur, il deviendrait dur et compact."
     },
     {
         "name": "Pâte à pizza",
@@ -666,7 +666,7 @@
             "4 ml d’huile d’olive (une petite cuillère à soupe)",
             "Un peu de farine de maïs si possible"            
         ],
-        "recette": "Sur le plan de travail légèrement fariné, mélanger directement farine levure et eau (selon le type de levure sèche/fraîche, mettre la levure dans l’eau ou non) Pétrir en incorporant l’eau jusqu’à ce qu’il ne reste plus de farine sur le plan de travail (ajouter de la farine si la pâte est trop collante). Une fois une boule obtenue, disposer du sel sur le plan de travail et ajouter l’huile d’olive à la pâte. Incorporer le sel en pétrissant la pâte. Pétrir jusqu’à ce que la pâte ne soit plus brillante. Laisser reposer environ 1h sous un bol. Séparer la pâte en patons (si plusieurs pizzas). Réaliser le boulage. Laisser reposer dans une assiette avec un bol au-dessus soit au frigo pendant 16-18h, soit à Tamb pendant 6h (soit au congélateur). Si le repos est au frigo ou au congélateur, sortir la pâte au moins 3h à Tamb avant l’étalage. Ajouter si possible de la farine de maïs sur la pâte et étaler en appuyant du centre vers les bords (attention à ne pas écraser le bords pour qu’ils gonflent à la cuisson). Préchauffer le four à Tmax. Vaporiser un peu d’eau dans le four juste avant d’enfourner. Enfourner 10 min à Tmax avec les tomates et les légumes. Remettre 4-5 min à cuire avec la mozzarella. Rajouter le reste de la garniture non cuite (jambon, sel, origan, huile olive par ex)."
+        "recette": "Sur le plan de travail légèrement fariné, mélanger directement farine levure et eau (selon le type de levure sèche/fraîche, mettre la levure dans l’eau ou non) Pétrir en incorporant l’eau jusqu’à ce qu’il ne reste plus de farine sur le plan de travail (ajouter de la farine si la pâte est trop collante).\nUne fois une boule obtenue, disposer du sel sur le plan de travail et ajouter l’huile d’olive à la pâte.\nIncorporer le sel en pétrissant la pâte.\nPétrir jusqu’à ce que la pâte ne soit plus brillante.\nLaisser reposer environ 1h sous un bol.\nSéparer la pâte en patons (si plusieurs pizzas).\nRéaliser le boulage.\nLaisser reposer dans une assiette avec un bol au-dessus soit au frigo pendant 16-18h, soit à Tamb pendant 6h (soit au congélateur).\nSi le repos est au frigo ou au congélateur, sortir la pâte au moins 3h à Tamb avant l’étalage.\nAjouter si possible de la farine de maïs sur la pâte et étaler en appuyant du centre vers les bords (attention à ne pas écraser le bords pour qu’ils gonflent à la cuisson).\nPréchauffer le four à Tmax.\nVaporiser un peu d’eau dans le four juste avant d’enfourner.\nEnfourner 10 min à Tmax avec les tomates et les légumes.\nRemettre 4-5 min à cuire avec la mozzarella.\nRajouter le reste de la garniture non cuite (jambon, sel, origan, huile olive par ex)."
     },
     {
         "name": "Cabillaud en croûte de chorizo",
@@ -679,6 +679,6 @@
             "15 de beurre",
             "2 filets de cabillaud"             
         ],
-        "recette": "Préchauffer le four à 200°C. Mixer le chorizo. Dans un saladier, mélanger le chorizo avec le parmesan et la chapelure. Ajouter le beurre ramolli et mélanger du bout des doigts. Déposer les dos de cabillaud dans un plat allant au four et couvrir de crumble au chorizo. Enfourner 15 minutes."
+        "recette": "Préchauffer le four à 200°C.\nMixer le chorizo.\nDans un saladier, mélanger le chorizo avec le parmesan et la chapelure.\nAjouter le beurre ramolli et mélanger du bout des doigts.\nDéposer les dos de cabillaud dans un plat allant au four et couvrir de crumble au chorizo.\nEnfourner 15 minutes."
     }
 ]
