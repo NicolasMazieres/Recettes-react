@@ -5,6 +5,8 @@ import Navbar from "./components/Navbar";
 import entreeData from "./components/entreedata.json";
 import platData from "./components/platdata.json";
 import dessertData from "./components/dessertdata.json";
+import saucePainData from "./components/saucepaindata.json";
+import cuissonData from "./components/cuissondata.json";
 
 function App() {
   const [contentShown, setContentShown] = useState('Accueil');
@@ -33,51 +35,38 @@ function App() {
     setName("");
   }
 
-  const entreejsonData = JSON.parse(JSON.stringify(entreeData));
-  const platjsonData = JSON.parse(JSON.stringify(platData));
-  const dessertjsonData = JSON.parse(JSON.stringify(dessertData));
+  const saucesPainsClicked = () => {
+    setContentShown("Sauces / Pains");
+    setName("");
+  }
 
-  const entreeRecipes = entreejsonData
-    .filter((data) => data.name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').includes(filterName.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')))
-    .sort((a, b) => { return a.name.localeCompare(b.name) })
-    .map((data, index) => {
-      return <Recipe
-        name={data.name}
-        details={data.details}
-        ingredients={data.ingredients}
-        recipe={data.recette}
-        key={index}
-        image={data.image}
-      />;
-    })
+  const cuissonsClicked = () => {
+    setContentShown("Cuissons");
+    setName("");
+  }
 
-  const platRecipes = platjsonData
-    .filter((data) => data.name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').includes(filterName.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')))
-    .sort((a, b) => { return a.name.localeCompare(b.name) })
-    .map((data, index) => {
-      return <Recipe
-        name={data.name}
-        details={data.details}
-        ingredients={data.ingredients}
-        recipe={data.recette}
-        key={index}
-        image={data.image}
-      />;
-    })
+  function convertJsonToRecipes(jsonDataRaw) {
+    const jsonData = JSON.parse(JSON.stringify(jsonDataRaw));
+    return jsonData
+      .filter((data) => data.name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').includes(filterName.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')))
+      .sort((a, b) => { return a.name.localeCompare(b.name) })
+      .map((data, index) => {
+        return <Recipe
+          name={data.name}
+          details={data.details}
+          ingredients={data.ingredients}
+          recipe={data.recette}
+          key={index}
+          image={data.image}
+        />;
+      });
+  }
 
-  const dessertRecipes = dessertjsonData
-    .filter((data) => data.name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').includes(filterName.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')))
-    .sort((a, b) => { return a.name.localeCompare(b.name) })
-    .map((data, index) => {
-      return <Recipe
-        name={data.name}
-        details={data.details}
-        ingredients={data.ingredients}
-        recipe={data.recette}
-        key={index}
-        image={data.image}
-      />;
-    })
+  const entreeRecipes = convertJsonToRecipes(entreeData);
+  const platRecipes = convertJsonToRecipes(platData);
+  const dessertRecipes = convertJsonToRecipes(dessertData);
+  const saucePainRecipes = convertJsonToRecipes(saucePainData);
+  const cuissonRecipes = convertJsonToRecipes(cuissonData);
 
   const viewAccueil = (
     <div className="bodyContainer">
@@ -98,7 +87,7 @@ function App() {
         </figure>
         <figure className="quote">
           <blockquote>
-            <p>La vie de l'homme est une chasse au bonheur. Parmi ces bonheurs, l'exercice de la gourmandise est l'un des plus importants. Un pays vaut surtout par les joies qu'il procure à ses habitants et à ceux qui le visitent. La gastronomie, c'est-à-dire l'art qui satisfait la gourmandise, représente un pays au même titre que les autres arts. 
+            <p>La vie de l'homme est une chasse au bonheur. Parmi ces bonheurs, l'exercice de la gourmandise est l'un des plus importants. Un pays vaut surtout par les joies qu'il procure à ses habitants et à ceux qui le visitent. La gastronomie, c'est-à-dire l'art qui satisfait la gourmandise, représente un pays au même titre que les autres arts.
               La cuisine fait connaître le paysage. Le paysage sert à comprendre la cuisine</p>
           </blockquote>
           <figcaption>— Jean Giono, <cite>La Provence gourmande de Jean Giono, 1994</cite></figcaption>
@@ -150,14 +139,40 @@ function App() {
     </div >
   )
 
+  const viewSaucesPains = (
+    <div className="bodyContainer">
+      <div className="pageTitleContainer">
+        <h1>Sauces / Pains</h1>
+        <FilterForm formname={filterName} handleChange={handleChange} />
+      </div>
+      <div className="recipesDesign">
+        {saucePainRecipes}
+      </div>
+    </div >
+  )
+
+  const viewCuissons = (
+    <div className="bodyContainer">
+      <div className="pageTitleContainer">
+        <h1>Cuissons</h1>
+        <FilterForm formname={filterName} handleChange={handleChange} />
+      </div>
+      <div className="recipesDesign">
+        {cuissonRecipes}
+      </div>
+    </div >
+  )
+
 
   return (
     <div className="appContainer">
-      <Navbar setstate={{ accueilClicked, entreesClicked, platsClicked, dessertsClicked }} />
+      <Navbar setstate={{ accueilClicked, entreesClicked, platsClicked, dessertsClicked, saucesPainsClicked, cuissonsClicked }} />
       {contentShown === "Accueil" && viewAccueil}
       {contentShown === "Entrées" && viewEntrees}
       {contentShown === "Plats" && viewPlats}
       {contentShown === "Desserts" && viewDesserts}
+      {contentShown === "Sauces / Pains" && viewSaucesPains}
+      {contentShown === "Cuissons" && viewCuissons}
     </div>
   );
 }
