@@ -1,0 +1,189 @@
+[
+	{
+		"name": "Sauce riz sauté",
+		"image": "images/sauce-riz-saute.jpg",
+		"ingredients": [
+			"1 à 2 gousses d'ail",
+			"1 citron vert (jus + zeste)",
+			"2 cuillères à soupe de sauce soja",
+			"1 cuillère à soupe de sauce poisson",
+			"1 cuillère à soupe de sucre",
+			"2 cuillères à soupe d'eau"
+		],
+		"recette": "Presser l'ail et le citron vert pour en extraire le jus. Mélanger dans un bol le jus de citron, l'ail, la sauce soja, la sauce poisson, le sucre et l'eau. Remuer jusqu'à ce que le sucre soit complètement dissous. Cette sauce est idéale pour cuire des légumes sautés, des viandes ou des plats de riz."
+	},
+	{
+		"name": "Sauce tahini",
+		"image": "images/sauce-tahini.jpg",
+		"ingredients": [
+			"1 cuillère à soupe de sauce soja",
+			"1 cuillère à soupe de tahini",
+			"1 cuillère à soupe d'amande",
+			"1 cuillère à soupe de vinaigre de riz",
+			"1 cuillère à soupe de sucre",
+			"1 cuillère à café de gingembre",
+			"1 cuillère à café d'ail"
+		],
+		"recette": "Dans un bol, mélanger la sauce soja, le tahini, l'amande, le vinaigre de riz et le sucre jusqu'à obtenir un mélange homogène. Ajouter le gingembre râpé et l'ail haché finement. Mélanger à nouveau. Ajuster l'assaisonnement selon les goûts et servir avec des plats asiatiques ou des salades."
+	},
+	{
+		"name": "Assaisonnement foies de volaille",
+		"image": "images/assaisonnement-foies-volaille.jpg",
+		"ingredients": [
+			"0,8 g de sel",
+			"0,2 g de poivre",
+			"0,1 g de muscade",
+			"0,1 g de thym",
+			"0,1 g de cardamome",
+			"0,1 g de cannelle",
+			"5 g d'oignon cuit"
+		],
+		"recette": "Mélangez le sel, le poivre, la muscade, le thym, la cardamome, la cannelle et l'oignon cuit.\n\nAssaisonnez les foies de volaille avec ce mélange.\n\nLaissez mariner quelques heures avant cuisson."
+	},
+	{
+		"name": "Marinade asiatique",
+		"image": "images/marinade-asiatique.jpg",
+		"ingredients": [
+			"1,5 g d'oignons nouveaux (environ 1 petit oignon nouveau)",
+			"0,5 g de piment (ou 1/4 de piment frais)",
+			"1 g de gingembre frais râpé",
+			"0,7 g d'ail (environ 1/2 gousse)",
+			"5 g de sauce soja",
+			"2 g de jus de citron + 1/2 de zeste",
+			"0,3 g de citronnelle (environ 1 cm de tige)"
+		],
+		"recette": "Hachez finement les oignons nouveaux, le piment, le gingembre, et l'ail. Mélangez-les avec le soja, le jus et le zeste de citron, et la citronnelle. Faites mariner la viande dans cette préparation pendant 1 à 2 heures avant cuisson."
+	},
+	{
+		"name": "Sauce rouleaux printemps",
+		"image": "images/sauce-rouleaux-printemps.jpg",
+		"ingredients": [
+			"3 càs de purée d'amandes",
+			"2 càs d'eau",
+			"2 càc de miel/sirop d'érable",
+			"2 càc de jus de citron",
+			"2 càc de sauce soja"
+		],
+		"recette": "Mélanger tous les ingrédients dans un bol jusqu'à obtenir une sauce homogène."
+	},
+	{
+		"name": "Tzatziki",
+		"image": "images/tzatziki.jpg",
+		"ingredients": [
+			"1/2 concombre",
+			"200 g de yaourt",
+			"1/2 c. à soupe d'huile d'olive",
+			"1/2 c. à soupe de citron",
+			"1 c. à café d'aneth",
+			"1 petit gousse d'ail",
+			"Sel/poivre"
+		],
+		"recette": "Couper le concombre en petits dés. Mélanger avec le yaourt, l'huile d'olive, le citron, l'aneth, l'ail haché, le sel et le poivre."
+	},
+	{
+		"name": "Sauce avocat yaourt",
+		"image": "images/sauce-avocat-yaourt.jpg",
+		"ingredients": [
+			"1 avocat",
+			"2 petits suisses",
+			"1 gousse d'ail",
+			"4 c. à soupe d'huile d'olive",
+			"1 jus de citron",
+			"Eau si besoin",
+			"Sel/poivre"
+		],
+		"recette": "Mélanger tous les ingrédients dans un bol et ajuster l'assaisonnement."
+	},
+	{
+		"name": "Sauce miel moutarde",
+		"image": "images/sauce-miel-moutarde.jpg",
+		"ingredients": [
+			"1 yaourt grec",
+			"5 c. à soupe d'huile d'olive",
+			"2 c. à soupe de vinaigre de cidre",
+			"1 c. à soupe de miel",
+			"1 c. à café de moutarde",
+			"1/2 jus de citron",
+			"Origan"
+		],
+		"recette": "Mélanger tous les ingrédients dans un bol et ajuster l'assaisonnement."
+	},
+	{
+		"name": "Houmous",
+		"image": "images/houmous.jpg",
+		"ingredients": [
+			"21 g de pâte de sésame = Tahini (sinon broyer 50% graines/huile de sésame)",
+			"1 petite gousse d'ail",
+			"3 g de cumin",
+			"½ ou ¼ de bouillon cube",
+			"15 g d'huile d'olive",
+			"1/2 jus de citron",
+			"200 g de pois chiches (conserver le jus)"
+		],
+		"recette": "Dans un blender, verser tous les ingrédients et mixer jusqu'à obtenir une pâte crémeuse souple. Si besoin, ajouter un peu d'eau de conserve des pois chiches. Au frais, le houmous s'épaissit."
+	},
+	{
+		"name": "Pain pita (6 personnes)",
+		"image": "images/pain-pita.jpg",
+		"ingredients": [
+			"42 g de levure boulangère",
+			"150 g d'eau",
+			"300 g de farine",
+			"6 g de sel",
+			"12 g de sucre semoule"
+		],
+		"recette": "Émietter dans de l'eau tiède la levure. Couvrir le bol et laisser reposer 10 mn. Mélanger la farine, le sucre et le sel dans un saladier. Creuser un puits et verser l'eau-levure. Pétrir jusqu'à obtention d'une pâte souple. Laisser lever 1h30, puis diviser en pâtons et étaler finement. Cuire au four préchauffé à 240°C pendant 5-6 mn."
+	},
+	{
+		"name": "Naans",
+		"image": "images/naans.jpg",
+		"ingredients": [
+			"(4 personnes / 8 naans)",
+			"300g de farine",
+			"120g d'eau tiède",
+			"8g de levure boulangère sèche",
+			"6g de sel",
+			"15g de sucre",
+			"80g de yaourt grec",
+			"2 càs d'huile d'olive"
+		],
+		"recette": "Mettre la levure déshydratée dans l'eau à température ambiante ou tiède (ne pas brûler les levures). Ajouter le sucre et laisser reposer 10 min. Mélanger le sel et la farine. Ajouter le yaourt grec, l'huile et la préparation avec la levure et mélanger 10 min à vitesse lente au crochet, elle doit être collante sans être trop liquide. Laisser reposer dans une boîte hermétique huilée 1h à température ambiante. Faire une boule sans travailler la pâte et diviser en 8 pâtons. Rabattre les extrémités de chaque pâton vers le centre en pinçant et pour faire des boules, retourner et faire trouver entre sa main et le plan de travail. Couvrir d'un chiffon humide pour éviter le croutage. Faire chauffer la poêle. Étaler au rouleau à pâtisserie les boules en cercles de 1 cm d'épaisseur et faire cuire jusqu'à coloration ~ 1m30 et retourner."
+	},
+	{
+		"name": "Beurre d'ail",
+		"image": "images/beurre-ail.jpg",
+		"ingredients": [
+			"2 gousses d'ail",
+			"1/2 botte de persil",
+			"40 g de beurre"
+		],
+		"recette": "Faire fondre le beurre. \nHacher l'ail et le persil et ajouter dans le beurre fondu. \n\nBadigeonner sur des naans cuits ou du pain."
+	},
+	{
+		"name": "Pesto",
+		"image": "images/pesto.jpg",
+		"ingredients": [
+			"30 g de feuilles de basilic frais (1 pot)",
+			"20 g de pignons de pin / amandes (meilleurs grillés)",
+			"30 g de parmesan râpé",
+			"1 petite gousse d'ail",
+			"6 c. à s. d'huile d'olive",
+			"1,5 c. à c. de jus de citron"
+		],
+		"recette": "Mixer tous les ingrédients."
+	},
+	{
+		"name": "Pesto rosso",
+		"image": "images/pesto-rosso.jpg",
+		"ingredients": [
+			"80 g de tomates séchées à l'huile",
+			"30 g de parmesan râpé",
+			"30 g de pignons",
+			"10/15 feuilles de basilic",
+			"1 petite gousse d'ail",
+			"4 c. à s. d'huile d'olive",
+			"Sel, poivre"
+		],
+		"recette": "Mixer tous les ingrédients."
+	}
+]

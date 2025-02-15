@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Cuissons Petites Céréales",
+		"image": "images/petites-cereales.jpg",
+		"ingredients": [
+			"(Sarrasin, quinoa, boulgour gros, millet",
+			"1,5x volume d'eau bouillante salée",
+			"Sel : 6g de sel pour 1kg de produit fini (eau+céréales) ou 15g pour 1kg de céréales"
+		],
+		"recette": "Chauffer les grains secs dans une casserole en agitant sans coloration. Ajouter 1,5 fois le volume d'eau bouillante salée. Cuire à petite ébullition, couvert, sans remuer pendant 20 min. Vérifier la cuisson : les grains doivent être gonflés et moelleux."
+	},
+	{
+		"name": "Cuissons Grandes Céréales",
+		"image": "images/grandes-cereales.jpg",
+		"ingredients": [
+			"Riz complet, épeautre, blé complet, orge, avoine",
+			"2x volume d'eau salée"
+		],
+		"recette": "Faire tremper les céréales pendant 12h à 24h, puis vider l'eau de trempage. Démarrer la cuisson à froid dans 2 fois le volume d'eau salée. Porter à ébullition, couvrir et laisser cuire à feu doux."
+	},
+	{
+		"name": "Cuisson Riz demi complet",
+		"image": "images/riz-demi-complet.jpg",
+		"ingredients": [
+			"Riz demi complet",
+			"Eau : 1,5x volume d'eau salée"
+		],
+		"recette": "Faire tremper le riz demi complet pendant 12h à 24h. Démarrer la cuisson à froid dans 1,5 fois le volume d'eau salée. Porter à ébullition, couvrir et laisser cuire : 15 min pour du riz thaï, 20 min pour du basmati. Assaisonner à chaud même pour une salade froide."
+	},
+	{
+		"name": "Cuisson lentilles et pois cassés",
+		"image": "images/lentilles-pois-casses.jpg",
+		"ingredients": [
+			"Lentilles, pois cassés",
+			"Eau : à hauteur"
+		],
+		"recette": "Faire tremper pendant au moins 1 heure. Démarrer la cuisson à froid avec de l'eau à hauteur. Porter à ébullition, couvrir et laisser cuire à feu doux pendant 15 à 30 min jusqu'à absorption complète du liquide. Saler durant le dernier tiers de la cuisson."
+	},
+	{
+		"name": "Cuisson Pois Chiches et Haricots",
+		"image": "images/pois-chiches-haricots.jpg",
+		"ingredients": [
+			"Pois chiches",
+			"Haricots",
+			"Eau à hauteur"
+		],
+		"recette": "Faire tremper les pois chiches et haricots pendant 12h à 24h. Démarrer la cuisson à froid avec de l'eau à hauteur. Porter à ébullition, couvrir et laisser cuire à feu doux pendant 30 min (haricots) à 3h (pois chiches), jusqu'à absorption complète du liquide. Saler durant le dernier tiers de la cuisson."
+	}
+]
