@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 import entreeData from "./components/entreedata.json";
 import platData from "./components/platdata.json";
 import dessertData from "./components/dessertdata.json";
-import saucePainData from "./components/saucepaindata.json";
+import saucePreparationData from "./components/saucepaindata.json";
 import cuissonData from "./components/cuissondata.json";
 
 function App() {
@@ -35,8 +35,8 @@ function App() {
     setName("");
   }
 
-  const saucesPainsClicked = () => {
-    setContentShown("Sauces / Pains");
+  const saucesPreparationsClicked = () => {
+    setContentShown("Sauces / Préparations");
     setName("");
   }
 
@@ -65,7 +65,7 @@ function App() {
   const entreeRecipes = convertJsonToRecipes(entreeData);
   const platRecipes = convertJsonToRecipes(platData);
   const dessertRecipes = convertJsonToRecipes(dessertData);
-  const saucePainRecipes = convertJsonToRecipes(saucePainData);
+  const saucePreparationRecipes = convertJsonToRecipes(saucePreparationData);
   const cuissonRecipes = convertJsonToRecipes(cuissonData);
 
   const viewAccueil = (
@@ -139,14 +139,14 @@ function App() {
     </div >
   )
 
-  const viewSaucesPains = (
+  const viewSaucesPreparations = (
     <div className="bodyContainer">
       <div className="pageTitleContainer">
-        <h1>Sauces / Pains</h1>
+        <h1>Sauces / Preparations</h1>
         <FilterForm formname={filterName} handleChange={handleChange} />
       </div>
       <div className="recipesDesign">
-        {saucePainRecipes}
+        {saucePreparationRecipes}
       </div>
     </div >
   )
@@ -166,12 +166,12 @@ function App() {
 
   return (
     <div className="appContainer">
-      <Navbar setstate={{ accueilClicked, entreesClicked, platsClicked, dessertsClicked, saucesPainsClicked, cuissonsClicked }} />
+      <Navbar setstate={{ accueilClicked, entreesClicked, platsClicked, dessertsClicked, saucesPreparationsClicked: saucesPreparationsClicked, cuissonsClicked }} />
       {contentShown === "Accueil" && viewAccueil}
       {contentShown === "Entrées" && viewEntrees}
       {contentShown === "Plats" && viewPlats}
       {contentShown === "Desserts" && viewDesserts}
-      {contentShown === "Sauces / Pains" && viewSaucesPains}
+      {contentShown === "Sauces / Preparations" && viewSaucesPreparations}
       {contentShown === "Cuissons" && viewCuissons}
     </div>
   );

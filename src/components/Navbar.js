@@ -8,7 +8,7 @@ export default function Navbar(props) {
         setMenu(!isMenuClicked);
     }
 
-    const {accueilClicked, entreesClicked, platsClicked, dessertsClicked, saucesPainsClicked, cuissonsClicked} = props.setstate;
+    const {accueilClicked, entreesClicked, platsClicked, dessertsClicked, saucesPreparationsClicked, cuissonsClicked} = props.setstate;
 
     useEffect(() => {
 
@@ -36,7 +36,7 @@ export default function Navbar(props) {
                     <li className="nav-items" onClick={() => {entreesClicked() ; menuClicked()}}>Entrées</li>
                     <li className="nav-items" onClick={() => {platsClicked() ; menuClicked()}}>Plats</li>
                     <li className="nav-items" onClick={() => {dessertsClicked() ; menuClicked()}}>Desserts</li>
-                    <li className="nav-items" onClick={() => {saucesPainsClicked() ; menuClicked()}}>Sauces / Pains</li>
+                    <li className="nav-items" onClick={() => {saucesPreparationsClicked() ; menuClicked()}}>Sauces / Preparations</li>
                     <li className="nav-items" onClick={() => {cuissonsClicked() ; menuClicked()}}>Cuissons</li>
                 </ul>)
             }

@@ -395,17 +395,6 @@
 		"recette": "Couper les courgettes et hacher les échalotes, laisser cuire dans 2 cuillères d'huile, jusqu'à ce que ça soit « tout mou », écraser à la fourchette et attendre que ça se dessèche.\nLaisser un peu refroidir, ajouter un à un les oeufs en battant.\nAjouter le fromage,1 cuillère à café d'estragon, salée et poivrer.\nMettre dans le moule, faire cuire environ 50 min à 170°C."
 	},
 	{
-		"name": "Pâte à tarte salée",
-		"image": "images/pate-tarte.jpg",
-		"ingredients": [
-			"100g margarine",
-			"200g farine",
-			"1 pincée de sel",
-			"1/4 verre d'eau"
-		],
-		"recette": "Mettre la farine dans un saladier, ajouter le sel et la margarine, pétrir puis ajouter l'eau."
-	},
-	{
 		"name": "Tarte à la tomate",
 		"image": "images/tarte-tomate.jpg",
 		"ingredients": [
@@ -654,21 +643,6 @@
 			"1/2 cuillère à café de sel"
 		],
 		"recette": "Verser le riz dans une passoire, le plonger dans un grand saladier rempli d'eau. Éliminer l'eau laiteuse et continuer de laver le riz jusqu'à ce que l'eau qui s'écoule soit bien claire. Laisser essorer 30 min.\n\nPendant ce temps, faire chauffer sans porter à ébullition, le vinaigre de riz avec le sucre et le sel jusqu'à dissolution complète puis laisser refroidir.\n\nPlacer le riz et l'eau froide dans une casserole à fond épais. Couvrir d'un couvercle. Faire chauffer sur feu moyen (presque doux) pour porter l'eau à ébullition. Ne pas retirer le couvercle, écouter le bruit provenant de la casserole et compter 5 min de cuisson à partir de l'ébullition.\n\nPoursuivre la cuisson 10 min sur feu très doux, sans soulever le couvercle.\n\nRetirer du feu en conservant le couvercle et laisser reposer 10 min.\n\nDéposer le riz dans un grand saladier et verser la sauce vinaigrée. Mélanger délicatement à l'aide d'une cuillère en bois, en faisant attention de ne pas écraser les grains.\n\nConseil : garder le riz à température ambiante jusqu'à utilisation. Au réfrigérateur, il deviendrait dur et compact."
-	},
-	{
-		"name": "Pâte à pizza (2 pâtes)",
-		"image": "images/pate-pizza.jpg",
-		"ingredients": [
-			"500 g de farine",
-			"20 g de fécule de pomme de terre",
-			"300 ml d'eau à température ambiante",
-			"25 g de levure boulangère fraîche",
-			"10 g de sel",
-			"10 g de sucre",
-			"10 ml d'huile d'olive (2-3 cuillères à soupe)",
-			"Un peu de farine de maïs si possible"
-		],
-		"recette": "Mélanger dans un saladier la farine, fécule, sucre et sel avec une spatule en bois. Ajouter la levure emiettée et remuer à nouveau(selon le type de levure sèche/fraîche, mettre la levure dans l'eau ou non). \nPétrir en incorporant l'eau (vitesse 2 si au robot). Ajouter ou non de la farine selon la consistance de la pâte.\nUne fois une boule obtenue, ajouter l'huile d'olive et fariner le saladier en dessous et au dessus (tout autour de la pâte).\nLaisser reposer environ 30min/1h en enveloppant le saladier d'un torchon. Puis séparer la pâte en deux (il est possible à cette étape d'en conserver au congélateur).\nSi le repos est au congélateur, sortir la pâte au moins 3h à Tamb avant l'étalage.\nAjouter si possible de la farine de maïs sur la pâte et étaler en appuyant du centre vers les bords (attention à ne pas écraser le bords pour qu'ils gonflent à la cuisson).\nPréchauffer le four à Tmax.\nVaporiser un peu d'eau dans le four juste avant d'enfourner.\nEnfourner 10 min à Tmax avec les tomates et les légumes.\nRemettre 4-5 min à cuire avec la mozzarella.\nRajouter le reste de la garniture non cuite (jambon, sel, origan, huile olive par ex)."
 	},
 	{
 		"name": "Cabillaud en croûte de chorizo",
@@ -960,17 +934,6 @@
 			"2 pickles de cornichons"
 		],
 		"recette": "Pour la sauce relish, râper le concombre et l'oignon, puis les placer dans un chinois et laisser égoutter. Saupoudrer de sel, recouvrir d'un linge et laisser reposer au moins 1 heure (ou toute la nuit). Presser ensuite le mélange dans un linge propre pour enlever l'excédent d'eau. Placer dans une casserole avec les autres ingrédients et cuire sur feu doux pendant environ 10 minutes en remuant régulièrement.\n\nPour la sauce Big Mac, mélanger la mayonnaise, la moutarde, la relish, le paprika, l'ail en poudre, l'oignon en poudre et le vinaigre blanc.\n\nCuire les steaks de boeuf selon la cuisson désirée. Monter le burger en étalant une cuillère à café de sauce sur le pain du bas et du milieu. Ajouter la salade, les oignons, les pickles, le cheddar et les steaks. Refermer avec le pain supérieur. Déguster immédiatement."
-	},
-	{
-		"name": "Pâte à tarte à l'huile d'olive",
-		"image": "images/pate-tarte.jpg",
-		"ingredients": [
-			"200 g de farine",
-			"6,5 cl d'huile d'olive",
-			"6,5 cl d'eau",
-			"1 pincée de sel"
-		],
-		"recette": "Dans un bol, verser la farine, l'huile, l'eau et une pincée de sel. Malaxer rapidement jusqu'à l'obtention d'une boule homogène."
 	},
 	{
 		"name": "Dahl",

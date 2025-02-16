@@ -185,5 +185,42 @@
 			"Sel, poivre"
 		],
 		"recette": "Mixer tous les ingrédients."
+	},
+	{
+		"name": "Pâte à tarte salée",
+		"image": "images/pate-tarte.jpg",
+		"ingredients": [
+			"100g margarine",
+			"200g farine",
+			"1 pincée de sel",
+			"1/4 verre d'eau"
+		],
+		"recette": "Mettre la farine dans un saladier, ajouter le sel et la margarine, pétrir puis ajouter l'eau."
+	},
+	{
+		"name": "Pâte à pizza (2 pâtes)",
+		"image": "images/pate-pizza.jpg",
+		"ingredients": [
+			"500 g de farine",
+			"20 g de fécule de pomme de terre",
+			"300 ml d'eau à température ambiante",
+			"25 g de levure boulangère fraîche",
+			"10 g de sel",
+			"10 g de sucre",
+			"10 ml d'huile d'olive (2-3 cuillères à soupe)",
+			"Un peu de farine de maïs si possible"
+		],
+		"recette": "Mélanger dans un saladier la farine, fécule, sucre et sel avec une spatule en bois. Ajouter la levure emiettée et remuer à nouveau(selon le type de levure sèche/fraîche, mettre la levure dans l'eau ou non). \nPétrir en incorporant l'eau (vitesse 2 si au robot). Ajouter ou non de la farine selon la consistance de la pâte.\nUne fois une boule obtenue, ajouter l'huile d'olive et fariner le saladier en dessous et au dessus (tout autour de la pâte).\nLaisser reposer environ 30min/1h en enveloppant le saladier d'un torchon. Puis séparer la pâte en deux (il est possible à cette étape d'en conserver au congélateur).\nSi le repos est au congélateur, sortir la pâte au moins 3h à Tamb avant l'étalage.\nAjouter si possible de la farine de maïs sur la pâte et étaler en appuyant du centre vers les bords (attention à ne pas écraser le bords pour qu'ils gonflent à la cuisson).\nPréchauffer le four à Tmax.\nVaporiser un peu d'eau dans le four juste avant d'enfourner.\nEnfourner 10 min à Tmax avec les tomates et les légumes.\nRemettre 4-5 min à cuire avec la mozzarella.\nRajouter le reste de la garniture non cuite (jambon, sel, origan, huile olive par ex)."
+	},
+	{
+		"name": "Pâte à tarte à l'huile d'olive",
+		"image": "images/pate-tarte.jpg",
+		"ingredients": [
+			"200 g de farine",
+			"6,5 cl d'huile d'olive",
+			"6,5 cl d'eau",
+			"1 pincée de sel"
+		],
+		"recette": "Dans un bol, verser la farine, l'huile, l'eau et une pincée de sel. Malaxer rapidement jusqu'à l'obtention d'une boule homogène."
 	}
 ]
