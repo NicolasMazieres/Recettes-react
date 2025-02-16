@@ -142,7 +142,7 @@ function App() {
   const viewSaucesPreparations = (
     <div className="bodyContainer">
       <div className="pageTitleContainer">
-        <h1>Sauces / Preparations</h1>
+        <h1>Sauces / Préparations</h1>
         <FilterForm formname={filterName} handleChange={handleChange} />
       </div>
       <div className="recipesDesign">
@@ -171,7 +171,7 @@ function App() {
       {contentShown === "Entrées" && viewEntrees}
       {contentShown === "Plats" && viewPlats}
       {contentShown === "Desserts" && viewDesserts}
-      {contentShown === "Sauces / Preparations" && viewSaucesPreparations}
+      {contentShown === "Sauces / Préparations" && viewSaucesPreparations}
       {contentShown === "Cuissons" && viewCuissons}
     </div>
   );
