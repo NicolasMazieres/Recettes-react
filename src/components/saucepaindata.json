@@ -214,7 +214,7 @@
 	},
 	{
 		"name": "Pâte à tarte à l'huile d'olive",
-		"image": "images/pate-tarte.jpg",
+		"image": "images/pate-tarte-huile.jpg",
 		"ingredients": [
 			"200 g de farine",
 			"6,5 cl d'huile d'olive",
@@ -222,5 +222,19 @@
 			"1 pincée de sel"
 		],
 		"recette": "Dans un bol, verser la farine, l'huile, l'eau et une pincée de sel. Malaxer rapidement jusqu'à l'obtention d'une boule homogène."
+	},
+	{
+		"name": "Galette de tortillas",
+		"details": "(Pour 4 galettes)",
+		"image": "images/galette-fajitas.jpg",
+		"ingredients": [
+			"200 à 220 g de farine",
+			"12 cl de lait tiède",
+			"4 cl d'huile",
+			"¼ cuillère à soupe de sel",
+			"⅓ d'une grosse pincée de sucre",
+			"⅓ sachet de levure chimique"
+		],
+		"recette": "Mélanger la farine, le sel, le sucre et la levure chimique.\nCreuser un puits et ajouter petit à petit le lait tiède et l'huile.\nPétrir 5 minutes.\nCouvrir le récipient et laissez reposer la pâte 1 heure.\nSéparer la pâte en portions égales et étaler très finement avec un rouleau à pâtisserie.\nFaire chauffer une poêle (sans matière grasse) et y déposer la pâte étalée.\nRetourner la tortilla dès l'apparition de bulles.\nAttention de ne pas trop cuire les tortillas sinon elles deviennent cassantes sur les bords."
 	}
 ]
