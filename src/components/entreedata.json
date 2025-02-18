@@ -114,5 +114,45 @@
             "Herbes au choix (Provence, ciboulette...)"
         ],
         "recette": "Mélanger le chèvre avec les échalotes et les herbes, saler poivrer.\n\nFarcir les champignons et servir frais."
-    }
+    },
+    {
+		"name": "Houmous",
+		"image": "images/houmous.jpg",
+		"ingredients": [
+			"21 g de pâte de sésame = Tahini (sinon broyer 50% graines/huile de sésame)",
+			"1 petite gousse d'ail",
+			"3 g de cumin",
+			"½ ou ¼ de bouillon cube",
+			"15 g d'huile d'olive",
+			"1/2 jus de citron",
+			"200 g de pois chiches (conserver le jus)"
+		],
+		"recette": "Dans un blender, verser tous les ingrédients et mixer jusqu'à obtenir une pâte crémeuse souple. Si besoin, ajouter un peu d'eau de conserve des pois chiches. Au frais, le houmous s'épaissit."
+	},
+    {
+		"name": "Tzatziki",
+		"image": "images/tzatziki.jpg",
+		"ingredients": [
+			"1/2 concombre",
+			"200 g de yaourt",
+			"1/2 c. à soupe d'huile d'olive",
+			"1/2 c. à soupe de citron",
+			"1 c. à café d'aneth",
+			"1 petit gousse d'ail",
+			"Sel/poivre"
+		],
+		"recette": "Couper le concombre en petits dés. Mélanger avec le yaourt, l'huile d'olive, le citron, l'aneth, l'ail haché, le sel et le poivre."
+	},
+    {
+		"name": "Baba Ganoush (6 personnes)",
+		"image": "images/baba-ganoush.jpg",
+		"ingredients": [
+			"600 g de citrons jaunes",
+			"60 g de pâte de sésame tahini",
+			"40 g d'ail",
+			"1,2 kg d'aubergine",
+			"9 g de huile d'olive"
+		],
+		"recette": "Couper les aubergines en deux, les piquer et les inciser. Cuire au four à 200°C pendant 25 min. Retirer la chair, mixer avec les autres ingrédients et rectifier l'assaisonnement."
+	}
 ]

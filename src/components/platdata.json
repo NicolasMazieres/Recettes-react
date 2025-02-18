@@ -102,20 +102,6 @@
 		"recette": "Préchauffer à 210°C.\n\nFaire revenir les lardons et les oignons hachés sans matière grasse.\nAjouter l'échalote hachée.\n\nPendant ce temps faire cuire les pâtes à l'eau bouillante salée.\n\nDans la poêle des lardons, ajouter les champignons hachés, laisser cuire à feu doux 10 min.\n\nPréparer la béchamel en faisant fondre le beurre, ajouter d'un seul coup la farine, laisser sur le feu doux jusqu'à ce que ça bouillonne.\nHors du feu, ajouter le lait petit à petit en mélangeant vigoureusement au fouet.\nRemettre à chauffer pour épaissir.\nY ajouter le gruyère râpé, saler, poivrer et parfumer de muscade.\n\nMélanger ensemble la poêlée de lardons, les pâtes et la béchamel.\n\nMettre le tout dans un plat et enfourner 20 minutes."
 	},
 	{
-		"name": "Sauce salade César",
-		"image": "images/sauce-cesar.jpg",
-		"ingredients": [
-			"1 jaune d'oeuf",
-			"Sel, Poivre",
-			"Jus d'1/2 citron",
-			"Douzaine de câpres",
-			"1/2 gousse d'ail (petite)",
-			"1 cuillère à soupe d'huile d'olive",
-			"7 cl de crème fraîche liquide"
-		],
-		"recette": "Dans un saladier, mettre du sel, du poivre, un jaune d'oeuf, ajouter le jus d'1/2 citron.\nAjouter une douzaine de câpres hachés, une 1/2 gousse d'un petit ail hachée.\nAjouter une cuillère à soupe d'huile d'olive.\nPuis lier la sauce en ajoutant de la crème fraîche liquide.\n\nPour la garniture, ajouter à convenance : poulet, parmesan, bacon, etc."
-	},
-	{
 		"name": "Lasagne saumon épinards",
 		"image": "images/lasagne-saumon-epinards.jpg",
 		"ingredients": [
@@ -869,18 +855,6 @@
 			"120 g de persil plat"
 		],
 		"recette": "Mélanger farine, sucre, sel et levure. Ajouter le lait tiédi et pétrir. Laisser lever 1h30. Faire revenir les légumes, ajouter la viande et assaisonner. Former des triangles de pâte garnis et cuire 15 min à 200°C."
-	},
-	{
-		"name": "Baba Ganoush (6 personnes)",
-		"image": "images/baba-ganoush.jpg",
-		"ingredients": [
-			"600 g de citrons jaunes",
-			"60 g de pâte de sésame tahini",
-			"40 g d'ail",
-			"1,2 kg d'aubergine",
-			"9 g de huile d'olive"
-		],
-		"recette": "Couper les aubergines en deux, les piquer et les inciser. Cuire au four à 200°C pendant 25 min. Retirer la chair, mixer avec les autres ingrédients et rectifier l'assaisonnement."
 	},
 	{
 		"name": "Saumon bouillon thaï et riz basmati",

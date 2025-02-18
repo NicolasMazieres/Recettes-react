@@ -85,7 +85,6 @@ input {
   box-sizing: border-box;
   margin-top: 5%;
   font-size: 16px;
-  transform: scale(1);
 }
 
 .recipesDesign {
@@ -245,12 +244,12 @@ li {
   .nav-items {
     height: 50px;
     width: 100%;
-    border-bottom: 1px solid white;
     line-height: 50px;
+    background: #1B1212;
   }
 
-  .nav-items:nth-child(4) {
-    border-bottom: none;
+  .nav-items:nth-child(-n+5) {
+    border-bottom: 1px solid white;
   }
 
   .nav-button {

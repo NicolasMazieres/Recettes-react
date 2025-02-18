@@ -67,20 +67,6 @@
 		"recette": "Mélanger tous les ingrédients dans un bol jusqu'à obtenir une sauce homogène."
 	},
 	{
-		"name": "Tzatziki",
-		"image": "images/tzatziki.jpg",
-		"ingredients": [
-			"1/2 concombre",
-			"200 g de yaourt",
-			"1/2 c. à soupe d'huile d'olive",
-			"1/2 c. à soupe de citron",
-			"1 c. à café d'aneth",
-			"1 petit gousse d'ail",
-			"Sel/poivre"
-		],
-		"recette": "Couper le concombre en petits dés. Mélanger avec le yaourt, l'huile d'olive, le citron, l'aneth, l'ail haché, le sel et le poivre."
-	},
-	{
 		"name": "Sauce avocat yaourt",
 		"image": "images/sauce-avocat-yaourt.jpg",
 		"ingredients": [
@@ -107,20 +93,6 @@
 			"Origan"
 		],
 		"recette": "Mélanger tous les ingrédients dans un bol et ajuster l'assaisonnement."
-	},
-	{
-		"name": "Houmous",
-		"image": "images/houmous.jpg",
-		"ingredients": [
-			"21 g de pâte de sésame = Tahini (sinon broyer 50% graines/huile de sésame)",
-			"1 petite gousse d'ail",
-			"3 g de cumin",
-			"½ ou ¼ de bouillon cube",
-			"15 g d'huile d'olive",
-			"1/2 jus de citron",
-			"200 g de pois chiches (conserver le jus)"
-		],
-		"recette": "Dans un blender, verser tous les ingrédients et mixer jusqu'à obtenir une pâte crémeuse souple. Si besoin, ajouter un peu d'eau de conserve des pois chiches. Au frais, le houmous s'épaissit."
 	},
 	{
 		"name": "Pain pita (6 personnes)",
@@ -236,5 +208,19 @@
 			"⅓ sachet de levure chimique"
 		],
 		"recette": "Mélanger la farine, le sel, le sucre et la levure chimique.\nCreuser un puits et ajouter petit à petit le lait tiède et l'huile.\nPétrir 5 minutes.\nCouvrir le récipient et laissez reposer la pâte 1 heure.\nSéparer la pâte en portions égales et étaler très finement avec un rouleau à pâtisserie.\nFaire chauffer une poêle (sans matière grasse) et y déposer la pâte étalée.\nRetourner la tortilla dès l'apparition de bulles.\nAttention de ne pas trop cuire les tortillas sinon elles deviennent cassantes sur les bords."
+	},
+	{
+		"name": "Sauce salade César",
+		"image": "images/sauce-cesar.jpg",
+		"ingredients": [
+			"1 jaune d'oeuf",
+			"Sel, Poivre",
+			"Jus d'1/2 citron",
+			"Douzaine de câpres",
+			"1/2 gousse d'ail (petite)",
+			"1 cuillère à soupe d'huile d'olive",
+			"7 cl de crème fraîche liquide"
+		],
+		"recette": "Dans un saladier, mettre du sel, du poivre, un jaune d'oeuf, ajouter le jus d'1/2 citron.\nAjouter une douzaine de câpres hachés, une 1/2 gousse d'un petit ail hachée.\nAjouter une cuillère à soupe d'huile d'olive.\nPuis lier la sauce en ajoutant de la crème fraîche liquide.\n\nPour la garniture, ajouter à convenance : poulet, parmesan, bacon, etc."
 	}
 ]
