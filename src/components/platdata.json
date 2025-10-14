@@ -102,20 +102,38 @@
 		"recette": "Préchauffer à 210°C.\n\nFaire revenir les lardons et les oignons hachés sans matière grasse.\nAjouter l'échalote hachée.\n\nPendant ce temps faire cuire les pâtes à l'eau bouillante salée.\n\nDans la poêle des lardons, ajouter les champignons hachés, laisser cuire à feu doux 10 min.\n\nPréparer la béchamel en faisant fondre le beurre, ajouter d'un seul coup la farine, laisser sur le feu doux jusqu'à ce que ça bouillonne.\nHors du feu, ajouter le lait petit à petit en mélangeant vigoureusement au fouet.\nRemettre à chauffer pour épaissir.\nY ajouter le gruyère râpé, saler, poivrer et parfumer de muscade.\n\nMélanger ensemble la poêlée de lardons, les pâtes et la béchamel.\n\nMettre le tout dans un plat et enfourner 20 minutes."
 	},
 	{
-		"name": "Lasagne saumon épinards",
+		"name": "Lasagnes saumon épinards",
 		"image": "images/lasagne-saumon-epinards.jpg",
 		"ingredients": [
 			"200g de saumon",
-			"1 barquette Findus d'épinards hachés à la crème surgelés (environ 200g)",
-			"20 ci de crème fraîche liquide",
+			"300-400g d'épinards surgelés",
+			"20 cl de crème fraîche liquide",
 			"50g de farine",
 			"30g de beurre",
-			"1 paquet de lasagne fraîches",
-			"Lait (environ 200ml pour faire une béchamel liquide)",
+			"1 paquet de lasagnes",
+			"Lait (environ 200-300ml pour faire une béchamel liquide)",
 			"Fromage râpé",
 			"Sel, poivre"
 		],
-		"recette": "Préchauffer le four à 180°C.\n\nFaire cuire rapidement le saumon pour l'émietter.\nFaire la béchamel et y ajouter les épinards et le saumon.\n\nRemplir le fond du plat avec la pâte des lasagnes, ajouter la préparation et renouveler l'opération plusieurs fois (environ 3 fois) et finir par la préparation.\nSaupoudrer de fromage râpé et enfourner pendant 30 min."
+		"recette": "Préchauffer le four à 180°C.\n\nFaire cuire rapidement le saumon pour l'émietter.\nFaire la béchamel (faire fondre le beurre à la casserole puis ajouter la farine. En remuant, rajouter ensuite la crème et/ou le lait jusqu'à ce que ça épaississe) et y ajouter les épinards et le saumon.\n\nRemplir le fond du plat avec la pâte des lasagnes, ajouter la préparation et renouveler l'opération plusieurs fois (environ 3 fois) et finir par la préparation.\nSaupoudrer de fromage râpé et enfourner pendant 30 min."
+	},
+		{
+		"name": "Lasagnes ricotta épinards",
+		"image": "images/lasagne-ricotta-epinards.jpg",
+		"ingredients": [
+			"300-400g d'épinards surgelés",
+			"Pesto vert",
+			"180g de ricotta",
+			"1 paquet de lasagnes",
+			"50g de farine",
+			"50g de beurre",
+			"60 cl Lait",
+			"Fromage râpé",
+			"Parmesan",
+			"Huile d'olive",
+			"Sel, poivre et muscade"
+		],
+		"recette": "Préchauffer le four à 180°C.\n\nFaire revenir les épinards avec un peu de pesto vert.\nFaire la béchamel (faire fondre le beurre à la casserole puis ajouter la farine. En remuant, rajouter ensuite la crème et/ou le lait jusqu'à ce que ça épaississe) et y ajouter la ricotta.\n\nRemplir le fond du plat avec de l'huile d'olive puis la pâte des lasagnes, les épinards, la béchamel et un peu de fromage râpé.\nRenouveler l'opération plusieurs fois (environ 3 fois) et finir avec un dernière couche béchamel, fromage râpé et parmesan.\nEnfourner pendant 30 min environ."
 	},
 	{
 		"name": "Gratin de poissons au four",
@@ -130,20 +148,6 @@
 			"Court bouillon"
 		],
 		"recette": "Cuire les filets de sole enroulés sur des pics en bois au court-bouillon frémissant pendant 5 min.\nLes mettre dans un plat à gratin en enlevant les pics, ajouter des crevettes décortiquées et quelques moules.\n\nFaire une béchamel avec l'eau du court bouillon au lieu du lait.\nAjouter un peu de crème fraîche.\n\nVerser dans le plat, ajouter de la chapelure et du fromage râpé sur le dessus.\n\nMettre au four à 180°C pendant 30 min."
-	},
-	{
-		"name": "Sauce aile de raie",
-		"image": "images/sauce-raie.jpg",
-		"ingredients": [
-			"1 grosse échalote",
-			"30g de beurre",
-			"1 cuillère à soupe de farine",
-			"100 à 150 mL du court-bouillon qui a servi à faire cuire la raie",
-			"1 pincée persil",
-			"1 cuillère à soupe de crème fraîche",
-			"Sel, Poivre"
-		],
-		"recette": "Émincer l'échalote, la faire blanchir dans le beurre.\n\nAjouter la farine, laisser mousser puis sortir du feu.\nAjouter petit à petit l'eau du court-bouillon.\n\nAssaisonner ajouter la crème fraîche."
 	},
 	{
 		"name": "Risotto aux champignons",
@@ -928,7 +932,7 @@
 			"25 cl de lait entier",
 			"60 g de parmesan râpé"
 		],
-		"recette": "Faire revenir les oignons et l'ail dans un fond d'huile. Ajouter les carottes puis les champignons. Ajouter ensuite la viande et attendre qu'elle perde sa couleur rosée. Ajouter le vin blanc et attendre que l'eau s'évapore. Ensuite ajouter le coulis de tomate et laisser mijoter au moins une heure à feu doux. Assaisonner."
+		"recette": "Faire revenir les oignons et l'ail dans un fond d'huile. Ajouter les carottes puis les champignons. Ajouter ensuite la viande et attendre qu'elle perde sa couleur rosée. Ajouter le vin blanc et attendre que l'eau s'évapore. Ensuite ajouter le coulis de tomate et laisser mijoter au moins une heure à feu doux. Assaisonner. Cuire environ 30 min à 180°C."
 	},
 	{
 		"name": "Pâtes à la truffe",
@@ -971,5 +975,40 @@
 			"1 grosse pincée de sel"
 		],
 		"recette": "Mettre les pommes de terre avec leur peau dans une casserole remplie d'eau froide avec du gros sel. Cuire 20/25 min à couvert après ébullition (une lame de couteau doit rentrer facilement dans les pommes de terre). Laisser refroidir quelques minutes, éplucher les pommes de terre encore chaudes puis les réduire en purée (faire avec un fouet si on a pas de presse purée). Creuser un puits et y ajouter le parmesan, le sel et le jaune d'oeuf, battre rapidement pour que le jaune ne cuise pas. Ajouter ensuite la farine petit à petit en mélangeant d'abord à la cuillère en bois puis quand cela devient trop difficile, avec les doigts. Dès que cela est possible, travailler la pâte sur un plan fariné, séparer le pâton obtenu en trois. Réaliser des boudins réguliers de deux centimètres de diamètre environ. Couper tous les deux centimètres, rouler des petites boules et rouler ces boules sur une fourchette en appuyant pour obtenir la forme des gnocchis. Verser les gnocchis dans de l'eau bouillante salée, les gnocchis sont cuits quand ils remontent à la surface, les égoutter. Faire dorer les gnocchis dans une poêle beurrée pour qu'ils soient croustillants."
+	},
+	{
+  		"name": "Tarte pommes et camembert",
+		"image": "images/tarte-pommes-camembert.jpg",
+		"ingredients": [
+			"170g de farine",
+			"100g de beurre",
+			"1 pincée de fleur de sel",
+			"30g de poudre d'amande",
+			"40g d'eau",
+			"4 pommes Pink Lady",
+			"50g de beurre",
+			"1 càs de sucre",
+			"1 pincée de fleur de sel et poivre",
+			"3 càs de vinaigre balsamique",
+			"1 camembert"
+		],
+		"recette": "Mélanger la farine avec le beurre du bout des doigts pour obtenir un sable. Ajouter la poudre d'amande, le sel puis l'eau. Pétrir rapidement, former une boule et laisser reposer. Évider les pommes et les couper en 8 sans les peler. Faire fondre le beurre dans une poêle, ajouter les pommes, le sucre et l'assaisonnement. Cuire à feu moyen jusqu'à légère coloration. Déglacer avec le vinaigre balsamique. Préchauffer le four à 180°C. Étaler la pâte, disposer les pommes dans un moule et recouvrir de pâte en scellant les bords comme pour une tarte tatin. Cuire 30 minutes. Ajouter le camembert coupé en lamelles et enfourner 5 minutes supplémentaires. Déguster chaud avec des noix torréfiées et une salade de roquette."
+	},
+	{
+  		"name": "Clafoutis aux courgettes",
+		"image": "images/clafoutis-courgettes.jpg",
+		"ingredients": [
+			"3 courgettes moyennes",
+			"1 oignon",
+			"3 oeufs",
+			"1 càs d'huile d'olive",
+			"50 g de farine",
+			"200 mL de lait",
+			"115 g de fromage de chèvre ou feta",
+			"115 g de fromage râpé",
+			"Thym et basilic",
+			"Sel et poivre"
+		],
+		"recette": "Préchauffer le four à 80°C et beurrer un plat à tarte.\nEmincer l'oignon, rincer les courgettes et les couper en lamelles ou dés selon préférence.\nDans une poële, faire revenir l'oignon et les courgettes dans un peu d'huile d'olive jusqu'à ce que le tout soit bien doré.\n\nPendant la cuisson des courgettes, mélanger au fouet la farine, les oeufs et le lait dans un saladier.\nIncorporer ensuite les fromages à la préparation (chèvre coupé en dés et fromage râpé).\nAjouter enfin les courgettes et l'oignons cuits, ainsi que les herbes. Saler et poivrer.\n\nVerser le tout dans le plat beurré, puis enfourner 35 min environ à 180°C, jusqu'à ce que le clafoutis soit bien doré en surface."
 	}
 ]

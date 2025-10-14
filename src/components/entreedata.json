@@ -43,13 +43,14 @@
         "image":"images/soupe-de-courgette.jpg",
         "ingredients": [
             "800 g de courgette",
+            "1 pomme de terre",
             "2 oignons",
             "Persil",
             "1 bouillon de volaille",
             "20 cl de crème liquide",
             "Sel, Poivre"
         ],
-        "recette": "Pelez les oignons, puis émincez-les.\nRincez les courgettes, sans les peler et découpez-les en dés.\nPréparez le bouillon en faisant dissoudre la plaquette dans 3/4 de litre d'eau très chaude.\n\nDans une cocotte, chauffez 2 cuillères à soupe d'huile d'olive, puis faites-y blondir les oignons.\n\nAjoutez ensuite les dés de courgettes, mélangez, salez et poivrez, puis arrosez avec le bouillon.\n\nLaissez cuire 20 min à couvert, sur feu doux.\n\nQuand la soupe est cuite, mixez-la, vous devez obtenir un velouté."
+        "recette": "Pelez les oignons, puis émincez-les.\nRincez les courgettes, sans les peler et découpez-les en dés, ainsi que la pomme de terre.\nPréparez le bouillon en faisant dissoudre la plaquette dans 3/4 de litre d'eau très chaude.\n\nDans une cocotte, chauffez 2 cuillères à soupe d'huile d'olive, puis faites-y blondir les oignons.\n\nAjoutez ensuite les dés de courgettes, la pomme de terre, mélangez, salez et poivrez, puis arrosez avec le bouillon.\n\nLaissez cuire 20 min à couvert, sur feu doux.\n\nQuand la soupe est cuite, mixez-la, vous devez obtenir un velouté."
     },
     {
         "name": "Soupe au potimarron",

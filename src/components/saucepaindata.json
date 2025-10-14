@@ -210,6 +210,20 @@
 		"recette": "Mélanger la farine, le sel, le sucre et la levure chimique.\nCreuser un puits et ajouter petit à petit le lait tiède et l'huile.\nPétrir 5 minutes.\nCouvrir le récipient et laissez reposer la pâte 1 heure.\nSéparer la pâte en portions égales et étaler très finement avec un rouleau à pâtisserie.\nFaire chauffer une poêle (sans matière grasse) et y déposer la pâte étalée.\nRetourner la tortilla dès l'apparition de bulles.\nAttention de ne pas trop cuire les tortillas sinon elles deviennent cassantes sur les bords."
 	},
 	{
+		"name": "Sauce aile de raie",
+		"image": "images/sauce-raie.jpg",
+		"ingredients": [
+			"1 grosse échalote",
+			"30g de beurre",
+			"1 cuillère à soupe de farine",
+			"100 à 150 mL du court-bouillon qui a servi à faire cuire la raie",
+			"1 pincée persil",
+			"1 cuillère à soupe de crème fraîche",
+			"Sel, Poivre"
+		],
+		"recette": "Émincer l'échalote, la faire blanchir dans le beurre.\n\nAjouter la farine, laisser mousser puis sortir du feu.\nAjouter petit à petit l'eau du court-bouillon.\n\nAssaisonner ajouter la crème fraîche."
+	},
+	{
 		"name": "Sauce salade César",
 		"image": "images/sauce-cesar.jpg",
 		"ingredients": [

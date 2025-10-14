@@ -159,7 +159,7 @@
 		"ingredients": [
 			"125 g de farine",
 			"15 g de sucre semoule",
-			"1 oeufs",
+			"1 oeuf",
 			"1/2 sachet de levure",
 			"30 g de beurre",
 			"1 pincée de sel",
@@ -741,7 +741,7 @@
 		"recette": "Préchauffer le four à 180°C.\n\nFaire fondre le chocolat avec le beurre.\n\nDans un saladier, blanchir les oeufs avec le sucre.\n\nIncorporer la farine, puis ajouter le mélange chocolat-beurre.\n\nVerser la préparation dans un moule chemisé.\n\nEnfourner pendant 20 minutes."
 	},
 	{
-		"name": "Tarte au citron meringuée",
+		"name": "Tarte au citron meringuée Maman",
 		"image": "images/tarte-citron.jpg",
 		"ingredients": [
 			"Pâte à tarte sucrée :",
@@ -750,11 +750,14 @@
 			"60 g de sucre",
 			"1 oeuf",
 			"1 pincée de sel",
+			"",
 			"Crème au citron :",
 			"3 oeufs",
 			"150 g de sucre",
 			"1 cuillère à soupe de Maïzena",
 			"25 g de beurre",
+			"3 citrons",
+			"",
 			"Meringue :",
 			"2 blancs d'oeufs",
 			"75 g de sucre glace",
